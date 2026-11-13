@@ -1,0 +1,2401 @@
+Student_ID,Student_Name,Department,Batch,Semester,Attendance_Percentage,Study_Hours,Subject,Marks,Maximum_Marks
+STU1001,Amina Ali,Computer Science,2023-2027,1,67,1.2,Programming,55,100
+STU1001,Amina Ali,Computer Science,2023-2027,1,67,1.2,Data Structures,48,100
+STU1001,Amina Ali,Computer Science,2023-2027,1,67,1.2,Mathematics,38,100
+STU1001,Amina Ali,Computer Science,2023-2027,1,67,1.2,Database Systems,42,100
+STU1001,Amina Ali,Computer Science,2023-2027,1,67,1.2,Computer Networks,53,100
+STU1001,Amina Ali,Computer Science,2023-2027,2,80,3.7,Programming,65,100
+STU1001,Amina Ali,Computer Science,2023-2027,2,80,3.7,Data Structures,54,100
+STU1001,Amina Ali,Computer Science,2023-2027,2,80,3.7,Mathematics,45,100
+STU1001,Amina Ali,Computer Science,2023-2027,2,80,3.7,Database Systems,64,100
+STU1001,Amina Ali,Computer Science,2023-2027,2,80,3.7,Computer Networks,55,100
+STU1001,Amina Ali,Computer Science,2023-2027,3,67,1.9,Programming,61,100
+STU1001,Amina Ali,Computer Science,2023-2027,3,67,1.9,Data Structures,54,100
+STU1001,Amina Ali,Computer Science,2023-2027,3,67,1.9,Mathematics,52,100
+STU1001,Amina Ali,Computer Science,2023-2027,3,67,1.9,Database Systems,45,100
+STU1001,Amina Ali,Computer Science,2023-2027,3,67,1.9,Computer Networks,40,100
+STU1001,Amina Ali,Computer Science,2023-2027,4,69,2.9,Programming,56,100
+STU1001,Amina Ali,Computer Science,2023-2027,4,69,2.9,Data Structures,62,100
+STU1001,Amina Ali,Computer Science,2023-2027,4,69,2.9,Mathematics,51,100
+STU1001,Amina Ali,Computer Science,2023-2027,4,69,2.9,Database Systems,45,100
+STU1001,Amina Ali,Computer Science,2023-2027,4,69,2.9,Computer Networks,47,100
+STU1002,Rinsha Ibrahim,Electronics,2023-2027,1,71,2.9,Circuit Theory,55,100
+STU1002,Rinsha Ibrahim,Electronics,2023-2027,1,71,2.9,Digital Electronics,70,100
+STU1002,Rinsha Ibrahim,Electronics,2023-2027,1,71,2.9,Mathematics,65,100
+STU1002,Rinsha Ibrahim,Electronics,2023-2027,1,71,2.9,Signals and Systems,61,100
+STU1002,Rinsha Ibrahim,Electronics,2023-2027,1,71,2.9,Microprocessors,62,100
+STU1002,Rinsha Ibrahim,Electronics,2023-2027,2,70,1.7,Circuit Theory,41,100
+STU1002,Rinsha Ibrahim,Electronics,2023-2027,2,70,1.7,Digital Electronics,41,100
+STU1002,Rinsha Ibrahim,Electronics,2023-2027,2,70,1.7,Mathematics,53,100
+STU1002,Rinsha Ibrahim,Electronics,2023-2027,2,70,1.7,Signals and Systems,64,100
+STU1002,Rinsha Ibrahim,Electronics,2023-2027,2,70,1.7,Microprocessors,52,100
+STU1002,Rinsha Ibrahim,Electronics,2023-2027,3,70,2.6,Circuit Theory,56,100
+STU1002,Rinsha Ibrahim,Electronics,2023-2027,3,70,2.6,Digital Electronics,51,100
+STU1002,Rinsha Ibrahim,Electronics,2023-2027,3,70,2.6,Mathematics,63,100
+STU1002,Rinsha Ibrahim,Electronics,2023-2027,3,70,2.6,Signals and Systems,58,100
+STU1002,Rinsha Ibrahim,Electronics,2023-2027,3,70,2.6,Microprocessors,67,100
+STU1002,Rinsha Ibrahim,Electronics,2023-2027,4,65,1.4,Circuit Theory,66,100
+STU1002,Rinsha Ibrahim,Electronics,2023-2027,4,65,1.4,Digital Electronics,67,100
+STU1002,Rinsha Ibrahim,Electronics,2023-2027,4,65,1.4,Mathematics,51,100
+STU1002,Rinsha Ibrahim,Electronics,2023-2027,4,65,1.4,Signals and Systems,50,100
+STU1002,Rinsha Ibrahim,Electronics,2023-2027,4,65,1.4,Microprocessors,64,100
+STU1003,Kavya Mohan,Mechanical,2023-2027,1,67,1.3,Thermodynamics,44,100
+STU1003,Kavya Mohan,Mechanical,2023-2027,1,67,1.3,Fluid Mechanics,43,100
+STU1003,Kavya Mohan,Mechanical,2023-2027,1,67,1.3,Mathematics,47,100
+STU1003,Kavya Mohan,Mechanical,2023-2027,1,67,1.3,Machine Design,56,100
+STU1003,Kavya Mohan,Mechanical,2023-2027,1,67,1.3,Manufacturing,45,100
+STU1003,Kavya Mohan,Mechanical,2023-2027,2,59,1.8,Thermodynamics,42,100
+STU1003,Kavya Mohan,Mechanical,2023-2027,2,59,1.8,Fluid Mechanics,39,100
+STU1003,Kavya Mohan,Mechanical,2023-2027,2,59,1.8,Mathematics,42,100
+STU1003,Kavya Mohan,Mechanical,2023-2027,2,59,1.8,Machine Design,46,100
+STU1003,Kavya Mohan,Mechanical,2023-2027,2,59,1.8,Manufacturing,56,100
+STU1003,Kavya Mohan,Mechanical,2023-2027,3,63,1.2,Thermodynamics,40,100
+STU1003,Kavya Mohan,Mechanical,2023-2027,3,63,1.2,Fluid Mechanics,50,100
+STU1003,Kavya Mohan,Mechanical,2023-2027,3,63,1.2,Mathematics,47,100
+STU1003,Kavya Mohan,Mechanical,2023-2027,3,63,1.2,Machine Design,53,100
+STU1003,Kavya Mohan,Mechanical,2023-2027,3,63,1.2,Manufacturing,41,100
+STU1003,Kavya Mohan,Mechanical,2023-2027,4,64,1.7,Thermodynamics,47,100
+STU1003,Kavya Mohan,Mechanical,2023-2027,4,64,1.7,Fluid Mechanics,37,100
+STU1003,Kavya Mohan,Mechanical,2023-2027,4,64,1.7,Mathematics,46,100
+STU1003,Kavya Mohan,Mechanical,2023-2027,4,64,1.7,Machine Design,47,100
+STU1003,Kavya Mohan,Mechanical,2023-2027,4,64,1.7,Manufacturing,65,100
+STU1004,Amina Krishnan,Civil,2023-2027,1,90,3.2,Surveying,85,100
+STU1004,Amina Krishnan,Civil,2023-2027,1,90,3.2,Structural Analysis,92,100
+STU1004,Amina Krishnan,Civil,2023-2027,1,90,3.2,Mathematics,99,100
+STU1004,Amina Krishnan,Civil,2023-2027,1,90,3.2,Concrete Technology,84,100
+STU1004,Amina Krishnan,Civil,2023-2027,1,90,3.2,Geotechnics,84,100
+STU1004,Amina Krishnan,Civil,2023-2027,2,87,3.1,Surveying,81,100
+STU1004,Amina Krishnan,Civil,2023-2027,2,87,3.1,Structural Analysis,78,100
+STU1004,Amina Krishnan,Civil,2023-2027,2,87,3.1,Mathematics,84,100
+STU1004,Amina Krishnan,Civil,2023-2027,2,87,3.1,Concrete Technology,71,100
+STU1004,Amina Krishnan,Civil,2023-2027,2,87,3.1,Geotechnics,73,100
+STU1004,Amina Krishnan,Civil,2023-2027,3,93,4.0,Surveying,100,100
+STU1004,Amina Krishnan,Civil,2023-2027,3,93,4.0,Structural Analysis,100,100
+STU1004,Amina Krishnan,Civil,2023-2027,3,93,4.0,Mathematics,92,100
+STU1004,Amina Krishnan,Civil,2023-2027,3,93,4.0,Concrete Technology,98,100
+STU1004,Amina Krishnan,Civil,2023-2027,3,93,4.0,Geotechnics,100,100
+STU1004,Amina Krishnan,Civil,2023-2027,4,93,4.3,Surveying,100,100
+STU1004,Amina Krishnan,Civil,2023-2027,4,93,4.3,Structural Analysis,100,100
+STU1004,Amina Krishnan,Civil,2023-2027,4,93,4.3,Mathematics,97,100
+STU1004,Amina Krishnan,Civil,2023-2027,4,93,4.3,Concrete Technology,99,100
+STU1004,Amina Krishnan,Civil,2023-2027,4,93,4.3,Geotechnics,89,100
+STU1005,Basil Menon,Computer Science,2023-2027,1,74,2.1,Programming,64,100
+STU1005,Basil Menon,Computer Science,2023-2027,1,74,2.1,Data Structures,68,100
+STU1005,Basil Menon,Computer Science,2023-2027,1,74,2.1,Mathematics,61,100
+STU1005,Basil Menon,Computer Science,2023-2027,1,74,2.1,Database Systems,63,100
+STU1005,Basil Menon,Computer Science,2023-2027,1,74,2.1,Computer Networks,60,100
+STU1005,Basil Menon,Computer Science,2023-2027,2,71,2.6,Programming,60,100
+STU1005,Basil Menon,Computer Science,2023-2027,2,71,2.6,Data Structures,78,100
+STU1005,Basil Menon,Computer Science,2023-2027,2,71,2.6,Mathematics,74,100
+STU1005,Basil Menon,Computer Science,2023-2027,2,71,2.6,Database Systems,64,100
+STU1005,Basil Menon,Computer Science,2023-2027,2,71,2.6,Computer Networks,55,100
+STU1005,Basil Menon,Computer Science,2023-2027,3,76,2.3,Programming,62,100
+STU1005,Basil Menon,Computer Science,2023-2027,3,76,2.3,Data Structures,44,100
+STU1005,Basil Menon,Computer Science,2023-2027,3,76,2.3,Mathematics,65,100
+STU1005,Basil Menon,Computer Science,2023-2027,3,76,2.3,Database Systems,61,100
+STU1005,Basil Menon,Computer Science,2023-2027,3,76,2.3,Computer Networks,49,100
+STU1005,Basil Menon,Computer Science,2023-2027,4,74,2.3,Programming,57,100
+STU1005,Basil Menon,Computer Science,2023-2027,4,74,2.3,Data Structures,59,100
+STU1005,Basil Menon,Computer Science,2023-2027,4,74,2.3,Mathematics,58,100
+STU1005,Basil Menon,Computer Science,2023-2027,4,74,2.3,Database Systems,61,100
+STU1005,Basil Menon,Computer Science,2023-2027,4,74,2.3,Computer Networks,71,100
+STU1006,Meera Babu,Electronics,2023-2027,1,53,0.6,Circuit Theory,21,100
+STU1006,Meera Babu,Electronics,2023-2027,1,53,0.6,Digital Electronics,10,100
+STU1006,Meera Babu,Electronics,2023-2027,1,53,0.6,Mathematics,27,100
+STU1006,Meera Babu,Electronics,2023-2027,1,53,0.6,Signals and Systems,38,100
+STU1006,Meera Babu,Electronics,2023-2027,1,53,0.6,Microprocessors,12,100
+STU1006,Meera Babu,Electronics,2023-2027,2,54,0.7,Circuit Theory,20,100
+STU1006,Meera Babu,Electronics,2023-2027,2,54,0.7,Digital Electronics,26,100
+STU1006,Meera Babu,Electronics,2023-2027,2,54,0.7,Mathematics,39,100
+STU1006,Meera Babu,Electronics,2023-2027,2,54,0.7,Signals and Systems,33,100
+STU1006,Meera Babu,Electronics,2023-2027,2,54,0.7,Microprocessors,42,100
+STU1006,Meera Babu,Electronics,2023-2027,3,57,1.7,Circuit Theory,35,100
+STU1006,Meera Babu,Electronics,2023-2027,3,57,1.7,Digital Electronics,38,100
+STU1006,Meera Babu,Electronics,2023-2027,3,57,1.7,Mathematics,29,100
+STU1006,Meera Babu,Electronics,2023-2027,3,57,1.7,Signals and Systems,32,100
+STU1006,Meera Babu,Electronics,2023-2027,3,57,1.7,Microprocessors,26,100
+STU1006,Meera Babu,Electronics,2023-2027,4,50,1.1,Circuit Theory,27,100
+STU1006,Meera Babu,Electronics,2023-2027,4,50,1.1,Digital Electronics,38,100
+STU1006,Meera Babu,Electronics,2023-2027,4,50,1.1,Mathematics,35,100
+STU1006,Meera Babu,Electronics,2023-2027,4,50,1.1,Signals and Systems,43,100
+STU1006,Meera Babu,Electronics,2023-2027,4,50,1.1,Microprocessors,35,100
+STU1007,Shifana Ali,Mechanical,2023-2027,1,57,1.1,Thermodynamics,51,100
+STU1007,Shifana Ali,Mechanical,2023-2027,1,57,1.1,Fluid Mechanics,44,100
+STU1007,Shifana Ali,Mechanical,2023-2027,1,57,1.1,Mathematics,34,100
+STU1007,Shifana Ali,Mechanical,2023-2027,1,57,1.1,Machine Design,31,100
+STU1007,Shifana Ali,Mechanical,2023-2027,1,57,1.1,Manufacturing,40,100
+STU1007,Shifana Ali,Mechanical,2023-2027,2,56,1.3,Thermodynamics,45,100
+STU1007,Shifana Ali,Mechanical,2023-2027,2,56,1.3,Fluid Mechanics,41,100
+STU1007,Shifana Ali,Mechanical,2023-2027,2,56,1.3,Mathematics,17,100
+STU1007,Shifana Ali,Mechanical,2023-2027,2,56,1.3,Machine Design,38,100
+STU1007,Shifana Ali,Mechanical,2023-2027,2,56,1.3,Manufacturing,36,100
+STU1007,Shifana Ali,Mechanical,2023-2027,3,69,0.5,Thermodynamics,37,100
+STU1007,Shifana Ali,Mechanical,2023-2027,3,69,0.5,Fluid Mechanics,46,100
+STU1007,Shifana Ali,Mechanical,2023-2027,3,69,0.5,Mathematics,29,100
+STU1007,Shifana Ali,Mechanical,2023-2027,3,69,0.5,Machine Design,54,100
+STU1007,Shifana Ali,Mechanical,2023-2027,3,69,0.5,Manufacturing,45,100
+STU1007,Shifana Ali,Mechanical,2023-2027,4,61,1.9,Thermodynamics,53,100
+STU1007,Shifana Ali,Mechanical,2023-2027,4,61,1.9,Fluid Mechanics,46,100
+STU1007,Shifana Ali,Mechanical,2023-2027,4,61,1.9,Mathematics,46,100
+STU1007,Shifana Ali,Mechanical,2023-2027,4,61,1.9,Machine Design,46,100
+STU1007,Shifana Ali,Mechanical,2023-2027,4,61,1.9,Manufacturing,37,100
+STU1008,Sreenath Ali,Civil,2023-2027,1,76,3.0,Surveying,55,100
+STU1008,Sreenath Ali,Civil,2023-2027,1,76,3.0,Structural Analysis,62,100
+STU1008,Sreenath Ali,Civil,2023-2027,1,76,3.0,Mathematics,75,100
+STU1008,Sreenath Ali,Civil,2023-2027,1,76,3.0,Concrete Technology,57,100
+STU1008,Sreenath Ali,Civil,2023-2027,1,76,3.0,Geotechnics,57,100
+STU1008,Sreenath Ali,Civil,2023-2027,2,79,2.5,Surveying,75,100
+STU1008,Sreenath Ali,Civil,2023-2027,2,79,2.5,Structural Analysis,71,100
+STU1008,Sreenath Ali,Civil,2023-2027,2,79,2.5,Mathematics,71,100
+STU1008,Sreenath Ali,Civil,2023-2027,2,79,2.5,Concrete Technology,68,100
+STU1008,Sreenath Ali,Civil,2023-2027,2,79,2.5,Geotechnics,83,100
+STU1008,Sreenath Ali,Civil,2023-2027,3,66,3.2,Surveying,58,100
+STU1008,Sreenath Ali,Civil,2023-2027,3,66,3.2,Structural Analysis,63,100
+STU1008,Sreenath Ali,Civil,2023-2027,3,66,3.2,Mathematics,72,100
+STU1008,Sreenath Ali,Civil,2023-2027,3,66,3.2,Concrete Technology,49,100
+STU1008,Sreenath Ali,Civil,2023-2027,3,66,3.2,Geotechnics,52,100
+STU1008,Sreenath Ali,Civil,2023-2027,4,68,2.4,Surveying,61,100
+STU1008,Sreenath Ali,Civil,2023-2027,4,68,2.4,Structural Analysis,59,100
+STU1008,Sreenath Ali,Civil,2023-2027,4,68,2.4,Mathematics,45,100
+STU1008,Sreenath Ali,Civil,2023-2027,4,68,2.4,Concrete Technology,38,100
+STU1008,Sreenath Ali,Civil,2023-2027,4,68,2.4,Geotechnics,57,100
+STU1009,Midhun Pillai,Computer Science,2023-2027,1,76,2.4,Programming,66,100
+STU1009,Midhun Pillai,Computer Science,2023-2027,1,76,2.4,Data Structures,62,100
+STU1009,Midhun Pillai,Computer Science,2023-2027,1,76,2.4,Mathematics,64,100
+STU1009,Midhun Pillai,Computer Science,2023-2027,1,76,2.4,Database Systems,54,100
+STU1009,Midhun Pillai,Computer Science,2023-2027,1,76,2.4,Computer Networks,59,100
+STU1009,Midhun Pillai,Computer Science,2023-2027,2,75,2.1,Programming,63,100
+STU1009,Midhun Pillai,Computer Science,2023-2027,2,75,2.1,Data Structures,56,100
+STU1009,Midhun Pillai,Computer Science,2023-2027,2,75,2.1,Mathematics,58,100
+STU1009,Midhun Pillai,Computer Science,2023-2027,2,75,2.1,Database Systems,65,100
+STU1009,Midhun Pillai,Computer Science,2023-2027,2,75,2.1,Computer Networks,43,100
+STU1009,Midhun Pillai,Computer Science,2023-2027,3,63,0.8,Programming,45,100
+STU1009,Midhun Pillai,Computer Science,2023-2027,3,63,0.8,Data Structures,56,100
+STU1009,Midhun Pillai,Computer Science,2023-2027,3,63,0.8,Mathematics,48,100
+STU1009,Midhun Pillai,Computer Science,2023-2027,3,63,0.8,Database Systems,52,100
+STU1009,Midhun Pillai,Computer Science,2023-2027,3,63,0.8,Computer Networks,59,100
+STU1009,Midhun Pillai,Computer Science,2023-2027,4,74,3.2,Programming,65,100
+STU1009,Midhun Pillai,Computer Science,2023-2027,4,74,3.2,Data Structures,57,100
+STU1009,Midhun Pillai,Computer Science,2023-2027,4,74,3.2,Mathematics,59,100
+STU1009,Midhun Pillai,Computer Science,2023-2027,4,74,3.2,Database Systems,52,100
+STU1009,Midhun Pillai,Computer Science,2023-2027,4,74,3.2,Computer Networks,57,100
+STU1010,Yadhu Rahman,Electronics,2023-2027,1,81,1.8,Circuit Theory,66,100
+STU1010,Yadhu Rahman,Electronics,2023-2027,1,81,1.8,Digital Electronics,54,100
+STU1010,Yadhu Rahman,Electronics,2023-2027,1,81,1.8,Mathematics,66,100
+STU1010,Yadhu Rahman,Electronics,2023-2027,1,81,1.8,Signals and Systems,61,100
+STU1010,Yadhu Rahman,Electronics,2023-2027,1,81,1.8,Microprocessors,48,100
+STU1010,Yadhu Rahman,Electronics,2023-2027,2,72,2.2,Circuit Theory,54,100
+STU1010,Yadhu Rahman,Electronics,2023-2027,2,72,2.2,Digital Electronics,57,100
+STU1010,Yadhu Rahman,Electronics,2023-2027,2,72,2.2,Mathematics,66,100
+STU1010,Yadhu Rahman,Electronics,2023-2027,2,72,2.2,Signals and Systems,61,100
+STU1010,Yadhu Rahman,Electronics,2023-2027,2,72,2.2,Microprocessors,65,100
+STU1010,Yadhu Rahman,Electronics,2023-2027,3,79,2.2,Circuit Theory,50,100
+STU1010,Yadhu Rahman,Electronics,2023-2027,3,79,2.2,Digital Electronics,70,100
+STU1010,Yadhu Rahman,Electronics,2023-2027,3,79,2.2,Mathematics,59,100
+STU1010,Yadhu Rahman,Electronics,2023-2027,3,79,2.2,Signals and Systems,70,100
+STU1010,Yadhu Rahman,Electronics,2023-2027,3,79,2.2,Microprocessors,64,100
+STU1010,Yadhu Rahman,Electronics,2023-2027,4,74,3.3,Circuit Theory,77,100
+STU1010,Yadhu Rahman,Electronics,2023-2027,4,74,3.3,Digital Electronics,61,100
+STU1010,Yadhu Rahman,Electronics,2023-2027,4,74,3.3,Mathematics,62,100
+STU1010,Yadhu Rahman,Electronics,2023-2027,4,74,3.3,Signals and Systems,69,100
+STU1010,Yadhu Rahman,Electronics,2023-2027,4,74,3.3,Microprocessors,54,100
+STU1011,Midhun Varghese,Mechanical,2023-2027,1,80,2.4,Thermodynamics,57,100
+STU1011,Midhun Varghese,Mechanical,2023-2027,1,80,2.4,Fluid Mechanics,53,100
+STU1011,Midhun Varghese,Mechanical,2023-2027,1,80,2.4,Mathematics,61,100
+STU1011,Midhun Varghese,Mechanical,2023-2027,1,80,2.4,Machine Design,66,100
+STU1011,Midhun Varghese,Mechanical,2023-2027,1,80,2.4,Manufacturing,67,100
+STU1011,Midhun Varghese,Mechanical,2023-2027,2,88,2.8,Thermodynamics,81,100
+STU1011,Midhun Varghese,Mechanical,2023-2027,2,88,2.8,Fluid Mechanics,74,100
+STU1011,Midhun Varghese,Mechanical,2023-2027,2,88,2.8,Mathematics,75,100
+STU1011,Midhun Varghese,Mechanical,2023-2027,2,88,2.8,Machine Design,79,100
+STU1011,Midhun Varghese,Mechanical,2023-2027,2,88,2.8,Manufacturing,83,100
+STU1011,Midhun Varghese,Mechanical,2023-2027,3,82,2.2,Thermodynamics,69,100
+STU1011,Midhun Varghese,Mechanical,2023-2027,3,82,2.2,Fluid Mechanics,89,100
+STU1011,Midhun Varghese,Mechanical,2023-2027,3,82,2.2,Mathematics,70,100
+STU1011,Midhun Varghese,Mechanical,2023-2027,3,82,2.2,Machine Design,80,100
+STU1011,Midhun Varghese,Mechanical,2023-2027,3,82,2.2,Manufacturing,69,100
+STU1011,Midhun Varghese,Mechanical,2023-2027,4,80,2.9,Thermodynamics,66,100
+STU1011,Midhun Varghese,Mechanical,2023-2027,4,80,2.9,Fluid Mechanics,76,100
+STU1011,Midhun Varghese,Mechanical,2023-2027,4,80,2.9,Mathematics,65,100
+STU1011,Midhun Varghese,Mechanical,2023-2027,4,80,2.9,Machine Design,78,100
+STU1011,Midhun Varghese,Mechanical,2023-2027,4,80,2.9,Manufacturing,81,100
+STU1012,Athira George,Civil,2023-2027,1,80,2.7,Surveying,77,100
+STU1012,Athira George,Civil,2023-2027,1,80,2.7,Structural Analysis,55,100
+STU1012,Athira George,Civil,2023-2027,1,80,2.7,Mathematics,67,100
+STU1012,Athira George,Civil,2023-2027,1,80,2.7,Concrete Technology,54,100
+STU1012,Athira George,Civil,2023-2027,1,80,2.7,Geotechnics,58,100
+STU1012,Athira George,Civil,2023-2027,2,86,2.8,Surveying,64,100
+STU1012,Athira George,Civil,2023-2027,2,86,2.8,Structural Analysis,52,100
+STU1012,Athira George,Civil,2023-2027,2,86,2.8,Mathematics,72,100
+STU1012,Athira George,Civil,2023-2027,2,86,2.8,Concrete Technology,95,100
+STU1012,Athira George,Civil,2023-2027,2,86,2.8,Geotechnics,79,100
+STU1012,Athira George,Civil,2023-2027,3,80,2.0,Surveying,65,100
+STU1012,Athira George,Civil,2023-2027,3,80,2.0,Structural Analysis,68,100
+STU1012,Athira George,Civil,2023-2027,3,80,2.0,Mathematics,67,100
+STU1012,Athira George,Civil,2023-2027,3,80,2.0,Concrete Technology,74,100
+STU1012,Athira George,Civil,2023-2027,3,80,2.0,Geotechnics,70,100
+STU1012,Athira George,Civil,2023-2027,4,78,3.5,Surveying,87,100
+STU1012,Athira George,Civil,2023-2027,4,78,3.5,Structural Analysis,66,100
+STU1012,Athira George,Civil,2023-2027,4,78,3.5,Mathematics,66,100
+STU1012,Athira George,Civil,2023-2027,4,78,3.5,Concrete Technology,84,100
+STU1012,Athira George,Civil,2023-2027,4,78,3.5,Geotechnics,72,100
+STU1013,Varun Das,Computer Science,2023-2027,1,93,3.7,Programming,88,100
+STU1013,Varun Das,Computer Science,2023-2027,1,93,3.7,Data Structures,99,100
+STU1013,Varun Das,Computer Science,2023-2027,1,93,3.7,Mathematics,83,100
+STU1013,Varun Das,Computer Science,2023-2027,1,93,3.7,Database Systems,78,100
+STU1013,Varun Das,Computer Science,2023-2027,1,93,3.7,Computer Networks,82,100
+STU1013,Varun Das,Computer Science,2023-2027,2,83,4.1,Programming,84,100
+STU1013,Varun Das,Computer Science,2023-2027,2,83,4.1,Data Structures,97,100
+STU1013,Varun Das,Computer Science,2023-2027,2,83,4.1,Mathematics,69,100
+STU1013,Varun Das,Computer Science,2023-2027,2,83,4.1,Database Systems,82,100
+STU1013,Varun Das,Computer Science,2023-2027,2,83,4.1,Computer Networks,75,100
+STU1013,Varun Das,Computer Science,2023-2027,3,88,3.5,Programming,82,100
+STU1013,Varun Das,Computer Science,2023-2027,3,88,3.5,Data Structures,82,100
+STU1013,Varun Das,Computer Science,2023-2027,3,88,3.5,Mathematics,85,100
+STU1013,Varun Das,Computer Science,2023-2027,3,88,3.5,Database Systems,76,100
+STU1013,Varun Das,Computer Science,2023-2027,3,88,3.5,Computer Networks,89,100
+STU1013,Varun Das,Computer Science,2023-2027,4,92,4.1,Programming,92,100
+STU1013,Varun Das,Computer Science,2023-2027,4,92,4.1,Data Structures,100,100
+STU1013,Varun Das,Computer Science,2023-2027,4,92,4.1,Mathematics,89,100
+STU1013,Varun Das,Computer Science,2023-2027,4,92,4.1,Database Systems,88,100
+STU1013,Varun Das,Computer Science,2023-2027,4,92,4.1,Computer Networks,84,100
+STU1014,Jishnu Salim,Electronics,2023-2027,1,60,1.5,Circuit Theory,46,100
+STU1014,Jishnu Salim,Electronics,2023-2027,1,60,1.5,Digital Electronics,44,100
+STU1014,Jishnu Salim,Electronics,2023-2027,1,60,1.5,Mathematics,37,100
+STU1014,Jishnu Salim,Electronics,2023-2027,1,60,1.5,Signals and Systems,51,100
+STU1014,Jishnu Salim,Electronics,2023-2027,1,60,1.5,Microprocessors,49,100
+STU1014,Jishnu Salim,Electronics,2023-2027,2,64,2.0,Circuit Theory,50,100
+STU1014,Jishnu Salim,Electronics,2023-2027,2,64,2.0,Digital Electronics,37,100
+STU1014,Jishnu Salim,Electronics,2023-2027,2,64,2.0,Mathematics,48,100
+STU1014,Jishnu Salim,Electronics,2023-2027,2,64,2.0,Signals and Systems,50,100
+STU1014,Jishnu Salim,Electronics,2023-2027,2,64,2.0,Microprocessors,41,100
+STU1014,Jishnu Salim,Electronics,2023-2027,3,61,2.5,Circuit Theory,60,100
+STU1014,Jishnu Salim,Electronics,2023-2027,3,61,2.5,Digital Electronics,48,100
+STU1014,Jishnu Salim,Electronics,2023-2027,3,61,2.5,Mathematics,53,100
+STU1014,Jishnu Salim,Electronics,2023-2027,3,61,2.5,Signals and Systems,31,100
+STU1014,Jishnu Salim,Electronics,2023-2027,3,61,2.5,Microprocessors,41,100
+STU1014,Jishnu Salim,Electronics,2023-2027,4,62,2.1,Circuit Theory,64,100
+STU1014,Jishnu Salim,Electronics,2023-2027,4,62,2.1,Digital Electronics,38,100
+STU1014,Jishnu Salim,Electronics,2023-2027,4,62,2.1,Mathematics,41,100
+STU1014,Jishnu Salim,Electronics,2023-2027,4,62,2.1,Signals and Systems,50,100
+STU1014,Jishnu Salim,Electronics,2023-2027,4,62,2.1,Microprocessors,61,100
+STU1015,Meera Ibrahim,Mechanical,2023-2027,1,73,0.8,Thermodynamics,37,100
+STU1015,Meera Ibrahim,Mechanical,2023-2027,1,73,0.8,Fluid Mechanics,43,100
+STU1015,Meera Ibrahim,Mechanical,2023-2027,1,73,0.8,Mathematics,43,100
+STU1015,Meera Ibrahim,Mechanical,2023-2027,1,73,0.8,Machine Design,53,100
+STU1015,Meera Ibrahim,Mechanical,2023-2027,1,73,0.8,Manufacturing,49,100
+STU1015,Meera Ibrahim,Mechanical,2023-2027,2,63,1.0,Thermodynamics,49,100
+STU1015,Meera Ibrahim,Mechanical,2023-2027,2,63,1.0,Fluid Mechanics,34,100
+STU1015,Meera Ibrahim,Mechanical,2023-2027,2,63,1.0,Mathematics,34,100
+STU1015,Meera Ibrahim,Mechanical,2023-2027,2,63,1.0,Machine Design,43,100
+STU1015,Meera Ibrahim,Mechanical,2023-2027,2,63,1.0,Manufacturing,45,100
+STU1015,Meera Ibrahim,Mechanical,2023-2027,3,59,2.0,Thermodynamics,39,100
+STU1015,Meera Ibrahim,Mechanical,2023-2027,3,59,2.0,Fluid Mechanics,49,100
+STU1015,Meera Ibrahim,Mechanical,2023-2027,3,59,2.0,Mathematics,36,100
+STU1015,Meera Ibrahim,Mechanical,2023-2027,3,59,2.0,Machine Design,51,100
+STU1015,Meera Ibrahim,Mechanical,2023-2027,3,59,2.0,Manufacturing,41,100
+STU1015,Meera Ibrahim,Mechanical,2023-2027,4,65,1.5,Thermodynamics,37,100
+STU1015,Meera Ibrahim,Mechanical,2023-2027,4,65,1.5,Fluid Mechanics,53,100
+STU1015,Meera Ibrahim,Mechanical,2023-2027,4,65,1.5,Mathematics,38,100
+STU1015,Meera Ibrahim,Mechanical,2023-2027,4,65,1.5,Machine Design,42,100
+STU1015,Meera Ibrahim,Mechanical,2023-2027,4,65,1.5,Manufacturing,44,100
+STU1016,Krishna Thomas,Civil,2023-2027,1,69,2.0,Surveying,67,100
+STU1016,Krishna Thomas,Civil,2023-2027,1,69,2.0,Structural Analysis,48,100
+STU1016,Krishna Thomas,Civil,2023-2027,1,69,2.0,Mathematics,37,100
+STU1016,Krishna Thomas,Civil,2023-2027,1,69,2.0,Concrete Technology,69,100
+STU1016,Krishna Thomas,Civil,2023-2027,1,69,2.0,Geotechnics,77,100
+STU1016,Krishna Thomas,Civil,2023-2027,2,62,1.9,Surveying,50,100
+STU1016,Krishna Thomas,Civil,2023-2027,2,62,1.9,Structural Analysis,51,100
+STU1016,Krishna Thomas,Civil,2023-2027,2,62,1.9,Mathematics,44,100
+STU1016,Krishna Thomas,Civil,2023-2027,2,62,1.9,Concrete Technology,57,100
+STU1016,Krishna Thomas,Civil,2023-2027,2,62,1.9,Geotechnics,57,100
+STU1016,Krishna Thomas,Civil,2023-2027,3,70,2.8,Surveying,53,100
+STU1016,Krishna Thomas,Civil,2023-2027,3,70,2.8,Structural Analysis,49,100
+STU1016,Krishna Thomas,Civil,2023-2027,3,70,2.8,Mathematics,50,100
+STU1016,Krishna Thomas,Civil,2023-2027,3,70,2.8,Concrete Technology,56,100
+STU1016,Krishna Thomas,Civil,2023-2027,3,70,2.8,Geotechnics,38,100
+STU1016,Krishna Thomas,Civil,2023-2027,4,69,3.1,Surveying,56,100
+STU1016,Krishna Thomas,Civil,2023-2027,4,69,3.1,Structural Analysis,71,100
+STU1016,Krishna Thomas,Civil,2023-2027,4,69,3.1,Mathematics,48,100
+STU1016,Krishna Thomas,Civil,2023-2027,4,69,3.1,Concrete Technology,62,100
+STU1016,Krishna Thomas,Civil,2023-2027,4,69,3.1,Geotechnics,60,100
+STU1017,Amina Kumar,Computer Science,2023-2027,1,73,1.8,Programming,39,100
+STU1017,Amina Kumar,Computer Science,2023-2027,1,73,1.8,Data Structures,52,100
+STU1017,Amina Kumar,Computer Science,2023-2027,1,73,1.8,Mathematics,45,100
+STU1017,Amina Kumar,Computer Science,2023-2027,1,73,1.8,Database Systems,50,100
+STU1017,Amina Kumar,Computer Science,2023-2027,1,73,1.8,Computer Networks,52,100
+STU1017,Amina Kumar,Computer Science,2023-2027,2,58,1.8,Programming,40,100
+STU1017,Amina Kumar,Computer Science,2023-2027,2,58,1.8,Data Structures,24,100
+STU1017,Amina Kumar,Computer Science,2023-2027,2,58,1.8,Mathematics,51,100
+STU1017,Amina Kumar,Computer Science,2023-2027,2,58,1.8,Database Systems,46,100
+STU1017,Amina Kumar,Computer Science,2023-2027,2,58,1.8,Computer Networks,39,100
+STU1017,Amina Kumar,Computer Science,2023-2027,3,69,1.8,Programming,66,100
+STU1017,Amina Kumar,Computer Science,2023-2027,3,69,1.8,Data Structures,51,100
+STU1017,Amina Kumar,Computer Science,2023-2027,3,69,1.8,Mathematics,50,100
+STU1017,Amina Kumar,Computer Science,2023-2027,3,69,1.8,Database Systems,46,100
+STU1017,Amina Kumar,Computer Science,2023-2027,3,69,1.8,Computer Networks,54,100
+STU1017,Amina Kumar,Computer Science,2023-2027,4,75,1.8,Programming,51,100
+STU1017,Amina Kumar,Computer Science,2023-2027,4,75,1.8,Data Structures,51,100
+STU1017,Amina Kumar,Computer Science,2023-2027,4,75,1.8,Mathematics,61,100
+STU1017,Amina Kumar,Computer Science,2023-2027,4,75,1.8,Database Systems,66,100
+STU1017,Amina Kumar,Computer Science,2023-2027,4,75,1.8,Computer Networks,51,100
+STU1018,Adithya Menon,Electronics,2023-2027,1,72,2.8,Circuit Theory,42,100
+STU1018,Adithya Menon,Electronics,2023-2027,1,72,2.8,Digital Electronics,54,100
+STU1018,Adithya Menon,Electronics,2023-2027,1,72,2.8,Mathematics,54,100
+STU1018,Adithya Menon,Electronics,2023-2027,1,72,2.8,Signals and Systems,42,100
+STU1018,Adithya Menon,Electronics,2023-2027,1,72,2.8,Microprocessors,52,100
+STU1018,Adithya Menon,Electronics,2023-2027,2,69,2.6,Circuit Theory,53,100
+STU1018,Adithya Menon,Electronics,2023-2027,2,69,2.6,Digital Electronics,47,100
+STU1018,Adithya Menon,Electronics,2023-2027,2,69,2.6,Mathematics,55,100
+STU1018,Adithya Menon,Electronics,2023-2027,2,69,2.6,Signals and Systems,64,100
+STU1018,Adithya Menon,Electronics,2023-2027,2,69,2.6,Microprocessors,48,100
+STU1018,Adithya Menon,Electronics,2023-2027,3,72,2.0,Circuit Theory,60,100
+STU1018,Adithya Menon,Electronics,2023-2027,3,72,2.0,Digital Electronics,55,100
+STU1018,Adithya Menon,Electronics,2023-2027,3,72,2.0,Mathematics,61,100
+STU1018,Adithya Menon,Electronics,2023-2027,3,72,2.0,Signals and Systems,47,100
+STU1018,Adithya Menon,Electronics,2023-2027,3,72,2.0,Microprocessors,55,100
+STU1018,Adithya Menon,Electronics,2023-2027,4,67,1.4,Circuit Theory,61,100
+STU1018,Adithya Menon,Electronics,2023-2027,4,67,1.4,Digital Electronics,53,100
+STU1018,Adithya Menon,Electronics,2023-2027,4,67,1.4,Mathematics,47,100
+STU1018,Adithya Menon,Electronics,2023-2027,4,67,1.4,Signals and Systems,55,100
+STU1018,Adithya Menon,Electronics,2023-2027,4,67,1.4,Microprocessors,65,100
+STU1019,Zahra Salim,Mechanical,2023-2027,1,48,1.2,Thermodynamics,26,100
+STU1019,Zahra Salim,Mechanical,2023-2027,1,48,1.2,Fluid Mechanics,30,100
+STU1019,Zahra Salim,Mechanical,2023-2027,1,48,1.2,Mathematics,15,100
+STU1019,Zahra Salim,Mechanical,2023-2027,1,48,1.2,Machine Design,15,100
+STU1019,Zahra Salim,Mechanical,2023-2027,1,48,1.2,Manufacturing,28,100
+STU1019,Zahra Salim,Mechanical,2023-2027,2,58,0.7,Thermodynamics,32,100
+STU1019,Zahra Salim,Mechanical,2023-2027,2,58,0.7,Fluid Mechanics,31,100
+STU1019,Zahra Salim,Mechanical,2023-2027,2,58,0.7,Mathematics,36,100
+STU1019,Zahra Salim,Mechanical,2023-2027,2,58,0.7,Machine Design,36,100
+STU1019,Zahra Salim,Mechanical,2023-2027,2,58,0.7,Manufacturing,17,100
+STU1019,Zahra Salim,Mechanical,2023-2027,3,54,0.9,Thermodynamics,14,100
+STU1019,Zahra Salim,Mechanical,2023-2027,3,54,0.9,Fluid Mechanics,7,100
+STU1019,Zahra Salim,Mechanical,2023-2027,3,54,0.9,Mathematics,23,100
+STU1019,Zahra Salim,Mechanical,2023-2027,3,54,0.9,Machine Design,30,100
+STU1019,Zahra Salim,Mechanical,2023-2027,3,54,0.9,Manufacturing,37,100
+STU1019,Zahra Salim,Mechanical,2023-2027,4,55,0.5,Thermodynamics,31,100
+STU1019,Zahra Salim,Mechanical,2023-2027,4,55,0.5,Fluid Mechanics,28,100
+STU1019,Zahra Salim,Mechanical,2023-2027,4,55,0.5,Mathematics,23,100
+STU1019,Zahra Salim,Mechanical,2023-2027,4,55,0.5,Machine Design,47,100
+STU1019,Zahra Salim,Mechanical,2023-2027,4,55,0.5,Manufacturing,45,100
+STU1020,Farhan Das,Civil,2023-2027,1,88,3.6,Surveying,84,100
+STU1020,Farhan Das,Civil,2023-2027,1,88,3.6,Structural Analysis,90,100
+STU1020,Farhan Das,Civil,2023-2027,1,88,3.6,Mathematics,85,100
+STU1020,Farhan Das,Civil,2023-2027,1,88,3.6,Concrete Technology,86,100
+STU1020,Farhan Das,Civil,2023-2027,1,88,3.6,Geotechnics,85,100
+STU1020,Farhan Das,Civil,2023-2027,2,80,3.6,Surveying,79,100
+STU1020,Farhan Das,Civil,2023-2027,2,80,3.6,Structural Analysis,73,100
+STU1020,Farhan Das,Civil,2023-2027,2,80,3.6,Mathematics,96,100
+STU1020,Farhan Das,Civil,2023-2027,2,80,3.6,Concrete Technology,97,100
+STU1020,Farhan Das,Civil,2023-2027,2,80,3.6,Geotechnics,94,100
+STU1020,Farhan Das,Civil,2023-2027,3,92,3.6,Surveying,86,100
+STU1020,Farhan Das,Civil,2023-2027,3,92,3.6,Structural Analysis,76,100
+STU1020,Farhan Das,Civil,2023-2027,3,92,3.6,Mathematics,88,100
+STU1020,Farhan Das,Civil,2023-2027,3,92,3.6,Concrete Technology,85,100
+STU1020,Farhan Das,Civil,2023-2027,3,92,3.6,Geotechnics,74,100
+STU1020,Farhan Das,Civil,2023-2027,4,86,4.4,Surveying,91,100
+STU1020,Farhan Das,Civil,2023-2027,4,86,4.4,Structural Analysis,84,100
+STU1020,Farhan Das,Civil,2023-2027,4,86,4.4,Mathematics,86,100
+STU1020,Farhan Das,Civil,2023-2027,4,86,4.4,Concrete Technology,84,100
+STU1020,Farhan Das,Civil,2023-2027,4,86,4.4,Geotechnics,82,100
+STU1021,Anand Ali,Computer Science,2023-2027,1,63,1.1,Programming,50,100
+STU1021,Anand Ali,Computer Science,2023-2027,1,63,1.1,Data Structures,49,100
+STU1021,Anand Ali,Computer Science,2023-2027,1,63,1.1,Mathematics,32,100
+STU1021,Anand Ali,Computer Science,2023-2027,1,63,1.1,Database Systems,45,100
+STU1021,Anand Ali,Computer Science,2023-2027,1,63,1.1,Computer Networks,54,100
+STU1021,Anand Ali,Computer Science,2023-2027,2,73,2.0,Programming,46,100
+STU1021,Anand Ali,Computer Science,2023-2027,2,73,2.0,Data Structures,44,100
+STU1021,Anand Ali,Computer Science,2023-2027,2,73,2.0,Mathematics,56,100
+STU1021,Anand Ali,Computer Science,2023-2027,2,73,2.0,Database Systems,56,100
+STU1021,Anand Ali,Computer Science,2023-2027,2,73,2.0,Computer Networks,63,100
+STU1021,Anand Ali,Computer Science,2023-2027,3,68,1.3,Programming,49,100
+STU1021,Anand Ali,Computer Science,2023-2027,3,68,1.3,Data Structures,53,100
+STU1021,Anand Ali,Computer Science,2023-2027,3,68,1.3,Mathematics,50,100
+STU1021,Anand Ali,Computer Science,2023-2027,3,68,1.3,Database Systems,47,100
+STU1021,Anand Ali,Computer Science,2023-2027,3,68,1.3,Computer Networks,53,100
+STU1021,Anand Ali,Computer Science,2023-2027,4,63,1.8,Programming,43,100
+STU1021,Anand Ali,Computer Science,2023-2027,4,63,1.8,Data Structures,48,100
+STU1021,Anand Ali,Computer Science,2023-2027,4,63,1.8,Mathematics,48,100
+STU1021,Anand Ali,Computer Science,2023-2027,4,63,1.8,Database Systems,37,100
+STU1021,Anand Ali,Computer Science,2023-2027,4,63,1.8,Computer Networks,42,100
+STU1022,Sreenath Varghese,Electronics,2023-2027,1,78,2.6,Circuit Theory,80,100
+STU1022,Sreenath Varghese,Electronics,2023-2027,1,78,2.6,Digital Electronics,80,100
+STU1022,Sreenath Varghese,Electronics,2023-2027,1,78,2.6,Mathematics,79,100
+STU1022,Sreenath Varghese,Electronics,2023-2027,1,78,2.6,Signals and Systems,90,100
+STU1022,Sreenath Varghese,Electronics,2023-2027,1,78,2.6,Microprocessors,59,100
+STU1022,Sreenath Varghese,Electronics,2023-2027,2,96,3.3,Circuit Theory,86,100
+STU1022,Sreenath Varghese,Electronics,2023-2027,2,96,3.3,Digital Electronics,83,100
+STU1022,Sreenath Varghese,Electronics,2023-2027,2,96,3.3,Mathematics,82,100
+STU1022,Sreenath Varghese,Electronics,2023-2027,2,96,3.3,Signals and Systems,86,100
+STU1022,Sreenath Varghese,Electronics,2023-2027,2,96,3.3,Microprocessors,100,100
+STU1022,Sreenath Varghese,Electronics,2023-2027,3,92,5.1,Circuit Theory,96,100
+STU1022,Sreenath Varghese,Electronics,2023-2027,3,92,5.1,Digital Electronics,100,100
+STU1022,Sreenath Varghese,Electronics,2023-2027,3,92,5.1,Mathematics,95,100
+STU1022,Sreenath Varghese,Electronics,2023-2027,3,92,5.1,Signals and Systems,97,100
+STU1022,Sreenath Varghese,Electronics,2023-2027,3,92,5.1,Microprocessors,99,100
+STU1022,Sreenath Varghese,Electronics,2023-2027,4,99,4.0,Circuit Theory,100,100
+STU1022,Sreenath Varghese,Electronics,2023-2027,4,99,4.0,Digital Electronics,97,100
+STU1022,Sreenath Varghese,Electronics,2023-2027,4,99,4.0,Mathematics,96,100
+STU1022,Sreenath Varghese,Electronics,2023-2027,4,99,4.0,Signals and Systems,100,100
+STU1022,Sreenath Varghese,Electronics,2023-2027,4,99,4.0,Microprocessors,100,100
+STU1023,Akhil Babu,Mechanical,2023-2027,1,80,3.0,Thermodynamics,54,100
+STU1023,Akhil Babu,Mechanical,2023-2027,1,80,3.0,Fluid Mechanics,75,100
+STU1023,Akhil Babu,Mechanical,2023-2027,1,80,3.0,Mathematics,62,100
+STU1023,Akhil Babu,Mechanical,2023-2027,1,80,3.0,Machine Design,58,100
+STU1023,Akhil Babu,Mechanical,2023-2027,1,80,3.0,Manufacturing,69,100
+STU1023,Akhil Babu,Mechanical,2023-2027,2,76,3.3,Thermodynamics,59,100
+STU1023,Akhil Babu,Mechanical,2023-2027,2,76,3.3,Fluid Mechanics,67,100
+STU1023,Akhil Babu,Mechanical,2023-2027,2,76,3.3,Mathematics,65,100
+STU1023,Akhil Babu,Mechanical,2023-2027,2,76,3.3,Machine Design,70,100
+STU1023,Akhil Babu,Mechanical,2023-2027,2,76,3.3,Manufacturing,72,100
+STU1023,Akhil Babu,Mechanical,2023-2027,3,79,2.7,Thermodynamics,51,100
+STU1023,Akhil Babu,Mechanical,2023-2027,3,79,2.7,Fluid Mechanics,50,100
+STU1023,Akhil Babu,Mechanical,2023-2027,3,79,2.7,Mathematics,66,100
+STU1023,Akhil Babu,Mechanical,2023-2027,3,79,2.7,Machine Design,64,100
+STU1023,Akhil Babu,Mechanical,2023-2027,3,79,2.7,Manufacturing,65,100
+STU1023,Akhil Babu,Mechanical,2023-2027,4,79,3.3,Thermodynamics,61,100
+STU1023,Akhil Babu,Mechanical,2023-2027,4,79,3.3,Fluid Mechanics,61,100
+STU1023,Akhil Babu,Mechanical,2023-2027,4,79,3.3,Mathematics,61,100
+STU1023,Akhil Babu,Mechanical,2023-2027,4,79,3.3,Machine Design,72,100
+STU1023,Akhil Babu,Mechanical,2023-2027,4,79,3.3,Manufacturing,80,100
+STU1024,Sana Ali,Civil,2023-2027,1,60,1.3,Surveying,42,100
+STU1024,Sana Ali,Civil,2023-2027,1,60,1.3,Structural Analysis,44,100
+STU1024,Sana Ali,Civil,2023-2027,1,60,1.3,Mathematics,47,100
+STU1024,Sana Ali,Civil,2023-2027,1,60,1.3,Concrete Technology,44,100
+STU1024,Sana Ali,Civil,2023-2027,1,60,1.3,Geotechnics,55,100
+STU1024,Sana Ali,Civil,2023-2027,2,67,2.4,Surveying,43,100
+STU1024,Sana Ali,Civil,2023-2027,2,67,2.4,Structural Analysis,59,100
+STU1024,Sana Ali,Civil,2023-2027,2,67,2.4,Mathematics,56,100
+STU1024,Sana Ali,Civil,2023-2027,2,67,2.4,Concrete Technology,54,100
+STU1024,Sana Ali,Civil,2023-2027,2,67,2.4,Geotechnics,68,100
+STU1024,Sana Ali,Civil,2023-2027,3,79,2.0,Surveying,47,100
+STU1024,Sana Ali,Civil,2023-2027,3,79,2.0,Structural Analysis,57,100
+STU1024,Sana Ali,Civil,2023-2027,3,79,2.0,Mathematics,48,100
+STU1024,Sana Ali,Civil,2023-2027,3,79,2.0,Concrete Technology,51,100
+STU1024,Sana Ali,Civil,2023-2027,3,79,2.0,Geotechnics,60,100
+STU1024,Sana Ali,Civil,2023-2027,4,71,2.9,Surveying,70,100
+STU1024,Sana Ali,Civil,2023-2027,4,71,2.9,Structural Analysis,72,100
+STU1024,Sana Ali,Civil,2023-2027,4,71,2.9,Mathematics,65,100
+STU1024,Sana Ali,Civil,2023-2027,4,71,2.9,Concrete Technology,72,100
+STU1024,Sana Ali,Civil,2023-2027,4,71,2.9,Geotechnics,46,100
+STU1025,Thanseer Kurian,Computer Science,2023-2027,1,72,1.9,Programming,55,100
+STU1025,Thanseer Kurian,Computer Science,2023-2027,1,72,1.9,Data Structures,71,100
+STU1025,Thanseer Kurian,Computer Science,2023-2027,1,72,1.9,Mathematics,55,100
+STU1025,Thanseer Kurian,Computer Science,2023-2027,1,72,1.9,Database Systems,60,100
+STU1025,Thanseer Kurian,Computer Science,2023-2027,1,72,1.9,Computer Networks,55,100
+STU1025,Thanseer Kurian,Computer Science,2023-2027,2,73,2.6,Programming,70,100
+STU1025,Thanseer Kurian,Computer Science,2023-2027,2,73,2.6,Data Structures,74,100
+STU1025,Thanseer Kurian,Computer Science,2023-2027,2,73,2.6,Mathematics,63,100
+STU1025,Thanseer Kurian,Computer Science,2023-2027,2,73,2.6,Database Systems,65,100
+STU1025,Thanseer Kurian,Computer Science,2023-2027,2,73,2.6,Computer Networks,51,100
+STU1025,Thanseer Kurian,Computer Science,2023-2027,3,77,2.8,Programming,63,100
+STU1025,Thanseer Kurian,Computer Science,2023-2027,3,77,2.8,Data Structures,68,100
+STU1025,Thanseer Kurian,Computer Science,2023-2027,3,77,2.8,Mathematics,65,100
+STU1025,Thanseer Kurian,Computer Science,2023-2027,3,77,2.8,Database Systems,71,100
+STU1025,Thanseer Kurian,Computer Science,2023-2027,3,77,2.8,Computer Networks,63,100
+STU1025,Thanseer Kurian,Computer Science,2023-2027,4,74,0.8,Programming,60,100
+STU1025,Thanseer Kurian,Computer Science,2023-2027,4,74,0.8,Data Structures,28,100
+STU1025,Thanseer Kurian,Computer Science,2023-2027,4,74,0.8,Mathematics,43,100
+STU1025,Thanseer Kurian,Computer Science,2023-2027,4,74,0.8,Database Systems,60,100
+STU1025,Thanseer Kurian,Computer Science,2023-2027,4,74,0.8,Computer Networks,61,100
+STU1026,Hiba Rahman,Electronics,2023-2027,1,69,1.3,Circuit Theory,63,100
+STU1026,Hiba Rahman,Electronics,2023-2027,1,69,1.3,Digital Electronics,45,100
+STU1026,Hiba Rahman,Electronics,2023-2027,1,69,1.3,Mathematics,48,100
+STU1026,Hiba Rahman,Electronics,2023-2027,1,69,1.3,Signals and Systems,58,100
+STU1026,Hiba Rahman,Electronics,2023-2027,1,69,1.3,Microprocessors,46,100
+STU1026,Hiba Rahman,Electronics,2023-2027,2,63,1.5,Circuit Theory,32,100
+STU1026,Hiba Rahman,Electronics,2023-2027,2,63,1.5,Digital Electronics,41,100
+STU1026,Hiba Rahman,Electronics,2023-2027,2,63,1.5,Mathematics,37,100
+STU1026,Hiba Rahman,Electronics,2023-2027,2,63,1.5,Signals and Systems,50,100
+STU1026,Hiba Rahman,Electronics,2023-2027,2,63,1.5,Microprocessors,43,100
+STU1026,Hiba Rahman,Electronics,2023-2027,3,64,1.7,Circuit Theory,51,100
+STU1026,Hiba Rahman,Electronics,2023-2027,3,64,1.7,Digital Electronics,38,100
+STU1026,Hiba Rahman,Electronics,2023-2027,3,64,1.7,Mathematics,37,100
+STU1026,Hiba Rahman,Electronics,2023-2027,3,64,1.7,Signals and Systems,55,100
+STU1026,Hiba Rahman,Electronics,2023-2027,3,64,1.7,Microprocessors,43,100
+STU1026,Hiba Rahman,Electronics,2023-2027,4,64,1.6,Circuit Theory,30,100
+STU1026,Hiba Rahman,Electronics,2023-2027,4,64,1.6,Digital Electronics,44,100
+STU1026,Hiba Rahman,Electronics,2023-2027,4,64,1.6,Mathematics,48,100
+STU1026,Hiba Rahman,Electronics,2023-2027,4,64,1.6,Signals and Systems,45,100
+STU1026,Hiba Rahman,Electronics,2023-2027,4,64,1.6,Microprocessors,47,100
+STU1027,Lakshmi Nair,Mechanical,2023-2027,1,63,1.3,Thermodynamics,51,100
+STU1027,Lakshmi Nair,Mechanical,2023-2027,1,63,1.3,Fluid Mechanics,56,100
+STU1027,Lakshmi Nair,Mechanical,2023-2027,1,63,1.3,Mathematics,58,100
+STU1027,Lakshmi Nair,Mechanical,2023-2027,1,63,1.3,Machine Design,54,100
+STU1027,Lakshmi Nair,Mechanical,2023-2027,1,63,1.3,Manufacturing,43,100
+STU1027,Lakshmi Nair,Mechanical,2023-2027,2,67,1.6,Thermodynamics,46,100
+STU1027,Lakshmi Nair,Mechanical,2023-2027,2,67,1.6,Fluid Mechanics,52,100
+STU1027,Lakshmi Nair,Mechanical,2023-2027,2,67,1.6,Mathematics,45,100
+STU1027,Lakshmi Nair,Mechanical,2023-2027,2,67,1.6,Machine Design,39,100
+STU1027,Lakshmi Nair,Mechanical,2023-2027,2,67,1.6,Manufacturing,42,100
+STU1027,Lakshmi Nair,Mechanical,2023-2027,3,65,1.8,Thermodynamics,51,100
+STU1027,Lakshmi Nair,Mechanical,2023-2027,3,65,1.8,Fluid Mechanics,43,100
+STU1027,Lakshmi Nair,Mechanical,2023-2027,3,65,1.8,Mathematics,52,100
+STU1027,Lakshmi Nair,Mechanical,2023-2027,3,65,1.8,Machine Design,49,100
+STU1027,Lakshmi Nair,Mechanical,2023-2027,3,65,1.8,Manufacturing,36,100
+STU1027,Lakshmi Nair,Mechanical,2023-2027,4,65,0.9,Thermodynamics,39,100
+STU1027,Lakshmi Nair,Mechanical,2023-2027,4,65,0.9,Fluid Mechanics,39,100
+STU1027,Lakshmi Nair,Mechanical,2023-2027,4,65,0.9,Mathematics,48,100
+STU1027,Lakshmi Nair,Mechanical,2023-2027,4,65,0.9,Machine Design,45,100
+STU1027,Lakshmi Nair,Mechanical,2023-2027,4,65,0.9,Manufacturing,45,100
+STU1028,Meera Kurian,Civil,2023-2027,1,84,3.4,Surveying,81,100
+STU1028,Meera Kurian,Civil,2023-2027,1,84,3.4,Structural Analysis,60,100
+STU1028,Meera Kurian,Civil,2023-2027,1,84,3.4,Mathematics,74,100
+STU1028,Meera Kurian,Civil,2023-2027,1,84,3.4,Concrete Technology,59,100
+STU1028,Meera Kurian,Civil,2023-2027,1,84,3.4,Geotechnics,77,100
+STU1028,Meera Kurian,Civil,2023-2027,2,86,3.7,Surveying,78,100
+STU1028,Meera Kurian,Civil,2023-2027,2,86,3.7,Structural Analysis,72,100
+STU1028,Meera Kurian,Civil,2023-2027,2,86,3.7,Mathematics,80,100
+STU1028,Meera Kurian,Civil,2023-2027,2,86,3.7,Concrete Technology,72,100
+STU1028,Meera Kurian,Civil,2023-2027,2,86,3.7,Geotechnics,76,100
+STU1028,Meera Kurian,Civil,2023-2027,3,82,3.7,Surveying,84,100
+STU1028,Meera Kurian,Civil,2023-2027,3,82,3.7,Structural Analysis,71,100
+STU1028,Meera Kurian,Civil,2023-2027,3,82,3.7,Mathematics,87,100
+STU1028,Meera Kurian,Civil,2023-2027,3,82,3.7,Concrete Technology,84,100
+STU1028,Meera Kurian,Civil,2023-2027,3,82,3.7,Geotechnics,80,100
+STU1028,Meera Kurian,Civil,2023-2027,4,76,2.7,Surveying,75,100
+STU1028,Meera Kurian,Civil,2023-2027,4,76,2.7,Structural Analysis,63,100
+STU1028,Meera Kurian,Civil,2023-2027,4,76,2.7,Mathematics,74,100
+STU1028,Meera Kurian,Civil,2023-2027,4,76,2.7,Concrete Technology,61,100
+STU1028,Meera Kurian,Civil,2023-2027,4,76,2.7,Geotechnics,69,100
+STU1029,Shifana Krishnan,Computer Science,2023-2027,1,77,3.9,Programming,78,100
+STU1029,Shifana Krishnan,Computer Science,2023-2027,1,77,3.9,Data Structures,80,100
+STU1029,Shifana Krishnan,Computer Science,2023-2027,1,77,3.9,Mathematics,77,100
+STU1029,Shifana Krishnan,Computer Science,2023-2027,1,77,3.9,Database Systems,80,100
+STU1029,Shifana Krishnan,Computer Science,2023-2027,1,77,3.9,Computer Networks,75,100
+STU1029,Shifana Krishnan,Computer Science,2023-2027,2,78,3.5,Programming,68,100
+STU1029,Shifana Krishnan,Computer Science,2023-2027,2,78,3.5,Data Structures,72,100
+STU1029,Shifana Krishnan,Computer Science,2023-2027,2,78,3.5,Mathematics,64,100
+STU1029,Shifana Krishnan,Computer Science,2023-2027,2,78,3.5,Database Systems,76,100
+STU1029,Shifana Krishnan,Computer Science,2023-2027,2,78,3.5,Computer Networks,84,100
+STU1029,Shifana Krishnan,Computer Science,2023-2027,3,76,2.1,Programming,64,100
+STU1029,Shifana Krishnan,Computer Science,2023-2027,3,76,2.1,Data Structures,53,100
+STU1029,Shifana Krishnan,Computer Science,2023-2027,3,76,2.1,Mathematics,58,100
+STU1029,Shifana Krishnan,Computer Science,2023-2027,3,76,2.1,Database Systems,67,100
+STU1029,Shifana Krishnan,Computer Science,2023-2027,3,76,2.1,Computer Networks,76,100
+STU1029,Shifana Krishnan,Computer Science,2023-2027,4,81,4.0,Programming,80,100
+STU1029,Shifana Krishnan,Computer Science,2023-2027,4,81,4.0,Data Structures,77,100
+STU1029,Shifana Krishnan,Computer Science,2023-2027,4,81,4.0,Mathematics,82,100
+STU1029,Shifana Krishnan,Computer Science,2023-2027,4,81,4.0,Database Systems,79,100
+STU1029,Shifana Krishnan,Computer Science,2023-2027,4,81,4.0,Computer Networks,79,100
+STU1030,Abhirami Sharma,Electronics,2023-2027,1,63,2.3,Circuit Theory,51,100
+STU1030,Abhirami Sharma,Electronics,2023-2027,1,63,2.3,Digital Electronics,48,100
+STU1030,Abhirami Sharma,Electronics,2023-2027,1,63,2.3,Mathematics,53,100
+STU1030,Abhirami Sharma,Electronics,2023-2027,1,63,2.3,Signals and Systems,59,100
+STU1030,Abhirami Sharma,Electronics,2023-2027,1,63,2.3,Microprocessors,54,100
+STU1030,Abhirami Sharma,Electronics,2023-2027,2,76,2.9,Circuit Theory,62,100
+STU1030,Abhirami Sharma,Electronics,2023-2027,2,76,2.9,Digital Electronics,66,100
+STU1030,Abhirami Sharma,Electronics,2023-2027,2,76,2.9,Mathematics,68,100
+STU1030,Abhirami Sharma,Electronics,2023-2027,2,76,2.9,Signals and Systems,67,100
+STU1030,Abhirami Sharma,Electronics,2023-2027,2,76,2.9,Microprocessors,63,100
+STU1030,Abhirami Sharma,Electronics,2023-2027,3,76,1.8,Circuit Theory,66,100
+STU1030,Abhirami Sharma,Electronics,2023-2027,3,76,1.8,Digital Electronics,50,100
+STU1030,Abhirami Sharma,Electronics,2023-2027,3,76,1.8,Mathematics,54,100
+STU1030,Abhirami Sharma,Electronics,2023-2027,3,76,1.8,Signals and Systems,71,100
+STU1030,Abhirami Sharma,Electronics,2023-2027,3,76,1.8,Microprocessors,67,100
+STU1030,Abhirami Sharma,Electronics,2023-2027,4,75,2.0,Circuit Theory,62,100
+STU1030,Abhirami Sharma,Electronics,2023-2027,4,75,2.0,Digital Electronics,64,100
+STU1030,Abhirami Sharma,Electronics,2023-2027,4,75,2.0,Mathematics,64,100
+STU1030,Abhirami Sharma,Electronics,2023-2027,4,75,2.0,Signals and Systems,73,100
+STU1030,Abhirami Sharma,Electronics,2023-2027,4,75,2.0,Microprocessors,61,100
+STU1031,Hiba Babu,Mechanical,2023-2027,1,79,2.7,Thermodynamics,61,100
+STU1031,Hiba Babu,Mechanical,2023-2027,1,79,2.7,Fluid Mechanics,65,100
+STU1031,Hiba Babu,Mechanical,2023-2027,1,79,2.7,Mathematics,65,100
+STU1031,Hiba Babu,Mechanical,2023-2027,1,79,2.7,Machine Design,65,100
+STU1031,Hiba Babu,Mechanical,2023-2027,1,79,2.7,Manufacturing,81,100
+STU1031,Hiba Babu,Mechanical,2023-2027,2,78,1.8,Thermodynamics,61,100
+STU1031,Hiba Babu,Mechanical,2023-2027,2,78,1.8,Fluid Mechanics,66,100
+STU1031,Hiba Babu,Mechanical,2023-2027,2,78,1.8,Mathematics,63,100
+STU1031,Hiba Babu,Mechanical,2023-2027,2,78,1.8,Machine Design,79,100
+STU1031,Hiba Babu,Mechanical,2023-2027,2,78,1.8,Manufacturing,67,100
+STU1031,Hiba Babu,Mechanical,2023-2027,3,82,3.2,Thermodynamics,75,100
+STU1031,Hiba Babu,Mechanical,2023-2027,3,82,3.2,Fluid Mechanics,76,100
+STU1031,Hiba Babu,Mechanical,2023-2027,3,82,3.2,Mathematics,89,100
+STU1031,Hiba Babu,Mechanical,2023-2027,3,82,3.2,Machine Design,57,100
+STU1031,Hiba Babu,Mechanical,2023-2027,3,82,3.2,Manufacturing,60,100
+STU1031,Hiba Babu,Mechanical,2023-2027,4,78,3.1,Thermodynamics,73,100
+STU1031,Hiba Babu,Mechanical,2023-2027,4,78,3.1,Fluid Mechanics,66,100
+STU1031,Hiba Babu,Mechanical,2023-2027,4,78,3.1,Mathematics,77,100
+STU1031,Hiba Babu,Mechanical,2023-2027,4,78,3.1,Machine Design,77,100
+STU1031,Hiba Babu,Mechanical,2023-2027,4,78,3.1,Manufacturing,70,100
+STU1032,Jishnu Mathew,Civil,2023-2027,1,83,3.8,Surveying,82,100
+STU1032,Jishnu Mathew,Civil,2023-2027,1,83,3.8,Structural Analysis,81,100
+STU1032,Jishnu Mathew,Civil,2023-2027,1,83,3.8,Mathematics,93,100
+STU1032,Jishnu Mathew,Civil,2023-2027,1,83,3.8,Concrete Technology,62,100
+STU1032,Jishnu Mathew,Civil,2023-2027,1,83,3.8,Geotechnics,70,100
+STU1032,Jishnu Mathew,Civil,2023-2027,2,81,3.0,Surveying,63,100
+STU1032,Jishnu Mathew,Civil,2023-2027,2,81,3.0,Structural Analysis,67,100
+STU1032,Jishnu Mathew,Civil,2023-2027,2,81,3.0,Mathematics,68,100
+STU1032,Jishnu Mathew,Civil,2023-2027,2,81,3.0,Concrete Technology,95,100
+STU1032,Jishnu Mathew,Civil,2023-2027,2,81,3.0,Geotechnics,89,100
+STU1032,Jishnu Mathew,Civil,2023-2027,3,82,2.7,Surveying,62,100
+STU1032,Jishnu Mathew,Civil,2023-2027,3,82,2.7,Structural Analysis,76,100
+STU1032,Jishnu Mathew,Civil,2023-2027,3,82,2.7,Mathematics,69,100
+STU1032,Jishnu Mathew,Civil,2023-2027,3,82,2.7,Concrete Technology,77,100
+STU1032,Jishnu Mathew,Civil,2023-2027,3,82,2.7,Geotechnics,64,100
+STU1032,Jishnu Mathew,Civil,2023-2027,4,84,3.4,Surveying,81,100
+STU1032,Jishnu Mathew,Civil,2023-2027,4,84,3.4,Structural Analysis,67,100
+STU1032,Jishnu Mathew,Civil,2023-2027,4,84,3.4,Mathematics,84,100
+STU1032,Jishnu Mathew,Civil,2023-2027,4,84,3.4,Concrete Technology,71,100
+STU1032,Jishnu Mathew,Civil,2023-2027,4,84,3.4,Geotechnics,83,100
+STU1033,Abhirami Varghese,Computer Science,2023-2027,1,72,2.5,Programming,65,100
+STU1033,Abhirami Varghese,Computer Science,2023-2027,1,72,2.5,Data Structures,59,100
+STU1033,Abhirami Varghese,Computer Science,2023-2027,1,72,2.5,Mathematics,72,100
+STU1033,Abhirami Varghese,Computer Science,2023-2027,1,72,2.5,Database Systems,68,100
+STU1033,Abhirami Varghese,Computer Science,2023-2027,1,72,2.5,Computer Networks,58,100
+STU1033,Abhirami Varghese,Computer Science,2023-2027,2,85,3.7,Programming,60,100
+STU1033,Abhirami Varghese,Computer Science,2023-2027,2,85,3.7,Data Structures,63,100
+STU1033,Abhirami Varghese,Computer Science,2023-2027,2,85,3.7,Mathematics,82,100
+STU1033,Abhirami Varghese,Computer Science,2023-2027,2,85,3.7,Database Systems,62,100
+STU1033,Abhirami Varghese,Computer Science,2023-2027,2,85,3.7,Computer Networks,60,100
+STU1033,Abhirami Varghese,Computer Science,2023-2027,3,76,2.4,Programming,58,100
+STU1033,Abhirami Varghese,Computer Science,2023-2027,3,76,2.4,Data Structures,58,100
+STU1033,Abhirami Varghese,Computer Science,2023-2027,3,76,2.4,Mathematics,57,100
+STU1033,Abhirami Varghese,Computer Science,2023-2027,3,76,2.4,Database Systems,56,100
+STU1033,Abhirami Varghese,Computer Science,2023-2027,3,76,2.4,Computer Networks,81,100
+STU1033,Abhirami Varghese,Computer Science,2023-2027,4,80,2.4,Programming,65,100
+STU1033,Abhirami Varghese,Computer Science,2023-2027,4,80,2.4,Data Structures,60,100
+STU1033,Abhirami Varghese,Computer Science,2023-2027,4,80,2.4,Mathematics,45,100
+STU1033,Abhirami Varghese,Computer Science,2023-2027,4,80,2.4,Database Systems,55,100
+STU1033,Abhirami Varghese,Computer Science,2023-2027,4,80,2.4,Computer Networks,52,100
+STU1034,Amina Rahman,Electronics,2023-2027,1,58,0.5,Circuit Theory,36,100
+STU1034,Amina Rahman,Electronics,2023-2027,1,58,0.5,Digital Electronics,29,100
+STU1034,Amina Rahman,Electronics,2023-2027,1,58,0.5,Mathematics,32,100
+STU1034,Amina Rahman,Electronics,2023-2027,1,58,0.5,Signals and Systems,19,100
+STU1034,Amina Rahman,Electronics,2023-2027,1,58,0.5,Microprocessors,30,100
+STU1034,Amina Rahman,Electronics,2023-2027,2,55,1.2,Circuit Theory,37,100
+STU1034,Amina Rahman,Electronics,2023-2027,2,55,1.2,Digital Electronics,28,100
+STU1034,Amina Rahman,Electronics,2023-2027,2,55,1.2,Mathematics,24,100
+STU1034,Amina Rahman,Electronics,2023-2027,2,55,1.2,Signals and Systems,23,100
+STU1034,Amina Rahman,Electronics,2023-2027,2,55,1.2,Microprocessors,34,100
+STU1034,Amina Rahman,Electronics,2023-2027,3,53,0.9,Circuit Theory,35,100
+STU1034,Amina Rahman,Electronics,2023-2027,3,53,0.9,Digital Electronics,36,100
+STU1034,Amina Rahman,Electronics,2023-2027,3,53,0.9,Mathematics,43,100
+STU1034,Amina Rahman,Electronics,2023-2027,3,53,0.9,Signals and Systems,41,100
+STU1034,Amina Rahman,Electronics,2023-2027,3,53,0.9,Microprocessors,23,100
+STU1034,Amina Rahman,Electronics,2023-2027,4,57,1.7,Circuit Theory,38,100
+STU1034,Amina Rahman,Electronics,2023-2027,4,57,1.7,Digital Electronics,34,100
+STU1034,Amina Rahman,Electronics,2023-2027,4,57,1.7,Mathematics,23,100
+STU1034,Amina Rahman,Electronics,2023-2027,4,57,1.7,Signals and Systems,36,100
+STU1034,Amina Rahman,Electronics,2023-2027,4,57,1.7,Microprocessors,25,100
+STU1035,Varun Kurian,Mechanical,2023-2027,1,85,3.8,Thermodynamics,80,100
+STU1035,Varun Kurian,Mechanical,2023-2027,1,85,3.8,Fluid Mechanics,81,100
+STU1035,Varun Kurian,Mechanical,2023-2027,1,85,3.8,Mathematics,92,100
+STU1035,Varun Kurian,Mechanical,2023-2027,1,85,3.8,Machine Design,85,100
+STU1035,Varun Kurian,Mechanical,2023-2027,1,85,3.8,Manufacturing,100,100
+STU1035,Varun Kurian,Mechanical,2023-2027,2,88,3.3,Thermodynamics,85,100
+STU1035,Varun Kurian,Mechanical,2023-2027,2,88,3.3,Fluid Mechanics,75,100
+STU1035,Varun Kurian,Mechanical,2023-2027,2,88,3.3,Mathematics,78,100
+STU1035,Varun Kurian,Mechanical,2023-2027,2,88,3.3,Machine Design,78,100
+STU1035,Varun Kurian,Mechanical,2023-2027,2,88,3.3,Manufacturing,72,100
+STU1035,Varun Kurian,Mechanical,2023-2027,3,89,3.8,Thermodynamics,96,100
+STU1035,Varun Kurian,Mechanical,2023-2027,3,89,3.8,Fluid Mechanics,95,100
+STU1035,Varun Kurian,Mechanical,2023-2027,3,89,3.8,Mathematics,80,100
+STU1035,Varun Kurian,Mechanical,2023-2027,3,89,3.8,Machine Design,86,100
+STU1035,Varun Kurian,Mechanical,2023-2027,3,89,3.8,Manufacturing,78,100
+STU1035,Varun Kurian,Mechanical,2023-2027,4,82,4.2,Thermodynamics,84,100
+STU1035,Varun Kurian,Mechanical,2023-2027,4,82,4.2,Fluid Mechanics,79,100
+STU1035,Varun Kurian,Mechanical,2023-2027,4,82,4.2,Mathematics,90,100
+STU1035,Varun Kurian,Mechanical,2023-2027,4,82,4.2,Machine Design,64,100
+STU1035,Varun Kurian,Mechanical,2023-2027,4,82,4.2,Manufacturing,65,100
+STU1036,Krishna Pillai,Civil,2023-2027,1,84,2.6,Surveying,77,100
+STU1036,Krishna Pillai,Civil,2023-2027,1,84,2.6,Structural Analysis,93,100
+STU1036,Krishna Pillai,Civil,2023-2027,1,84,2.6,Mathematics,83,100
+STU1036,Krishna Pillai,Civil,2023-2027,1,84,2.6,Concrete Technology,78,100
+STU1036,Krishna Pillai,Civil,2023-2027,1,84,2.6,Geotechnics,73,100
+STU1036,Krishna Pillai,Civil,2023-2027,2,74,3.3,Surveying,82,100
+STU1036,Krishna Pillai,Civil,2023-2027,2,74,3.3,Structural Analysis,62,100
+STU1036,Krishna Pillai,Civil,2023-2027,2,74,3.3,Mathematics,70,100
+STU1036,Krishna Pillai,Civil,2023-2027,2,74,3.3,Concrete Technology,66,100
+STU1036,Krishna Pillai,Civil,2023-2027,2,74,3.3,Geotechnics,67,100
+STU1036,Krishna Pillai,Civil,2023-2027,3,75,3.6,Surveying,83,100
+STU1036,Krishna Pillai,Civil,2023-2027,3,75,3.6,Structural Analysis,75,100
+STU1036,Krishna Pillai,Civil,2023-2027,3,75,3.6,Mathematics,57,100
+STU1036,Krishna Pillai,Civil,2023-2027,3,75,3.6,Concrete Technology,69,100
+STU1036,Krishna Pillai,Civil,2023-2027,3,75,3.6,Geotechnics,87,100
+STU1036,Krishna Pillai,Civil,2023-2027,4,76,2.1,Surveying,72,100
+STU1036,Krishna Pillai,Civil,2023-2027,4,76,2.1,Structural Analysis,60,100
+STU1036,Krishna Pillai,Civil,2023-2027,4,76,2.1,Mathematics,69,100
+STU1036,Krishna Pillai,Civil,2023-2027,4,76,2.1,Concrete Technology,70,100
+STU1036,Krishna Pillai,Civil,2023-2027,4,76,2.1,Geotechnics,80,100
+STU1037,Sana Rahman,Computer Science,2023-2027,1,69,3.1,Programming,57,100
+STU1037,Sana Rahman,Computer Science,2023-2027,1,69,3.1,Data Structures,59,100
+STU1037,Sana Rahman,Computer Science,2023-2027,1,69,3.1,Mathematics,63,100
+STU1037,Sana Rahman,Computer Science,2023-2027,1,69,3.1,Database Systems,51,100
+STU1037,Sana Rahman,Computer Science,2023-2027,1,69,3.1,Computer Networks,65,100
+STU1037,Sana Rahman,Computer Science,2023-2027,2,78,1.8,Programming,64,100
+STU1037,Sana Rahman,Computer Science,2023-2027,2,78,1.8,Data Structures,71,100
+STU1037,Sana Rahman,Computer Science,2023-2027,2,78,1.8,Mathematics,50,100
+STU1037,Sana Rahman,Computer Science,2023-2027,2,78,1.8,Database Systems,56,100
+STU1037,Sana Rahman,Computer Science,2023-2027,2,78,1.8,Computer Networks,72,100
+STU1037,Sana Rahman,Computer Science,2023-2027,3,76,3.4,Programming,68,100
+STU1037,Sana Rahman,Computer Science,2023-2027,3,76,3.4,Data Structures,70,100
+STU1037,Sana Rahman,Computer Science,2023-2027,3,76,3.4,Mathematics,86,100
+STU1037,Sana Rahman,Computer Science,2023-2027,3,76,3.4,Database Systems,63,100
+STU1037,Sana Rahman,Computer Science,2023-2027,3,76,3.4,Computer Networks,58,100
+STU1037,Sana Rahman,Computer Science,2023-2027,4,77,2.3,Programming,55,100
+STU1037,Sana Rahman,Computer Science,2023-2027,4,77,2.3,Data Structures,82,100
+STU1037,Sana Rahman,Computer Science,2023-2027,4,77,2.3,Mathematics,66,100
+STU1037,Sana Rahman,Computer Science,2023-2027,4,77,2.3,Database Systems,58,100
+STU1037,Sana Rahman,Computer Science,2023-2027,4,77,2.3,Computer Networks,71,100
+STU1038,Hari Thomas,Electronics,2023-2027,1,77,1.8,Circuit Theory,65,100
+STU1038,Hari Thomas,Electronics,2023-2027,1,77,1.8,Digital Electronics,77,100
+STU1038,Hari Thomas,Electronics,2023-2027,1,77,1.8,Mathematics,65,100
+STU1038,Hari Thomas,Electronics,2023-2027,1,77,1.8,Signals and Systems,59,100
+STU1038,Hari Thomas,Electronics,2023-2027,1,77,1.8,Microprocessors,58,100
+STU1038,Hari Thomas,Electronics,2023-2027,2,73,2.2,Circuit Theory,69,100
+STU1038,Hari Thomas,Electronics,2023-2027,2,73,2.2,Digital Electronics,47,100
+STU1038,Hari Thomas,Electronics,2023-2027,2,73,2.2,Mathematics,68,100
+STU1038,Hari Thomas,Electronics,2023-2027,2,73,2.2,Signals and Systems,58,100
+STU1038,Hari Thomas,Electronics,2023-2027,2,73,2.2,Microprocessors,64,100
+STU1038,Hari Thomas,Electronics,2023-2027,3,78,2.9,Circuit Theory,68,100
+STU1038,Hari Thomas,Electronics,2023-2027,3,78,2.9,Digital Electronics,49,100
+STU1038,Hari Thomas,Electronics,2023-2027,3,78,2.9,Mathematics,67,100
+STU1038,Hari Thomas,Electronics,2023-2027,3,78,2.9,Signals and Systems,64,100
+STU1038,Hari Thomas,Electronics,2023-2027,3,78,2.9,Microprocessors,48,100
+STU1038,Hari Thomas,Electronics,2023-2027,4,76,2.8,Circuit Theory,65,100
+STU1038,Hari Thomas,Electronics,2023-2027,4,76,2.8,Digital Electronics,66,100
+STU1038,Hari Thomas,Electronics,2023-2027,4,76,2.8,Mathematics,76,100
+STU1038,Hari Thomas,Electronics,2023-2027,4,76,2.8,Signals and Systems,74,100
+STU1038,Hari Thomas,Electronics,2023-2027,4,76,2.8,Microprocessors,41,100
+STU1039,Nandana Krishnan,Mechanical,2023-2027,1,66,2.4,Thermodynamics,69,100
+STU1039,Nandana Krishnan,Mechanical,2023-2027,1,66,2.4,Fluid Mechanics,50,100
+STU1039,Nandana Krishnan,Mechanical,2023-2027,1,66,2.4,Mathematics,61,100
+STU1039,Nandana Krishnan,Mechanical,2023-2027,1,66,2.4,Machine Design,51,100
+STU1039,Nandana Krishnan,Mechanical,2023-2027,1,66,2.4,Manufacturing,53,100
+STU1039,Nandana Krishnan,Mechanical,2023-2027,2,74,2.9,Thermodynamics,51,100
+STU1039,Nandana Krishnan,Mechanical,2023-2027,2,74,2.9,Fluid Mechanics,81,100
+STU1039,Nandana Krishnan,Mechanical,2023-2027,2,74,2.9,Mathematics,71,100
+STU1039,Nandana Krishnan,Mechanical,2023-2027,2,74,2.9,Machine Design,64,100
+STU1039,Nandana Krishnan,Mechanical,2023-2027,2,74,2.9,Manufacturing,70,100
+STU1039,Nandana Krishnan,Mechanical,2023-2027,3,75,1.9,Thermodynamics,53,100
+STU1039,Nandana Krishnan,Mechanical,2023-2027,3,75,1.9,Fluid Mechanics,51,100
+STU1039,Nandana Krishnan,Mechanical,2023-2027,3,75,1.9,Mathematics,50,100
+STU1039,Nandana Krishnan,Mechanical,2023-2027,3,75,1.9,Machine Design,61,100
+STU1039,Nandana Krishnan,Mechanical,2023-2027,3,75,1.9,Manufacturing,57,100
+STU1039,Nandana Krishnan,Mechanical,2023-2027,4,75,2.7,Thermodynamics,60,100
+STU1039,Nandana Krishnan,Mechanical,2023-2027,4,75,2.7,Fluid Mechanics,81,100
+STU1039,Nandana Krishnan,Mechanical,2023-2027,4,75,2.7,Mathematics,50,100
+STU1039,Nandana Krishnan,Mechanical,2023-2027,4,75,2.7,Machine Design,73,100
+STU1039,Nandana Krishnan,Mechanical,2023-2027,4,75,2.7,Manufacturing,74,100
+STU1040,Fidha Ibrahim,Civil,2023-2027,1,77,2.8,Surveying,62,100
+STU1040,Fidha Ibrahim,Civil,2023-2027,1,77,2.8,Structural Analysis,60,100
+STU1040,Fidha Ibrahim,Civil,2023-2027,1,77,2.8,Mathematics,60,100
+STU1040,Fidha Ibrahim,Civil,2023-2027,1,77,2.8,Concrete Technology,65,100
+STU1040,Fidha Ibrahim,Civil,2023-2027,1,77,2.8,Geotechnics,73,100
+STU1040,Fidha Ibrahim,Civil,2023-2027,2,65,2.4,Surveying,60,100
+STU1040,Fidha Ibrahim,Civil,2023-2027,2,65,2.4,Structural Analysis,58,100
+STU1040,Fidha Ibrahim,Civil,2023-2027,2,65,2.4,Mathematics,59,100
+STU1040,Fidha Ibrahim,Civil,2023-2027,2,65,2.4,Concrete Technology,50,100
+STU1040,Fidha Ibrahim,Civil,2023-2027,2,65,2.4,Geotechnics,45,100
+STU1040,Fidha Ibrahim,Civil,2023-2027,3,60,1.9,Surveying,47,100
+STU1040,Fidha Ibrahim,Civil,2023-2027,3,60,1.9,Structural Analysis,44,100
+STU1040,Fidha Ibrahim,Civil,2023-2027,3,60,1.9,Mathematics,24,100
+STU1040,Fidha Ibrahim,Civil,2023-2027,3,60,1.9,Concrete Technology,38,100
+STU1040,Fidha Ibrahim,Civil,2023-2027,3,60,1.9,Geotechnics,57,100
+STU1040,Fidha Ibrahim,Civil,2023-2027,4,68,1.1,Surveying,60,100
+STU1040,Fidha Ibrahim,Civil,2023-2027,4,68,1.1,Structural Analysis,47,100
+STU1040,Fidha Ibrahim,Civil,2023-2027,4,68,1.1,Mathematics,51,100
+STU1040,Fidha Ibrahim,Civil,2023-2027,4,68,1.1,Concrete Technology,67,100
+STU1040,Fidha Ibrahim,Civil,2023-2027,4,68,1.1,Geotechnics,60,100
+STU1041,Anand Salim,Computer Science,2023-2027,1,71,2.5,Programming,57,100
+STU1041,Anand Salim,Computer Science,2023-2027,1,71,2.5,Data Structures,55,100
+STU1041,Anand Salim,Computer Science,2023-2027,1,71,2.5,Mathematics,70,100
+STU1041,Anand Salim,Computer Science,2023-2027,1,71,2.5,Database Systems,57,100
+STU1041,Anand Salim,Computer Science,2023-2027,1,71,2.5,Computer Networks,77,100
+STU1041,Anand Salim,Computer Science,2023-2027,2,81,2.6,Programming,70,100
+STU1041,Anand Salim,Computer Science,2023-2027,2,81,2.6,Data Structures,56,100
+STU1041,Anand Salim,Computer Science,2023-2027,2,81,2.6,Mathematics,55,100
+STU1041,Anand Salim,Computer Science,2023-2027,2,81,2.6,Database Systems,66,100
+STU1041,Anand Salim,Computer Science,2023-2027,2,81,2.6,Computer Networks,70,100
+STU1041,Anand Salim,Computer Science,2023-2027,3,68,1.7,Programming,47,100
+STU1041,Anand Salim,Computer Science,2023-2027,3,68,1.7,Data Structures,44,100
+STU1041,Anand Salim,Computer Science,2023-2027,3,68,1.7,Mathematics,59,100
+STU1041,Anand Salim,Computer Science,2023-2027,3,68,1.7,Database Systems,68,100
+STU1041,Anand Salim,Computer Science,2023-2027,3,68,1.7,Computer Networks,58,100
+STU1041,Anand Salim,Computer Science,2023-2027,4,67,1.8,Programming,68,100
+STU1041,Anand Salim,Computer Science,2023-2027,4,67,1.8,Data Structures,39,100
+STU1041,Anand Salim,Computer Science,2023-2027,4,67,1.8,Mathematics,48,100
+STU1041,Anand Salim,Computer Science,2023-2027,4,67,1.8,Database Systems,65,100
+STU1041,Anand Salim,Computer Science,2023-2027,4,67,1.8,Computer Networks,55,100
+STU1042,Rahul Sharma,Electronics,2023-2027,1,83,3.5,Circuit Theory,69,100
+STU1042,Rahul Sharma,Electronics,2023-2027,1,83,3.5,Digital Electronics,82,100
+STU1042,Rahul Sharma,Electronics,2023-2027,1,83,3.5,Mathematics,64,100
+STU1042,Rahul Sharma,Electronics,2023-2027,1,83,3.5,Signals and Systems,78,100
+STU1042,Rahul Sharma,Electronics,2023-2027,1,83,3.5,Microprocessors,77,100
+STU1042,Rahul Sharma,Electronics,2023-2027,2,80,2.6,Circuit Theory,62,100
+STU1042,Rahul Sharma,Electronics,2023-2027,2,80,2.6,Digital Electronics,68,100
+STU1042,Rahul Sharma,Electronics,2023-2027,2,80,2.6,Mathematics,62,100
+STU1042,Rahul Sharma,Electronics,2023-2027,2,80,2.6,Signals and Systems,74,100
+STU1042,Rahul Sharma,Electronics,2023-2027,2,80,2.6,Microprocessors,62,100
+STU1042,Rahul Sharma,Electronics,2023-2027,3,78,2.9,Circuit Theory,70,100
+STU1042,Rahul Sharma,Electronics,2023-2027,3,78,2.9,Digital Electronics,86,100
+STU1042,Rahul Sharma,Electronics,2023-2027,3,78,2.9,Mathematics,78,100
+STU1042,Rahul Sharma,Electronics,2023-2027,3,78,2.9,Signals and Systems,74,100
+STU1042,Rahul Sharma,Electronics,2023-2027,3,78,2.9,Microprocessors,79,100
+STU1042,Rahul Sharma,Electronics,2023-2027,4,76,3.6,Circuit Theory,68,100
+STU1042,Rahul Sharma,Electronics,2023-2027,4,76,3.6,Digital Electronics,68,100
+STU1042,Rahul Sharma,Electronics,2023-2027,4,76,3.6,Mathematics,71,100
+STU1042,Rahul Sharma,Electronics,2023-2027,4,76,3.6,Signals and Systems,74,100
+STU1042,Rahul Sharma,Electronics,2023-2027,4,76,3.6,Microprocessors,51,100
+STU1043,Amina Mathew,Mechanical,2023-2027,1,58,2.0,Thermodynamics,38,100
+STU1043,Amina Mathew,Mechanical,2023-2027,1,58,2.0,Fluid Mechanics,25,100
+STU1043,Amina Mathew,Mechanical,2023-2027,1,58,2.0,Mathematics,30,100
+STU1043,Amina Mathew,Mechanical,2023-2027,1,58,2.0,Machine Design,18,100
+STU1043,Amina Mathew,Mechanical,2023-2027,1,58,2.0,Manufacturing,38,100
+STU1043,Amina Mathew,Mechanical,2023-2027,2,59,1.8,Thermodynamics,48,100
+STU1043,Amina Mathew,Mechanical,2023-2027,2,59,1.8,Fluid Mechanics,37,100
+STU1043,Amina Mathew,Mechanical,2023-2027,2,59,1.8,Mathematics,22,100
+STU1043,Amina Mathew,Mechanical,2023-2027,2,59,1.8,Machine Design,44,100
+STU1043,Amina Mathew,Mechanical,2023-2027,2,59,1.8,Manufacturing,43,100
+STU1043,Amina Mathew,Mechanical,2023-2027,3,65,0.7,Thermodynamics,56,100
+STU1043,Amina Mathew,Mechanical,2023-2027,3,65,0.7,Fluid Mechanics,32,100
+STU1043,Amina Mathew,Mechanical,2023-2027,3,65,0.7,Mathematics,46,100
+STU1043,Amina Mathew,Mechanical,2023-2027,3,65,0.7,Machine Design,26,100
+STU1043,Amina Mathew,Mechanical,2023-2027,3,65,0.7,Manufacturing,32,100
+STU1043,Amina Mathew,Mechanical,2023-2027,4,63,2.0,Thermodynamics,47,100
+STU1043,Amina Mathew,Mechanical,2023-2027,4,63,2.0,Fluid Mechanics,44,100
+STU1043,Amina Mathew,Mechanical,2023-2027,4,63,2.0,Mathematics,56,100
+STU1043,Amina Mathew,Mechanical,2023-2027,4,63,2.0,Machine Design,43,100
+STU1043,Amina Mathew,Mechanical,2023-2027,4,63,2.0,Manufacturing,31,100
+STU1044,Thanseer Salim,Civil,2023-2027,1,72,1.3,Surveying,48,100
+STU1044,Thanseer Salim,Civil,2023-2027,1,72,1.3,Structural Analysis,49,100
+STU1044,Thanseer Salim,Civil,2023-2027,1,72,1.3,Mathematics,51,100
+STU1044,Thanseer Salim,Civil,2023-2027,1,72,1.3,Concrete Technology,43,100
+STU1044,Thanseer Salim,Civil,2023-2027,1,72,1.3,Geotechnics,49,100
+STU1044,Thanseer Salim,Civil,2023-2027,2,70,2.2,Surveying,50,100
+STU1044,Thanseer Salim,Civil,2023-2027,2,70,2.2,Structural Analysis,48,100
+STU1044,Thanseer Salim,Civil,2023-2027,2,70,2.2,Mathematics,52,100
+STU1044,Thanseer Salim,Civil,2023-2027,2,70,2.2,Concrete Technology,44,100
+STU1044,Thanseer Salim,Civil,2023-2027,2,70,2.2,Geotechnics,42,100
+STU1044,Thanseer Salim,Civil,2023-2027,3,64,1.2,Surveying,49,100
+STU1044,Thanseer Salim,Civil,2023-2027,3,64,1.2,Structural Analysis,53,100
+STU1044,Thanseer Salim,Civil,2023-2027,3,64,1.2,Mathematics,35,100
+STU1044,Thanseer Salim,Civil,2023-2027,3,64,1.2,Concrete Technology,48,100
+STU1044,Thanseer Salim,Civil,2023-2027,3,64,1.2,Geotechnics,46,100
+STU1044,Thanseer Salim,Civil,2023-2027,4,69,1.3,Surveying,43,100
+STU1044,Thanseer Salim,Civil,2023-2027,4,69,1.3,Structural Analysis,53,100
+STU1044,Thanseer Salim,Civil,2023-2027,4,69,1.3,Mathematics,61,100
+STU1044,Thanseer Salim,Civil,2023-2027,4,69,1.3,Concrete Technology,35,100
+STU1044,Thanseer Salim,Civil,2023-2027,4,69,1.3,Geotechnics,55,100
+STU1045,Kavya Salim,Computer Science,2023-2027,1,89,3.2,Programming,82,100
+STU1045,Kavya Salim,Computer Science,2023-2027,1,89,3.2,Data Structures,70,100
+STU1045,Kavya Salim,Computer Science,2023-2027,1,89,3.2,Mathematics,64,100
+STU1045,Kavya Salim,Computer Science,2023-2027,1,89,3.2,Database Systems,90,100
+STU1045,Kavya Salim,Computer Science,2023-2027,1,89,3.2,Computer Networks,75,100
+STU1045,Kavya Salim,Computer Science,2023-2027,2,80,2.8,Programming,78,100
+STU1045,Kavya Salim,Computer Science,2023-2027,2,80,2.8,Data Structures,74,100
+STU1045,Kavya Salim,Computer Science,2023-2027,2,80,2.8,Mathematics,83,100
+STU1045,Kavya Salim,Computer Science,2023-2027,2,80,2.8,Database Systems,84,100
+STU1045,Kavya Salim,Computer Science,2023-2027,2,80,2.8,Computer Networks,82,100
+STU1045,Kavya Salim,Computer Science,2023-2027,3,94,3.1,Programming,84,100
+STU1045,Kavya Salim,Computer Science,2023-2027,3,94,3.1,Data Structures,94,100
+STU1045,Kavya Salim,Computer Science,2023-2027,3,94,3.1,Mathematics,95,100
+STU1045,Kavya Salim,Computer Science,2023-2027,3,94,3.1,Database Systems,73,100
+STU1045,Kavya Salim,Computer Science,2023-2027,3,94,3.1,Computer Networks,82,100
+STU1045,Kavya Salim,Computer Science,2023-2027,4,92,3.9,Programming,87,100
+STU1045,Kavya Salim,Computer Science,2023-2027,4,92,3.9,Data Structures,86,100
+STU1045,Kavya Salim,Computer Science,2023-2027,4,92,3.9,Mathematics,92,100
+STU1045,Kavya Salim,Computer Science,2023-2027,4,92,3.9,Database Systems,87,100
+STU1045,Kavya Salim,Computer Science,2023-2027,4,92,3.9,Computer Networks,89,100
+STU1046,Yadhu Varghese,Electronics,2023-2027,1,77,4.0,Circuit Theory,52,100
+STU1046,Yadhu Varghese,Electronics,2023-2027,1,77,4.0,Digital Electronics,69,100
+STU1046,Yadhu Varghese,Electronics,2023-2027,1,77,4.0,Mathematics,60,100
+STU1046,Yadhu Varghese,Electronics,2023-2027,1,77,4.0,Signals and Systems,71,100
+STU1046,Yadhu Varghese,Electronics,2023-2027,1,77,4.0,Microprocessors,66,100
+STU1046,Yadhu Varghese,Electronics,2023-2027,2,83,2.9,Circuit Theory,79,100
+STU1046,Yadhu Varghese,Electronics,2023-2027,2,83,2.9,Digital Electronics,51,100
+STU1046,Yadhu Varghese,Electronics,2023-2027,2,83,2.9,Mathematics,83,100
+STU1046,Yadhu Varghese,Electronics,2023-2027,2,83,2.9,Signals and Systems,73,100
+STU1046,Yadhu Varghese,Electronics,2023-2027,2,83,2.9,Microprocessors,79,100
+STU1046,Yadhu Varghese,Electronics,2023-2027,3,71,2.5,Circuit Theory,61,100
+STU1046,Yadhu Varghese,Electronics,2023-2027,3,71,2.5,Digital Electronics,63,100
+STU1046,Yadhu Varghese,Electronics,2023-2027,3,71,2.5,Mathematics,70,100
+STU1046,Yadhu Varghese,Electronics,2023-2027,3,71,2.5,Signals and Systems,47,100
+STU1046,Yadhu Varghese,Electronics,2023-2027,3,71,2.5,Microprocessors,69,100
+STU1046,Yadhu Varghese,Electronics,2023-2027,4,76,1.9,Circuit Theory,69,100
+STU1046,Yadhu Varghese,Electronics,2023-2027,4,76,1.9,Digital Electronics,46,100
+STU1046,Yadhu Varghese,Electronics,2023-2027,4,76,1.9,Mathematics,70,100
+STU1046,Yadhu Varghese,Electronics,2023-2027,4,76,1.9,Signals and Systems,53,100
+STU1046,Yadhu Varghese,Electronics,2023-2027,4,76,1.9,Microprocessors,65,100
+STU1047,Adithya Joseph,Mechanical,2023-2027,1,77,2.4,Thermodynamics,63,100
+STU1047,Adithya Joseph,Mechanical,2023-2027,1,77,2.4,Fluid Mechanics,77,100
+STU1047,Adithya Joseph,Mechanical,2023-2027,1,77,2.4,Mathematics,71,100
+STU1047,Adithya Joseph,Mechanical,2023-2027,1,77,2.4,Machine Design,64,100
+STU1047,Adithya Joseph,Mechanical,2023-2027,1,77,2.4,Manufacturing,65,100
+STU1047,Adithya Joseph,Mechanical,2023-2027,2,73,1.3,Thermodynamics,62,100
+STU1047,Adithya Joseph,Mechanical,2023-2027,2,73,1.3,Fluid Mechanics,57,100
+STU1047,Adithya Joseph,Mechanical,2023-2027,2,73,1.3,Mathematics,75,100
+STU1047,Adithya Joseph,Mechanical,2023-2027,2,73,1.3,Machine Design,47,100
+STU1047,Adithya Joseph,Mechanical,2023-2027,2,73,1.3,Manufacturing,55,100
+STU1047,Adithya Joseph,Mechanical,2023-2027,3,84,2.5,Thermodynamics,72,100
+STU1047,Adithya Joseph,Mechanical,2023-2027,3,84,2.5,Fluid Mechanics,70,100
+STU1047,Adithya Joseph,Mechanical,2023-2027,3,84,2.5,Mathematics,73,100
+STU1047,Adithya Joseph,Mechanical,2023-2027,3,84,2.5,Machine Design,65,100
+STU1047,Adithya Joseph,Mechanical,2023-2027,3,84,2.5,Manufacturing,70,100
+STU1047,Adithya Joseph,Mechanical,2023-2027,4,72,2.4,Thermodynamics,56,100
+STU1047,Adithya Joseph,Mechanical,2023-2027,4,72,2.4,Fluid Mechanics,44,100
+STU1047,Adithya Joseph,Mechanical,2023-2027,4,72,2.4,Mathematics,65,100
+STU1047,Adithya Joseph,Mechanical,2023-2027,4,72,2.4,Machine Design,60,100
+STU1047,Adithya Joseph,Mechanical,2023-2027,4,72,2.4,Manufacturing,52,100
+STU1048,Devika Krishnan,Civil,2023-2027,1,66,1.8,Surveying,64,100
+STU1048,Devika Krishnan,Civil,2023-2027,1,66,1.8,Structural Analysis,49,100
+STU1048,Devika Krishnan,Civil,2023-2027,1,66,1.8,Mathematics,59,100
+STU1048,Devika Krishnan,Civil,2023-2027,1,66,1.8,Concrete Technology,49,100
+STU1048,Devika Krishnan,Civil,2023-2027,1,66,1.8,Geotechnics,56,100
+STU1048,Devika Krishnan,Civil,2023-2027,2,77,2.1,Surveying,48,100
+STU1048,Devika Krishnan,Civil,2023-2027,2,77,2.1,Structural Analysis,49,100
+STU1048,Devika Krishnan,Civil,2023-2027,2,77,2.1,Mathematics,56,100
+STU1048,Devika Krishnan,Civil,2023-2027,2,77,2.1,Concrete Technology,50,100
+STU1048,Devika Krishnan,Civil,2023-2027,2,77,2.1,Geotechnics,64,100
+STU1048,Devika Krishnan,Civil,2023-2027,3,82,1.4,Surveying,61,100
+STU1048,Devika Krishnan,Civil,2023-2027,3,82,1.4,Structural Analysis,50,100
+STU1048,Devika Krishnan,Civil,2023-2027,3,82,1.4,Mathematics,55,100
+STU1048,Devika Krishnan,Civil,2023-2027,3,82,1.4,Concrete Technology,60,100
+STU1048,Devika Krishnan,Civil,2023-2027,3,82,1.4,Geotechnics,40,100
+STU1048,Devika Krishnan,Civil,2023-2027,4,82,2.2,Surveying,65,100
+STU1048,Devika Krishnan,Civil,2023-2027,4,82,2.2,Structural Analysis,71,100
+STU1048,Devika Krishnan,Civil,2023-2027,4,82,2.2,Mathematics,61,100
+STU1048,Devika Krishnan,Civil,2023-2027,4,82,2.2,Concrete Technology,58,100
+STU1048,Devika Krishnan,Civil,2023-2027,4,82,2.2,Geotechnics,44,100
+STU1049,Rahul Pillai,Computer Science,2023-2027,1,77,3.2,Programming,69,100
+STU1049,Rahul Pillai,Computer Science,2023-2027,1,77,3.2,Data Structures,70,100
+STU1049,Rahul Pillai,Computer Science,2023-2027,1,77,3.2,Mathematics,79,100
+STU1049,Rahul Pillai,Computer Science,2023-2027,1,77,3.2,Database Systems,63,100
+STU1049,Rahul Pillai,Computer Science,2023-2027,1,77,3.2,Computer Networks,82,100
+STU1049,Rahul Pillai,Computer Science,2023-2027,2,76,3.8,Programming,80,100
+STU1049,Rahul Pillai,Computer Science,2023-2027,2,76,3.8,Data Structures,71,100
+STU1049,Rahul Pillai,Computer Science,2023-2027,2,76,3.8,Mathematics,63,100
+STU1049,Rahul Pillai,Computer Science,2023-2027,2,76,3.8,Database Systems,66,100
+STU1049,Rahul Pillai,Computer Science,2023-2027,2,76,3.8,Computer Networks,71,100
+STU1049,Rahul Pillai,Computer Science,2023-2027,3,81,3.1,Programming,73,100
+STU1049,Rahul Pillai,Computer Science,2023-2027,3,81,3.1,Data Structures,63,100
+STU1049,Rahul Pillai,Computer Science,2023-2027,3,81,3.1,Mathematics,71,100
+STU1049,Rahul Pillai,Computer Science,2023-2027,3,81,3.1,Database Systems,82,100
+STU1049,Rahul Pillai,Computer Science,2023-2027,3,81,3.1,Computer Networks,64,100
+STU1049,Rahul Pillai,Computer Science,2023-2027,4,78,3.1,Programming,71,100
+STU1049,Rahul Pillai,Computer Science,2023-2027,4,78,3.1,Data Structures,86,100
+STU1049,Rahul Pillai,Computer Science,2023-2027,4,78,3.1,Mathematics,78,100
+STU1049,Rahul Pillai,Computer Science,2023-2027,4,78,3.1,Database Systems,63,100
+STU1049,Rahul Pillai,Computer Science,2023-2027,4,78,3.1,Computer Networks,79,100
+STU1050,Yadhu Kurian,Electronics,2023-2027,1,69,1.6,Circuit Theory,58,100
+STU1050,Yadhu Kurian,Electronics,2023-2027,1,69,1.6,Digital Electronics,44,100
+STU1050,Yadhu Kurian,Electronics,2023-2027,1,69,1.6,Mathematics,46,100
+STU1050,Yadhu Kurian,Electronics,2023-2027,1,69,1.6,Signals and Systems,45,100
+STU1050,Yadhu Kurian,Electronics,2023-2027,1,69,1.6,Microprocessors,46,100
+STU1050,Yadhu Kurian,Electronics,2023-2027,2,74,3.1,Circuit Theory,77,100
+STU1050,Yadhu Kurian,Electronics,2023-2027,2,74,3.1,Digital Electronics,51,100
+STU1050,Yadhu Kurian,Electronics,2023-2027,2,74,3.1,Mathematics,60,100
+STU1050,Yadhu Kurian,Electronics,2023-2027,2,74,3.1,Signals and Systems,50,100
+STU1050,Yadhu Kurian,Electronics,2023-2027,2,74,3.1,Microprocessors,53,100
+STU1050,Yadhu Kurian,Electronics,2023-2027,3,63,1.3,Circuit Theory,48,100
+STU1050,Yadhu Kurian,Electronics,2023-2027,3,63,1.3,Digital Electronics,39,100
+STU1050,Yadhu Kurian,Electronics,2023-2027,3,63,1.3,Mathematics,56,100
+STU1050,Yadhu Kurian,Electronics,2023-2027,3,63,1.3,Signals and Systems,42,100
+STU1050,Yadhu Kurian,Electronics,2023-2027,3,63,1.3,Microprocessors,71,100
+STU1050,Yadhu Kurian,Electronics,2023-2027,4,68,1.2,Circuit Theory,64,100
+STU1050,Yadhu Kurian,Electronics,2023-2027,4,68,1.2,Digital Electronics,59,100
+STU1050,Yadhu Kurian,Electronics,2023-2027,4,68,1.2,Mathematics,53,100
+STU1050,Yadhu Kurian,Electronics,2023-2027,4,68,1.2,Signals and Systems,39,100
+STU1050,Yadhu Kurian,Electronics,2023-2027,4,68,1.2,Microprocessors,52,100
+STU1051,Vismaya Nair,Mechanical,2023-2027,1,72,2.0,Thermodynamics,34,100
+STU1051,Vismaya Nair,Mechanical,2023-2027,1,72,2.0,Fluid Mechanics,46,100
+STU1051,Vismaya Nair,Mechanical,2023-2027,1,72,2.0,Mathematics,59,100
+STU1051,Vismaya Nair,Mechanical,2023-2027,1,72,2.0,Machine Design,63,100
+STU1051,Vismaya Nair,Mechanical,2023-2027,1,72,2.0,Manufacturing,63,100
+STU1051,Vismaya Nair,Mechanical,2023-2027,2,64,1.9,Thermodynamics,29,100
+STU1051,Vismaya Nair,Mechanical,2023-2027,2,64,1.9,Fluid Mechanics,42,100
+STU1051,Vismaya Nair,Mechanical,2023-2027,2,64,1.9,Mathematics,45,100
+STU1051,Vismaya Nair,Mechanical,2023-2027,2,64,1.9,Machine Design,40,100
+STU1051,Vismaya Nair,Mechanical,2023-2027,2,64,1.9,Manufacturing,28,100
+STU1051,Vismaya Nair,Mechanical,2023-2027,3,64,1.6,Thermodynamics,42,100
+STU1051,Vismaya Nair,Mechanical,2023-2027,3,64,1.6,Fluid Mechanics,43,100
+STU1051,Vismaya Nair,Mechanical,2023-2027,3,64,1.6,Mathematics,46,100
+STU1051,Vismaya Nair,Mechanical,2023-2027,3,64,1.6,Machine Design,50,100
+STU1051,Vismaya Nair,Mechanical,2023-2027,3,64,1.6,Manufacturing,44,100
+STU1051,Vismaya Nair,Mechanical,2023-2027,4,65,0.7,Thermodynamics,48,100
+STU1051,Vismaya Nair,Mechanical,2023-2027,4,65,0.7,Fluid Mechanics,45,100
+STU1051,Vismaya Nair,Mechanical,2023-2027,4,65,0.7,Mathematics,45,100
+STU1051,Vismaya Nair,Mechanical,2023-2027,4,65,0.7,Machine Design,52,100
+STU1051,Vismaya Nair,Mechanical,2023-2027,4,65,0.7,Manufacturing,29,100
+STU1052,Varun Ali,Civil,2023-2027,1,59,1.2,Surveying,32,100
+STU1052,Varun Ali,Civil,2023-2027,1,59,1.2,Structural Analysis,41,100
+STU1052,Varun Ali,Civil,2023-2027,1,59,1.2,Mathematics,43,100
+STU1052,Varun Ali,Civil,2023-2027,1,59,1.2,Concrete Technology,39,100
+STU1052,Varun Ali,Civil,2023-2027,1,59,1.2,Geotechnics,33,100
+STU1052,Varun Ali,Civil,2023-2027,2,57,1.2,Surveying,33,100
+STU1052,Varun Ali,Civil,2023-2027,2,57,1.2,Structural Analysis,21,100
+STU1052,Varun Ali,Civil,2023-2027,2,57,1.2,Mathematics,33,100
+STU1052,Varun Ali,Civil,2023-2027,2,57,1.2,Concrete Technology,34,100
+STU1052,Varun Ali,Civil,2023-2027,2,57,1.2,Geotechnics,40,100
+STU1052,Varun Ali,Civil,2023-2027,3,55,1.2,Surveying,32,100
+STU1052,Varun Ali,Civil,2023-2027,3,55,1.2,Structural Analysis,22,100
+STU1052,Varun Ali,Civil,2023-2027,3,55,1.2,Mathematics,35,100
+STU1052,Varun Ali,Civil,2023-2027,3,55,1.2,Concrete Technology,36,100
+STU1052,Varun Ali,Civil,2023-2027,3,55,1.2,Geotechnics,32,100
+STU1052,Varun Ali,Civil,2023-2027,4,58,1.8,Surveying,29,100
+STU1052,Varun Ali,Civil,2023-2027,4,58,1.8,Structural Analysis,31,100
+STU1052,Varun Ali,Civil,2023-2027,4,58,1.8,Mathematics,36,100
+STU1052,Varun Ali,Civil,2023-2027,4,58,1.8,Concrete Technology,43,100
+STU1052,Varun Ali,Civil,2023-2027,4,58,1.8,Geotechnics,24,100
+STU1053,Varun Krishnan,Computer Science,2023-2027,1,60,0.6,Programming,33,100
+STU1053,Varun Krishnan,Computer Science,2023-2027,1,60,0.6,Data Structures,41,100
+STU1053,Varun Krishnan,Computer Science,2023-2027,1,60,0.6,Mathematics,31,100
+STU1053,Varun Krishnan,Computer Science,2023-2027,1,60,0.6,Database Systems,38,100
+STU1053,Varun Krishnan,Computer Science,2023-2027,1,60,0.6,Computer Networks,34,100
+STU1053,Varun Krishnan,Computer Science,2023-2027,2,68,1.3,Programming,46,100
+STU1053,Varun Krishnan,Computer Science,2023-2027,2,68,1.3,Data Structures,55,100
+STU1053,Varun Krishnan,Computer Science,2023-2027,2,68,1.3,Mathematics,50,100
+STU1053,Varun Krishnan,Computer Science,2023-2027,2,68,1.3,Database Systems,36,100
+STU1053,Varun Krishnan,Computer Science,2023-2027,2,68,1.3,Computer Networks,52,100
+STU1053,Varun Krishnan,Computer Science,2023-2027,3,67,1.8,Programming,44,100
+STU1053,Varun Krishnan,Computer Science,2023-2027,3,67,1.8,Data Structures,43,100
+STU1053,Varun Krishnan,Computer Science,2023-2027,3,67,1.8,Mathematics,40,100
+STU1053,Varun Krishnan,Computer Science,2023-2027,3,67,1.8,Database Systems,47,100
+STU1053,Varun Krishnan,Computer Science,2023-2027,3,67,1.8,Computer Networks,39,100
+STU1053,Varun Krishnan,Computer Science,2023-2027,4,68,1.3,Programming,41,100
+STU1053,Varun Krishnan,Computer Science,2023-2027,4,68,1.3,Data Structures,36,100
+STU1053,Varun Krishnan,Computer Science,2023-2027,4,68,1.3,Mathematics,37,100
+STU1053,Varun Krishnan,Computer Science,2023-2027,4,68,1.3,Database Systems,31,100
+STU1053,Varun Krishnan,Computer Science,2023-2027,4,68,1.3,Computer Networks,51,100
+STU1054,Krishna Sharma,Electronics,2023-2027,1,89,4.7,Circuit Theory,100,100
+STU1054,Krishna Sharma,Electronics,2023-2027,1,89,4.7,Digital Electronics,95,100
+STU1054,Krishna Sharma,Electronics,2023-2027,1,89,4.7,Mathematics,99,100
+STU1054,Krishna Sharma,Electronics,2023-2027,1,89,4.7,Signals and Systems,82,100
+STU1054,Krishna Sharma,Electronics,2023-2027,1,89,4.7,Microprocessors,100,100
+STU1054,Krishna Sharma,Electronics,2023-2027,2,91,3.1,Circuit Theory,92,100
+STU1054,Krishna Sharma,Electronics,2023-2027,2,91,3.1,Digital Electronics,96,100
+STU1054,Krishna Sharma,Electronics,2023-2027,2,91,3.1,Mathematics,82,100
+STU1054,Krishna Sharma,Electronics,2023-2027,2,91,3.1,Signals and Systems,79,100
+STU1054,Krishna Sharma,Electronics,2023-2027,2,91,3.1,Microprocessors,71,100
+STU1054,Krishna Sharma,Electronics,2023-2027,3,89,3.2,Circuit Theory,94,100
+STU1054,Krishna Sharma,Electronics,2023-2027,3,89,3.2,Digital Electronics,87,100
+STU1054,Krishna Sharma,Electronics,2023-2027,3,89,3.2,Mathematics,82,100
+STU1054,Krishna Sharma,Electronics,2023-2027,3,89,3.2,Signals and Systems,86,100
+STU1054,Krishna Sharma,Electronics,2023-2027,3,89,3.2,Microprocessors,99,100
+STU1054,Krishna Sharma,Electronics,2023-2027,4,93,4.5,Circuit Theory,87,100
+STU1054,Krishna Sharma,Electronics,2023-2027,4,93,4.5,Digital Electronics,96,100
+STU1054,Krishna Sharma,Electronics,2023-2027,4,93,4.5,Mathematics,97,100
+STU1054,Krishna Sharma,Electronics,2023-2027,4,93,4.5,Signals and Systems,92,100
+STU1054,Krishna Sharma,Electronics,2023-2027,4,93,4.5,Microprocessors,99,100
+STU1055,Farhan Ali,Mechanical,2023-2027,1,72,0.6,Thermodynamics,62,100
+STU1055,Farhan Ali,Mechanical,2023-2027,1,72,0.6,Fluid Mechanics,29,100
+STU1055,Farhan Ali,Mechanical,2023-2027,1,72,0.6,Mathematics,48,100
+STU1055,Farhan Ali,Mechanical,2023-2027,1,72,0.6,Machine Design,61,100
+STU1055,Farhan Ali,Mechanical,2023-2027,1,72,0.6,Manufacturing,50,100
+STU1055,Farhan Ali,Mechanical,2023-2027,2,61,2.2,Thermodynamics,32,100
+STU1055,Farhan Ali,Mechanical,2023-2027,2,61,2.2,Fluid Mechanics,56,100
+STU1055,Farhan Ali,Mechanical,2023-2027,2,61,2.2,Mathematics,47,100
+STU1055,Farhan Ali,Mechanical,2023-2027,2,61,2.2,Machine Design,38,100
+STU1055,Farhan Ali,Mechanical,2023-2027,2,61,2.2,Manufacturing,43,100
+STU1055,Farhan Ali,Mechanical,2023-2027,3,70,2.1,Thermodynamics,36,100
+STU1055,Farhan Ali,Mechanical,2023-2027,3,70,2.1,Fluid Mechanics,47,100
+STU1055,Farhan Ali,Mechanical,2023-2027,3,70,2.1,Mathematics,43,100
+STU1055,Farhan Ali,Mechanical,2023-2027,3,70,2.1,Machine Design,60,100
+STU1055,Farhan Ali,Mechanical,2023-2027,3,70,2.1,Manufacturing,39,100
+STU1055,Farhan Ali,Mechanical,2023-2027,4,72,1.7,Thermodynamics,53,100
+STU1055,Farhan Ali,Mechanical,2023-2027,4,72,1.7,Fluid Mechanics,52,100
+STU1055,Farhan Ali,Mechanical,2023-2027,4,72,1.7,Mathematics,48,100
+STU1055,Farhan Ali,Mechanical,2023-2027,4,72,1.7,Machine Design,59,100
+STU1055,Farhan Ali,Mechanical,2023-2027,4,72,1.7,Manufacturing,48,100
+STU1056,Nandana Rahman,Civil,2023-2027,1,48,0.5,Surveying,21,100
+STU1056,Nandana Rahman,Civil,2023-2027,1,48,0.5,Structural Analysis,21,100
+STU1056,Nandana Rahman,Civil,2023-2027,1,48,0.5,Mathematics,44,100
+STU1056,Nandana Rahman,Civil,2023-2027,1,48,0.5,Concrete Technology,29,100
+STU1056,Nandana Rahman,Civil,2023-2027,1,48,0.5,Geotechnics,30,100
+STU1056,Nandana Rahman,Civil,2023-2027,2,50,0.6,Surveying,16,100
+STU1056,Nandana Rahman,Civil,2023-2027,2,50,0.6,Structural Analysis,31,100
+STU1056,Nandana Rahman,Civil,2023-2027,2,50,0.6,Mathematics,14,100
+STU1056,Nandana Rahman,Civil,2023-2027,2,50,0.6,Concrete Technology,22,100
+STU1056,Nandana Rahman,Civil,2023-2027,2,50,0.6,Geotechnics,19,100
+STU1056,Nandana Rahman,Civil,2023-2027,3,54,0.8,Surveying,29,100
+STU1056,Nandana Rahman,Civil,2023-2027,3,54,0.8,Structural Analysis,25,100
+STU1056,Nandana Rahman,Civil,2023-2027,3,54,0.8,Mathematics,35,100
+STU1056,Nandana Rahman,Civil,2023-2027,3,54,0.8,Concrete Technology,33,100
+STU1056,Nandana Rahman,Civil,2023-2027,3,54,0.8,Geotechnics,30,100
+STU1056,Nandana Rahman,Civil,2023-2027,4,59,0.7,Surveying,27,100
+STU1056,Nandana Rahman,Civil,2023-2027,4,59,0.7,Structural Analysis,31,100
+STU1056,Nandana Rahman,Civil,2023-2027,4,59,0.7,Mathematics,43,100
+STU1056,Nandana Rahman,Civil,2023-2027,4,59,0.7,Concrete Technology,19,100
+STU1056,Nandana Rahman,Civil,2023-2027,4,59,0.7,Geotechnics,36,100
+STU1057,Midhun Kumar,Computer Science,2023-2027,1,66,1.4,Programming,39,100
+STU1057,Midhun Kumar,Computer Science,2023-2027,1,66,1.4,Data Structures,33,100
+STU1057,Midhun Kumar,Computer Science,2023-2027,1,66,1.4,Mathematics,38,100
+STU1057,Midhun Kumar,Computer Science,2023-2027,1,66,1.4,Database Systems,36,100
+STU1057,Midhun Kumar,Computer Science,2023-2027,1,66,1.4,Computer Networks,32,100
+STU1057,Midhun Kumar,Computer Science,2023-2027,2,59,0.6,Programming,27,100
+STU1057,Midhun Kumar,Computer Science,2023-2027,2,59,0.6,Data Structures,23,100
+STU1057,Midhun Kumar,Computer Science,2023-2027,2,59,0.6,Mathematics,37,100
+STU1057,Midhun Kumar,Computer Science,2023-2027,2,59,0.6,Database Systems,38,100
+STU1057,Midhun Kumar,Computer Science,2023-2027,2,59,0.6,Computer Networks,36,100
+STU1057,Midhun Kumar,Computer Science,2023-2027,3,61,1.5,Programming,42,100
+STU1057,Midhun Kumar,Computer Science,2023-2027,3,61,1.5,Data Structures,39,100
+STU1057,Midhun Kumar,Computer Science,2023-2027,3,61,1.5,Mathematics,35,100
+STU1057,Midhun Kumar,Computer Science,2023-2027,3,61,1.5,Database Systems,57,100
+STU1057,Midhun Kumar,Computer Science,2023-2027,3,61,1.5,Computer Networks,36,100
+STU1057,Midhun Kumar,Computer Science,2023-2027,4,59,1.1,Programming,22,100
+STU1057,Midhun Kumar,Computer Science,2023-2027,4,59,1.1,Data Structures,42,100
+STU1057,Midhun Kumar,Computer Science,2023-2027,4,59,1.1,Mathematics,33,100
+STU1057,Midhun Kumar,Computer Science,2023-2027,4,59,1.1,Database Systems,25,100
+STU1057,Midhun Kumar,Computer Science,2023-2027,4,59,1.1,Computer Networks,43,100
+STU1058,Aiswarya Pillai,Electronics,2023-2027,1,86,3.2,Circuit Theory,71,100
+STU1058,Aiswarya Pillai,Electronics,2023-2027,1,86,3.2,Digital Electronics,84,100
+STU1058,Aiswarya Pillai,Electronics,2023-2027,1,86,3.2,Mathematics,73,100
+STU1058,Aiswarya Pillai,Electronics,2023-2027,1,86,3.2,Signals and Systems,71,100
+STU1058,Aiswarya Pillai,Electronics,2023-2027,1,86,3.2,Microprocessors,66,100
+STU1058,Aiswarya Pillai,Electronics,2023-2027,2,85,3.2,Circuit Theory,71,100
+STU1058,Aiswarya Pillai,Electronics,2023-2027,2,85,3.2,Digital Electronics,78,100
+STU1058,Aiswarya Pillai,Electronics,2023-2027,2,85,3.2,Mathematics,77,100
+STU1058,Aiswarya Pillai,Electronics,2023-2027,2,85,3.2,Signals and Systems,67,100
+STU1058,Aiswarya Pillai,Electronics,2023-2027,2,85,3.2,Microprocessors,66,100
+STU1058,Aiswarya Pillai,Electronics,2023-2027,3,72,3.3,Circuit Theory,72,100
+STU1058,Aiswarya Pillai,Electronics,2023-2027,3,72,3.3,Digital Electronics,86,100
+STU1058,Aiswarya Pillai,Electronics,2023-2027,3,72,3.3,Mathematics,71,100
+STU1058,Aiswarya Pillai,Electronics,2023-2027,3,72,3.3,Signals and Systems,81,100
+STU1058,Aiswarya Pillai,Electronics,2023-2027,3,72,3.3,Microprocessors,72,100
+STU1058,Aiswarya Pillai,Electronics,2023-2027,4,85,2.9,Circuit Theory,83,100
+STU1058,Aiswarya Pillai,Electronics,2023-2027,4,85,2.9,Digital Electronics,67,100
+STU1058,Aiswarya Pillai,Electronics,2023-2027,4,85,2.9,Mathematics,78,100
+STU1058,Aiswarya Pillai,Electronics,2023-2027,4,85,2.9,Signals and Systems,83,100
+STU1058,Aiswarya Pillai,Electronics,2023-2027,4,85,2.9,Microprocessors,81,100
+STU1059,Devika Pillai,Mechanical,2023-2027,1,86,3.5,Thermodynamics,96,100
+STU1059,Devika Pillai,Mechanical,2023-2027,1,86,3.5,Fluid Mechanics,94,100
+STU1059,Devika Pillai,Mechanical,2023-2027,1,86,3.5,Mathematics,91,100
+STU1059,Devika Pillai,Mechanical,2023-2027,1,86,3.5,Machine Design,81,100
+STU1059,Devika Pillai,Mechanical,2023-2027,1,86,3.5,Manufacturing,96,100
+STU1059,Devika Pillai,Mechanical,2023-2027,2,95,5.3,Thermodynamics,96,100
+STU1059,Devika Pillai,Mechanical,2023-2027,2,95,5.3,Fluid Mechanics,97,100
+STU1059,Devika Pillai,Mechanical,2023-2027,2,95,5.3,Mathematics,89,100
+STU1059,Devika Pillai,Mechanical,2023-2027,2,95,5.3,Machine Design,78,100
+STU1059,Devika Pillai,Mechanical,2023-2027,2,95,5.3,Manufacturing,88,100
+STU1059,Devika Pillai,Mechanical,2023-2027,3,85,4.8,Thermodynamics,93,100
+STU1059,Devika Pillai,Mechanical,2023-2027,3,85,4.8,Fluid Mechanics,94,100
+STU1059,Devika Pillai,Mechanical,2023-2027,3,85,4.8,Mathematics,89,100
+STU1059,Devika Pillai,Mechanical,2023-2027,3,85,4.8,Machine Design,90,100
+STU1059,Devika Pillai,Mechanical,2023-2027,3,85,4.8,Manufacturing,99,100
+STU1059,Devika Pillai,Mechanical,2023-2027,4,95,4.0,Thermodynamics,92,100
+STU1059,Devika Pillai,Mechanical,2023-2027,4,95,4.0,Fluid Mechanics,84,100
+STU1059,Devika Pillai,Mechanical,2023-2027,4,95,4.0,Mathematics,79,100
+STU1059,Devika Pillai,Mechanical,2023-2027,4,95,4.0,Machine Design,93,100
+STU1059,Devika Pillai,Mechanical,2023-2027,4,95,4.0,Manufacturing,95,100
+STU1060,Kavya Krishnan,Civil,2023-2027,1,65,0.5,Surveying,36,100
+STU1060,Kavya Krishnan,Civil,2023-2027,1,65,0.5,Structural Analysis,47,100
+STU1060,Kavya Krishnan,Civil,2023-2027,1,65,0.5,Mathematics,46,100
+STU1060,Kavya Krishnan,Civil,2023-2027,1,65,0.5,Concrete Technology,34,100
+STU1060,Kavya Krishnan,Civil,2023-2027,1,65,0.5,Geotechnics,45,100
+STU1060,Kavya Krishnan,Civil,2023-2027,2,70,1.7,Surveying,46,100
+STU1060,Kavya Krishnan,Civil,2023-2027,2,70,1.7,Structural Analysis,44,100
+STU1060,Kavya Krishnan,Civil,2023-2027,2,70,1.7,Mathematics,53,100
+STU1060,Kavya Krishnan,Civil,2023-2027,2,70,1.7,Concrete Technology,51,100
+STU1060,Kavya Krishnan,Civil,2023-2027,2,70,1.7,Geotechnics,54,100
+STU1060,Kavya Krishnan,Civil,2023-2027,3,68,1.6,Surveying,52,100
+STU1060,Kavya Krishnan,Civil,2023-2027,3,68,1.6,Structural Analysis,53,100
+STU1060,Kavya Krishnan,Civil,2023-2027,3,68,1.6,Mathematics,40,100
+STU1060,Kavya Krishnan,Civil,2023-2027,3,68,1.6,Concrete Technology,32,100
+STU1060,Kavya Krishnan,Civil,2023-2027,3,68,1.6,Geotechnics,58,100
+STU1060,Kavya Krishnan,Civil,2023-2027,4,58,1.3,Surveying,51,100
+STU1060,Kavya Krishnan,Civil,2023-2027,4,58,1.3,Structural Analysis,42,100
+STU1060,Kavya Krishnan,Civil,2023-2027,4,58,1.3,Mathematics,40,100
+STU1060,Kavya Krishnan,Civil,2023-2027,4,58,1.3,Concrete Technology,56,100
+STU1060,Kavya Krishnan,Civil,2023-2027,4,58,1.3,Geotechnics,36,100
+STU1061,Rinsha Rahman,Computer Science,2024-2028,1,71,2.3,Programming,61,100
+STU1061,Rinsha Rahman,Computer Science,2024-2028,1,71,2.3,Data Structures,56,100
+STU1061,Rinsha Rahman,Computer Science,2024-2028,1,71,2.3,Mathematics,58,100
+STU1061,Rinsha Rahman,Computer Science,2024-2028,1,71,2.3,Database Systems,52,100
+STU1061,Rinsha Rahman,Computer Science,2024-2028,1,71,2.3,Computer Networks,55,100
+STU1061,Rinsha Rahman,Computer Science,2024-2028,2,70,2.4,Programming,58,100
+STU1061,Rinsha Rahman,Computer Science,2024-2028,2,70,2.4,Data Structures,54,100
+STU1061,Rinsha Rahman,Computer Science,2024-2028,2,70,2.4,Mathematics,47,100
+STU1061,Rinsha Rahman,Computer Science,2024-2028,2,70,2.4,Database Systems,54,100
+STU1061,Rinsha Rahman,Computer Science,2024-2028,2,70,2.4,Computer Networks,54,100
+STU1061,Rinsha Rahman,Computer Science,2024-2028,3,78,1.7,Programming,58,100
+STU1061,Rinsha Rahman,Computer Science,2024-2028,3,78,1.7,Data Structures,63,100
+STU1061,Rinsha Rahman,Computer Science,2024-2028,3,78,1.7,Mathematics,55,100
+STU1061,Rinsha Rahman,Computer Science,2024-2028,3,78,1.7,Database Systems,73,100
+STU1061,Rinsha Rahman,Computer Science,2024-2028,3,78,1.7,Computer Networks,51,100
+STU1061,Rinsha Rahman,Computer Science,2024-2028,4,66,1.9,Programming,55,100
+STU1061,Rinsha Rahman,Computer Science,2024-2028,4,66,1.9,Data Structures,60,100
+STU1061,Rinsha Rahman,Computer Science,2024-2028,4,66,1.9,Mathematics,56,100
+STU1061,Rinsha Rahman,Computer Science,2024-2028,4,66,1.9,Database Systems,63,100
+STU1061,Rinsha Rahman,Computer Science,2024-2028,4,66,1.9,Computer Networks,52,100
+STU1062,Zahra Kumar,Electronics,2024-2028,1,81,2.5,Circuit Theory,65,100
+STU1062,Zahra Kumar,Electronics,2024-2028,1,81,2.5,Digital Electronics,63,100
+STU1062,Zahra Kumar,Electronics,2024-2028,1,81,2.5,Mathematics,78,100
+STU1062,Zahra Kumar,Electronics,2024-2028,1,81,2.5,Signals and Systems,67,100
+STU1062,Zahra Kumar,Electronics,2024-2028,1,81,2.5,Microprocessors,71,100
+STU1062,Zahra Kumar,Electronics,2024-2028,2,76,1.9,Circuit Theory,51,100
+STU1062,Zahra Kumar,Electronics,2024-2028,2,76,1.9,Digital Electronics,61,100
+STU1062,Zahra Kumar,Electronics,2024-2028,2,76,1.9,Mathematics,64,100
+STU1062,Zahra Kumar,Electronics,2024-2028,2,76,1.9,Signals and Systems,62,100
+STU1062,Zahra Kumar,Electronics,2024-2028,2,76,1.9,Microprocessors,53,100
+STU1062,Zahra Kumar,Electronics,2024-2028,3,72,2.2,Circuit Theory,54,100
+STU1062,Zahra Kumar,Electronics,2024-2028,3,72,2.2,Digital Electronics,72,100
+STU1062,Zahra Kumar,Electronics,2024-2028,3,72,2.2,Mathematics,67,100
+STU1062,Zahra Kumar,Electronics,2024-2028,3,72,2.2,Signals and Systems,67,100
+STU1062,Zahra Kumar,Electronics,2024-2028,3,72,2.2,Microprocessors,72,100
+STU1062,Zahra Kumar,Electronics,2024-2028,4,73,2.5,Circuit Theory,64,100
+STU1062,Zahra Kumar,Electronics,2024-2028,4,73,2.5,Digital Electronics,62,100
+STU1062,Zahra Kumar,Electronics,2024-2028,4,73,2.5,Mathematics,61,100
+STU1062,Zahra Kumar,Electronics,2024-2028,4,73,2.5,Signals and Systems,67,100
+STU1062,Zahra Kumar,Electronics,2024-2028,4,73,2.5,Microprocessors,59,100
+STU1063,Nandana Das,Mechanical,2024-2028,1,81,3.1,Thermodynamics,76,100
+STU1063,Nandana Das,Mechanical,2024-2028,1,81,3.1,Fluid Mechanics,68,100
+STU1063,Nandana Das,Mechanical,2024-2028,1,81,3.1,Mathematics,88,100
+STU1063,Nandana Das,Mechanical,2024-2028,1,81,3.1,Machine Design,73,100
+STU1063,Nandana Das,Mechanical,2024-2028,1,81,3.1,Manufacturing,56,100
+STU1063,Nandana Das,Mechanical,2024-2028,2,70,2.7,Thermodynamics,64,100
+STU1063,Nandana Das,Mechanical,2024-2028,2,70,2.7,Fluid Mechanics,62,100
+STU1063,Nandana Das,Mechanical,2024-2028,2,70,2.7,Mathematics,81,100
+STU1063,Nandana Das,Mechanical,2024-2028,2,70,2.7,Machine Design,70,100
+STU1063,Nandana Das,Mechanical,2024-2028,2,70,2.7,Manufacturing,71,100
+STU1063,Nandana Das,Mechanical,2024-2028,3,73,2.7,Thermodynamics,67,100
+STU1063,Nandana Das,Mechanical,2024-2028,3,73,2.7,Fluid Mechanics,51,100
+STU1063,Nandana Das,Mechanical,2024-2028,3,73,2.7,Mathematics,65,100
+STU1063,Nandana Das,Mechanical,2024-2028,3,73,2.7,Machine Design,66,100
+STU1063,Nandana Das,Mechanical,2024-2028,3,73,2.7,Manufacturing,64,100
+STU1063,Nandana Das,Mechanical,2024-2028,4,75,2.6,Thermodynamics,67,100
+STU1063,Nandana Das,Mechanical,2024-2028,4,75,2.6,Fluid Mechanics,71,100
+STU1063,Nandana Das,Mechanical,2024-2028,4,75,2.6,Mathematics,75,100
+STU1063,Nandana Das,Mechanical,2024-2028,4,75,2.6,Machine Design,64,100
+STU1063,Nandana Das,Mechanical,2024-2028,4,75,2.6,Manufacturing,63,100
+STU1064,Nandana Kumar,Civil,2024-2028,1,80,3.5,Surveying,82,100
+STU1064,Nandana Kumar,Civil,2024-2028,1,80,3.5,Structural Analysis,85,100
+STU1064,Nandana Kumar,Civil,2024-2028,1,80,3.5,Mathematics,89,100
+STU1064,Nandana Kumar,Civil,2024-2028,1,80,3.5,Concrete Technology,68,100
+STU1064,Nandana Kumar,Civil,2024-2028,1,80,3.5,Geotechnics,75,100
+STU1064,Nandana Kumar,Civil,2024-2028,2,80,2.6,Surveying,59,100
+STU1064,Nandana Kumar,Civil,2024-2028,2,80,2.6,Structural Analysis,72,100
+STU1064,Nandana Kumar,Civil,2024-2028,2,80,2.6,Mathematics,65,100
+STU1064,Nandana Kumar,Civil,2024-2028,2,80,2.6,Concrete Technology,72,100
+STU1064,Nandana Kumar,Civil,2024-2028,2,80,2.6,Geotechnics,65,100
+STU1064,Nandana Kumar,Civil,2024-2028,3,78,2.8,Surveying,72,100
+STU1064,Nandana Kumar,Civil,2024-2028,3,78,2.8,Structural Analysis,85,100
+STU1064,Nandana Kumar,Civil,2024-2028,3,78,2.8,Mathematics,70,100
+STU1064,Nandana Kumar,Civil,2024-2028,3,78,2.8,Concrete Technology,72,100
+STU1064,Nandana Kumar,Civil,2024-2028,3,78,2.8,Geotechnics,59,100
+STU1064,Nandana Kumar,Civil,2024-2028,4,83,2.2,Surveying,59,100
+STU1064,Nandana Kumar,Civil,2024-2028,4,83,2.2,Structural Analysis,67,100
+STU1064,Nandana Kumar,Civil,2024-2028,4,83,2.2,Mathematics,66,100
+STU1064,Nandana Kumar,Civil,2024-2028,4,83,2.2,Concrete Technology,60,100
+STU1064,Nandana Kumar,Civil,2024-2028,4,83,2.2,Geotechnics,65,100
+STU1065,Varun Mathew,Computer Science,2024-2028,1,80,3.9,Programming,85,100
+STU1065,Varun Mathew,Computer Science,2024-2028,1,80,3.9,Data Structures,76,100
+STU1065,Varun Mathew,Computer Science,2024-2028,1,80,3.9,Mathematics,68,100
+STU1065,Varun Mathew,Computer Science,2024-2028,1,80,3.9,Database Systems,75,100
+STU1065,Varun Mathew,Computer Science,2024-2028,1,80,3.9,Computer Networks,80,100
+STU1065,Varun Mathew,Computer Science,2024-2028,2,86,3.8,Programming,93,100
+STU1065,Varun Mathew,Computer Science,2024-2028,2,86,3.8,Data Structures,69,100
+STU1065,Varun Mathew,Computer Science,2024-2028,2,86,3.8,Mathematics,96,100
+STU1065,Varun Mathew,Computer Science,2024-2028,2,86,3.8,Database Systems,79,100
+STU1065,Varun Mathew,Computer Science,2024-2028,2,86,3.8,Computer Networks,91,100
+STU1065,Varun Mathew,Computer Science,2024-2028,3,92,3.9,Programming,67,100
+STU1065,Varun Mathew,Computer Science,2024-2028,3,92,3.9,Data Structures,80,100
+STU1065,Varun Mathew,Computer Science,2024-2028,3,92,3.9,Mathematics,87,100
+STU1065,Varun Mathew,Computer Science,2024-2028,3,92,3.9,Database Systems,85,100
+STU1065,Varun Mathew,Computer Science,2024-2028,3,92,3.9,Computer Networks,90,100
+STU1065,Varun Mathew,Computer Science,2024-2028,4,91,3.6,Programming,73,100
+STU1065,Varun Mathew,Computer Science,2024-2028,4,91,3.6,Data Structures,84,100
+STU1065,Varun Mathew,Computer Science,2024-2028,4,91,3.6,Mathematics,91,100
+STU1065,Varun Mathew,Computer Science,2024-2028,4,91,3.6,Database Systems,79,100
+STU1065,Varun Mathew,Computer Science,2024-2028,4,91,3.6,Computer Networks,92,100
+STU1066,Neha Nair,Electronics,2024-2028,1,72,2.7,Circuit Theory,92,100
+STU1066,Neha Nair,Electronics,2024-2028,1,72,2.7,Digital Electronics,72,100
+STU1066,Neha Nair,Electronics,2024-2028,1,72,2.7,Mathematics,61,100
+STU1066,Neha Nair,Electronics,2024-2028,1,72,2.7,Signals and Systems,87,100
+STU1066,Neha Nair,Electronics,2024-2028,1,72,2.7,Microprocessors,77,100
+STU1066,Neha Nair,Electronics,2024-2028,2,88,3.8,Circuit Theory,87,100
+STU1066,Neha Nair,Electronics,2024-2028,2,88,3.8,Digital Electronics,90,100
+STU1066,Neha Nair,Electronics,2024-2028,2,88,3.8,Mathematics,100,100
+STU1066,Neha Nair,Electronics,2024-2028,2,88,3.8,Signals and Systems,92,100
+STU1066,Neha Nair,Electronics,2024-2028,2,88,3.8,Microprocessors,71,100
+STU1066,Neha Nair,Electronics,2024-2028,3,90,4.0,Circuit Theory,79,100
+STU1066,Neha Nair,Electronics,2024-2028,3,90,4.0,Digital Electronics,92,100
+STU1066,Neha Nair,Electronics,2024-2028,3,90,4.0,Mathematics,90,100
+STU1066,Neha Nair,Electronics,2024-2028,3,90,4.0,Signals and Systems,100,100
+STU1066,Neha Nair,Electronics,2024-2028,3,90,4.0,Microprocessors,76,100
+STU1066,Neha Nair,Electronics,2024-2028,4,82,3.0,Circuit Theory,70,100
+STU1066,Neha Nair,Electronics,2024-2028,4,82,3.0,Digital Electronics,55,100
+STU1066,Neha Nair,Electronics,2024-2028,4,82,3.0,Mathematics,73,100
+STU1066,Neha Nair,Electronics,2024-2028,4,82,3.0,Signals and Systems,80,100
+STU1066,Neha Nair,Electronics,2024-2028,4,82,3.0,Microprocessors,73,100
+STU1067,Hari Ibrahim,Mechanical,2024-2028,1,99,4.3,Thermodynamics,100,100
+STU1067,Hari Ibrahim,Mechanical,2024-2028,1,99,4.3,Fluid Mechanics,98,100
+STU1067,Hari Ibrahim,Mechanical,2024-2028,1,99,4.3,Mathematics,100,100
+STU1067,Hari Ibrahim,Mechanical,2024-2028,1,99,4.3,Machine Design,97,100
+STU1067,Hari Ibrahim,Mechanical,2024-2028,1,99,4.3,Manufacturing,100,100
+STU1067,Hari Ibrahim,Mechanical,2024-2028,2,93,4.4,Thermodynamics,100,100
+STU1067,Hari Ibrahim,Mechanical,2024-2028,2,93,4.4,Fluid Mechanics,94,100
+STU1067,Hari Ibrahim,Mechanical,2024-2028,2,93,4.4,Mathematics,100,100
+STU1067,Hari Ibrahim,Mechanical,2024-2028,2,93,4.4,Machine Design,100,100
+STU1067,Hari Ibrahim,Mechanical,2024-2028,2,93,4.4,Manufacturing,100,100
+STU1067,Hari Ibrahim,Mechanical,2024-2028,3,84,4.4,Thermodynamics,76,100
+STU1067,Hari Ibrahim,Mechanical,2024-2028,3,84,4.4,Fluid Mechanics,100,100
+STU1067,Hari Ibrahim,Mechanical,2024-2028,3,84,4.4,Mathematics,95,100
+STU1067,Hari Ibrahim,Mechanical,2024-2028,3,84,4.4,Machine Design,100,100
+STU1067,Hari Ibrahim,Mechanical,2024-2028,3,84,4.4,Manufacturing,87,100
+STU1067,Hari Ibrahim,Mechanical,2024-2028,4,91,3.8,Thermodynamics,85,100
+STU1067,Hari Ibrahim,Mechanical,2024-2028,4,91,3.8,Fluid Mechanics,90,100
+STU1067,Hari Ibrahim,Mechanical,2024-2028,4,91,3.8,Mathematics,100,100
+STU1067,Hari Ibrahim,Mechanical,2024-2028,4,91,3.8,Machine Design,96,100
+STU1067,Hari Ibrahim,Mechanical,2024-2028,4,91,3.8,Manufacturing,98,100
+STU1068,Jasim Thomas,Civil,2024-2028,1,86,2.5,Surveying,81,100
+STU1068,Jasim Thomas,Civil,2024-2028,1,86,2.5,Structural Analysis,89,100
+STU1068,Jasim Thomas,Civil,2024-2028,1,86,2.5,Mathematics,74,100
+STU1068,Jasim Thomas,Civil,2024-2028,1,86,2.5,Concrete Technology,81,100
+STU1068,Jasim Thomas,Civil,2024-2028,1,86,2.5,Geotechnics,77,100
+STU1068,Jasim Thomas,Civil,2024-2028,2,90,3.9,Surveying,90,100
+STU1068,Jasim Thomas,Civil,2024-2028,2,90,3.9,Structural Analysis,85,100
+STU1068,Jasim Thomas,Civil,2024-2028,2,90,3.9,Mathematics,86,100
+STU1068,Jasim Thomas,Civil,2024-2028,2,90,3.9,Concrete Technology,75,100
+STU1068,Jasim Thomas,Civil,2024-2028,2,90,3.9,Geotechnics,67,100
+STU1068,Jasim Thomas,Civil,2024-2028,3,85,3.9,Surveying,92,100
+STU1068,Jasim Thomas,Civil,2024-2028,3,85,3.9,Structural Analysis,92,100
+STU1068,Jasim Thomas,Civil,2024-2028,3,85,3.9,Mathematics,72,100
+STU1068,Jasim Thomas,Civil,2024-2028,3,85,3.9,Concrete Technology,77,100
+STU1068,Jasim Thomas,Civil,2024-2028,3,85,3.9,Geotechnics,84,100
+STU1068,Jasim Thomas,Civil,2024-2028,4,95,4.3,Surveying,86,100
+STU1068,Jasim Thomas,Civil,2024-2028,4,95,4.3,Structural Analysis,83,100
+STU1068,Jasim Thomas,Civil,2024-2028,4,95,4.3,Mathematics,96,100
+STU1068,Jasim Thomas,Civil,2024-2028,4,95,4.3,Concrete Technology,81,100
+STU1068,Jasim Thomas,Civil,2024-2028,4,95,4.3,Geotechnics,88,100
+STU1069,Farhan Ibrahim,Computer Science,2024-2028,1,77,1.6,Programming,71,100
+STU1069,Farhan Ibrahim,Computer Science,2024-2028,1,77,1.6,Data Structures,62,100
+STU1069,Farhan Ibrahim,Computer Science,2024-2028,1,77,1.6,Mathematics,68,100
+STU1069,Farhan Ibrahim,Computer Science,2024-2028,1,77,1.6,Database Systems,67,100
+STU1069,Farhan Ibrahim,Computer Science,2024-2028,1,77,1.6,Computer Networks,65,100
+STU1069,Farhan Ibrahim,Computer Science,2024-2028,2,71,2.4,Programming,70,100
+STU1069,Farhan Ibrahim,Computer Science,2024-2028,2,71,2.4,Data Structures,60,100
+STU1069,Farhan Ibrahim,Computer Science,2024-2028,2,71,2.4,Mathematics,52,100
+STU1069,Farhan Ibrahim,Computer Science,2024-2028,2,71,2.4,Database Systems,70,100
+STU1069,Farhan Ibrahim,Computer Science,2024-2028,2,71,2.4,Computer Networks,74,100
+STU1069,Farhan Ibrahim,Computer Science,2024-2028,3,67,2.9,Programming,49,100
+STU1069,Farhan Ibrahim,Computer Science,2024-2028,3,67,2.9,Data Structures,65,100
+STU1069,Farhan Ibrahim,Computer Science,2024-2028,3,67,2.9,Mathematics,55,100
+STU1069,Farhan Ibrahim,Computer Science,2024-2028,3,67,2.9,Database Systems,53,100
+STU1069,Farhan Ibrahim,Computer Science,2024-2028,3,67,2.9,Computer Networks,59,100
+STU1069,Farhan Ibrahim,Computer Science,2024-2028,4,72,2.8,Programming,59,100
+STU1069,Farhan Ibrahim,Computer Science,2024-2028,4,72,2.8,Data Structures,70,100
+STU1069,Farhan Ibrahim,Computer Science,2024-2028,4,72,2.8,Mathematics,65,100
+STU1069,Farhan Ibrahim,Computer Science,2024-2028,4,72,2.8,Database Systems,57,100
+STU1069,Farhan Ibrahim,Computer Science,2024-2028,4,72,2.8,Computer Networks,56,100
+STU1070,Jasim Mohan,Electronics,2024-2028,1,60,0.5,Circuit Theory,35,100
+STU1070,Jasim Mohan,Electronics,2024-2028,1,60,0.5,Digital Electronics,32,100
+STU1070,Jasim Mohan,Electronics,2024-2028,1,60,0.5,Mathematics,52,100
+STU1070,Jasim Mohan,Electronics,2024-2028,1,60,0.5,Signals and Systems,25,100
+STU1070,Jasim Mohan,Electronics,2024-2028,1,60,0.5,Microprocessors,27,100
+STU1070,Jasim Mohan,Electronics,2024-2028,2,69,1.1,Circuit Theory,39,100
+STU1070,Jasim Mohan,Electronics,2024-2028,2,69,1.1,Digital Electronics,49,100
+STU1070,Jasim Mohan,Electronics,2024-2028,2,69,1.1,Mathematics,25,100
+STU1070,Jasim Mohan,Electronics,2024-2028,2,69,1.1,Signals and Systems,29,100
+STU1070,Jasim Mohan,Electronics,2024-2028,2,69,1.1,Microprocessors,42,100
+STU1070,Jasim Mohan,Electronics,2024-2028,3,63,1.6,Circuit Theory,54,100
+STU1070,Jasim Mohan,Electronics,2024-2028,3,63,1.6,Digital Electronics,62,100
+STU1070,Jasim Mohan,Electronics,2024-2028,3,63,1.6,Mathematics,41,100
+STU1070,Jasim Mohan,Electronics,2024-2028,3,63,1.6,Signals and Systems,45,100
+STU1070,Jasim Mohan,Electronics,2024-2028,3,63,1.6,Microprocessors,60,100
+STU1070,Jasim Mohan,Electronics,2024-2028,4,62,0.5,Circuit Theory,34,100
+STU1070,Jasim Mohan,Electronics,2024-2028,4,62,0.5,Digital Electronics,31,100
+STU1070,Jasim Mohan,Electronics,2024-2028,4,62,0.5,Mathematics,26,100
+STU1070,Jasim Mohan,Electronics,2024-2028,4,62,0.5,Signals and Systems,26,100
+STU1070,Jasim Mohan,Electronics,2024-2028,4,62,0.5,Microprocessors,36,100
+STU1071,Midhun Varghese,Mechanical,2024-2028,1,85,3.7,Thermodynamics,73,100
+STU1071,Midhun Varghese,Mechanical,2024-2028,1,85,3.7,Fluid Mechanics,86,100
+STU1071,Midhun Varghese,Mechanical,2024-2028,1,85,3.7,Mathematics,87,100
+STU1071,Midhun Varghese,Mechanical,2024-2028,1,85,3.7,Machine Design,100,100
+STU1071,Midhun Varghese,Mechanical,2024-2028,1,85,3.7,Manufacturing,78,100
+STU1071,Midhun Varghese,Mechanical,2024-2028,2,87,3.7,Thermodynamics,75,100
+STU1071,Midhun Varghese,Mechanical,2024-2028,2,87,3.7,Fluid Mechanics,77,100
+STU1071,Midhun Varghese,Mechanical,2024-2028,2,87,3.7,Mathematics,84,100
+STU1071,Midhun Varghese,Mechanical,2024-2028,2,87,3.7,Machine Design,73,100
+STU1071,Midhun Varghese,Mechanical,2024-2028,2,87,3.7,Manufacturing,76,100
+STU1071,Midhun Varghese,Mechanical,2024-2028,3,89,3.1,Thermodynamics,66,100
+STU1071,Midhun Varghese,Mechanical,2024-2028,3,89,3.1,Fluid Mechanics,66,100
+STU1071,Midhun Varghese,Mechanical,2024-2028,3,89,3.1,Mathematics,71,100
+STU1071,Midhun Varghese,Mechanical,2024-2028,3,89,3.1,Machine Design,70,100
+STU1071,Midhun Varghese,Mechanical,2024-2028,3,89,3.1,Manufacturing,80,100
+STU1071,Midhun Varghese,Mechanical,2024-2028,4,79,2.8,Thermodynamics,71,100
+STU1071,Midhun Varghese,Mechanical,2024-2028,4,79,2.8,Fluid Mechanics,85,100
+STU1071,Midhun Varghese,Mechanical,2024-2028,4,79,2.8,Mathematics,80,100
+STU1071,Midhun Varghese,Mechanical,2024-2028,4,79,2.8,Machine Design,75,100
+STU1071,Midhun Varghese,Mechanical,2024-2028,4,79,2.8,Manufacturing,71,100
+STU1072,Vismaya Menon,Civil,2024-2028,1,75,1.9,Surveying,60,100
+STU1072,Vismaya Menon,Civil,2024-2028,1,75,1.9,Structural Analysis,43,100
+STU1072,Vismaya Menon,Civil,2024-2028,1,75,1.9,Mathematics,61,100
+STU1072,Vismaya Menon,Civil,2024-2028,1,75,1.9,Concrete Technology,65,100
+STU1072,Vismaya Menon,Civil,2024-2028,1,75,1.9,Geotechnics,57,100
+STU1072,Vismaya Menon,Civil,2024-2028,2,73,2.7,Surveying,65,100
+STU1072,Vismaya Menon,Civil,2024-2028,2,73,2.7,Structural Analysis,64,100
+STU1072,Vismaya Menon,Civil,2024-2028,2,73,2.7,Mathematics,64,100
+STU1072,Vismaya Menon,Civil,2024-2028,2,73,2.7,Concrete Technology,66,100
+STU1072,Vismaya Menon,Civil,2024-2028,2,73,2.7,Geotechnics,72,100
+STU1072,Vismaya Menon,Civil,2024-2028,3,75,2.9,Surveying,59,100
+STU1072,Vismaya Menon,Civil,2024-2028,3,75,2.9,Structural Analysis,70,100
+STU1072,Vismaya Menon,Civil,2024-2028,3,75,2.9,Mathematics,58,100
+STU1072,Vismaya Menon,Civil,2024-2028,3,75,2.9,Concrete Technology,73,100
+STU1072,Vismaya Menon,Civil,2024-2028,3,75,2.9,Geotechnics,82,100
+STU1072,Vismaya Menon,Civil,2024-2028,4,63,2.0,Surveying,66,100
+STU1072,Vismaya Menon,Civil,2024-2028,4,63,2.0,Structural Analysis,61,100
+STU1072,Vismaya Menon,Civil,2024-2028,4,63,2.0,Mathematics,58,100
+STU1072,Vismaya Menon,Civil,2024-2028,4,63,2.0,Concrete Technology,64,100
+STU1072,Vismaya Menon,Civil,2024-2028,4,63,2.0,Geotechnics,60,100
+STU1073,Zahra Joseph,Computer Science,2024-2028,1,95,3.9,Programming,96,100
+STU1073,Zahra Joseph,Computer Science,2024-2028,1,95,3.9,Data Structures,86,100
+STU1073,Zahra Joseph,Computer Science,2024-2028,1,95,3.9,Mathematics,84,100
+STU1073,Zahra Joseph,Computer Science,2024-2028,1,95,3.9,Database Systems,100,100
+STU1073,Zahra Joseph,Computer Science,2024-2028,1,95,3.9,Computer Networks,90,100
+STU1073,Zahra Joseph,Computer Science,2024-2028,2,89,3.4,Programming,87,100
+STU1073,Zahra Joseph,Computer Science,2024-2028,2,89,3.4,Data Structures,98,100
+STU1073,Zahra Joseph,Computer Science,2024-2028,2,89,3.4,Mathematics,91,100
+STU1073,Zahra Joseph,Computer Science,2024-2028,2,89,3.4,Database Systems,73,100
+STU1073,Zahra Joseph,Computer Science,2024-2028,2,89,3.4,Computer Networks,85,100
+STU1073,Zahra Joseph,Computer Science,2024-2028,3,90,3.0,Programming,100,100
+STU1073,Zahra Joseph,Computer Science,2024-2028,3,90,3.0,Data Structures,95,100
+STU1073,Zahra Joseph,Computer Science,2024-2028,3,90,3.0,Mathematics,89,100
+STU1073,Zahra Joseph,Computer Science,2024-2028,3,90,3.0,Database Systems,86,100
+STU1073,Zahra Joseph,Computer Science,2024-2028,3,90,3.0,Computer Networks,98,100
+STU1073,Zahra Joseph,Computer Science,2024-2028,4,90,3.7,Programming,85,100
+STU1073,Zahra Joseph,Computer Science,2024-2028,4,90,3.7,Data Structures,84,100
+STU1073,Zahra Joseph,Computer Science,2024-2028,4,90,3.7,Mathematics,81,100
+STU1073,Zahra Joseph,Computer Science,2024-2028,4,90,3.7,Database Systems,91,100
+STU1073,Zahra Joseph,Computer Science,2024-2028,4,90,3.7,Computer Networks,76,100
+STU1074,Abhirami Joseph,Electronics,2024-2028,1,65,1.7,Circuit Theory,46,100
+STU1074,Abhirami Joseph,Electronics,2024-2028,1,65,1.7,Digital Electronics,40,100
+STU1074,Abhirami Joseph,Electronics,2024-2028,1,65,1.7,Mathematics,49,100
+STU1074,Abhirami Joseph,Electronics,2024-2028,1,65,1.7,Signals and Systems,43,100
+STU1074,Abhirami Joseph,Electronics,2024-2028,1,65,1.7,Microprocessors,39,100
+STU1074,Abhirami Joseph,Electronics,2024-2028,2,69,0.5,Circuit Theory,43,100
+STU1074,Abhirami Joseph,Electronics,2024-2028,2,69,0.5,Digital Electronics,25,100
+STU1074,Abhirami Joseph,Electronics,2024-2028,2,69,0.5,Mathematics,38,100
+STU1074,Abhirami Joseph,Electronics,2024-2028,2,69,0.5,Signals and Systems,35,100
+STU1074,Abhirami Joseph,Electronics,2024-2028,2,69,0.5,Microprocessors,22,100
+STU1074,Abhirami Joseph,Electronics,2024-2028,3,61,0.5,Circuit Theory,46,100
+STU1074,Abhirami Joseph,Electronics,2024-2028,3,61,0.5,Digital Electronics,51,100
+STU1074,Abhirami Joseph,Electronics,2024-2028,3,61,0.5,Mathematics,52,100
+STU1074,Abhirami Joseph,Electronics,2024-2028,3,61,0.5,Signals and Systems,43,100
+STU1074,Abhirami Joseph,Electronics,2024-2028,3,61,0.5,Microprocessors,40,100
+STU1074,Abhirami Joseph,Electronics,2024-2028,4,71,2.1,Circuit Theory,39,100
+STU1074,Abhirami Joseph,Electronics,2024-2028,4,71,2.1,Digital Electronics,48,100
+STU1074,Abhirami Joseph,Electronics,2024-2028,4,71,2.1,Mathematics,50,100
+STU1074,Abhirami Joseph,Electronics,2024-2028,4,71,2.1,Signals and Systems,32,100
+STU1074,Abhirami Joseph,Electronics,2024-2028,4,71,2.1,Microprocessors,50,100
+STU1075,Arjun Kumar,Mechanical,2024-2028,1,100,4.6,Thermodynamics,100,100
+STU1075,Arjun Kumar,Mechanical,2024-2028,1,100,4.6,Fluid Mechanics,100,100
+STU1075,Arjun Kumar,Mechanical,2024-2028,1,100,4.6,Mathematics,97,100
+STU1075,Arjun Kumar,Mechanical,2024-2028,1,100,4.6,Machine Design,96,100
+STU1075,Arjun Kumar,Mechanical,2024-2028,1,100,4.6,Manufacturing,100,100
+STU1075,Arjun Kumar,Mechanical,2024-2028,2,96,5.2,Thermodynamics,100,100
+STU1075,Arjun Kumar,Mechanical,2024-2028,2,96,5.2,Fluid Mechanics,100,100
+STU1075,Arjun Kumar,Mechanical,2024-2028,2,96,5.2,Mathematics,100,100
+STU1075,Arjun Kumar,Mechanical,2024-2028,2,96,5.2,Machine Design,100,100
+STU1075,Arjun Kumar,Mechanical,2024-2028,2,96,5.2,Manufacturing,100,100
+STU1075,Arjun Kumar,Mechanical,2024-2028,3,100,5.0,Thermodynamics,100,100
+STU1075,Arjun Kumar,Mechanical,2024-2028,3,100,5.0,Fluid Mechanics,100,100
+STU1075,Arjun Kumar,Mechanical,2024-2028,3,100,5.0,Mathematics,100,100
+STU1075,Arjun Kumar,Mechanical,2024-2028,3,100,5.0,Machine Design,100,100
+STU1075,Arjun Kumar,Mechanical,2024-2028,3,100,5.0,Manufacturing,93,100
+STU1075,Arjun Kumar,Mechanical,2024-2028,4,100,4.4,Thermodynamics,83,100
+STU1075,Arjun Kumar,Mechanical,2024-2028,4,100,4.4,Fluid Mechanics,100,100
+STU1075,Arjun Kumar,Mechanical,2024-2028,4,100,4.4,Mathematics,94,100
+STU1075,Arjun Kumar,Mechanical,2024-2028,4,100,4.4,Machine Design,100,100
+STU1075,Arjun Kumar,Mechanical,2024-2028,4,100,4.4,Manufacturing,97,100
+STU1076,Midhun Ali,Civil,2024-2028,1,77,2.5,Surveying,70,100
+STU1076,Midhun Ali,Civil,2024-2028,1,77,2.5,Structural Analysis,78,100
+STU1076,Midhun Ali,Civil,2024-2028,1,77,2.5,Mathematics,61,100
+STU1076,Midhun Ali,Civil,2024-2028,1,77,2.5,Concrete Technology,58,100
+STU1076,Midhun Ali,Civil,2024-2028,1,77,2.5,Geotechnics,78,100
+STU1076,Midhun Ali,Civil,2024-2028,2,75,1.7,Surveying,59,100
+STU1076,Midhun Ali,Civil,2024-2028,2,75,1.7,Structural Analysis,64,100
+STU1076,Midhun Ali,Civil,2024-2028,2,75,1.7,Mathematics,72,100
+STU1076,Midhun Ali,Civil,2024-2028,2,75,1.7,Concrete Technology,58,100
+STU1076,Midhun Ali,Civil,2024-2028,2,75,1.7,Geotechnics,77,100
+STU1076,Midhun Ali,Civil,2024-2028,3,74,3.4,Surveying,68,100
+STU1076,Midhun Ali,Civil,2024-2028,3,74,3.4,Structural Analysis,62,100
+STU1076,Midhun Ali,Civil,2024-2028,3,74,3.4,Mathematics,65,100
+STU1076,Midhun Ali,Civil,2024-2028,3,74,3.4,Concrete Technology,77,100
+STU1076,Midhun Ali,Civil,2024-2028,3,74,3.4,Geotechnics,78,100
+STU1076,Midhun Ali,Civil,2024-2028,4,76,2.6,Surveying,57,100
+STU1076,Midhun Ali,Civil,2024-2028,4,76,2.6,Structural Analysis,65,100
+STU1076,Midhun Ali,Civil,2024-2028,4,76,2.6,Mathematics,65,100
+STU1076,Midhun Ali,Civil,2024-2028,4,76,2.6,Concrete Technology,74,100
+STU1076,Midhun Ali,Civil,2024-2028,4,76,2.6,Geotechnics,75,100
+STU1077,Jasim Krishnan,Computer Science,2024-2028,1,75,2.0,Programming,64,100
+STU1077,Jasim Krishnan,Computer Science,2024-2028,1,75,2.0,Data Structures,58,100
+STU1077,Jasim Krishnan,Computer Science,2024-2028,1,75,2.0,Mathematics,51,100
+STU1077,Jasim Krishnan,Computer Science,2024-2028,1,75,2.0,Database Systems,51,100
+STU1077,Jasim Krishnan,Computer Science,2024-2028,1,75,2.0,Computer Networks,71,100
+STU1077,Jasim Krishnan,Computer Science,2024-2028,2,79,2.0,Programming,62,100
+STU1077,Jasim Krishnan,Computer Science,2024-2028,2,79,2.0,Data Structures,79,100
+STU1077,Jasim Krishnan,Computer Science,2024-2028,2,79,2.0,Mathematics,51,100
+STU1077,Jasim Krishnan,Computer Science,2024-2028,2,79,2.0,Database Systems,45,100
+STU1077,Jasim Krishnan,Computer Science,2024-2028,2,79,2.0,Computer Networks,70,100
+STU1077,Jasim Krishnan,Computer Science,2024-2028,3,71,1.9,Programming,58,100
+STU1077,Jasim Krishnan,Computer Science,2024-2028,3,71,1.9,Data Structures,49,100
+STU1077,Jasim Krishnan,Computer Science,2024-2028,3,71,1.9,Mathematics,55,100
+STU1077,Jasim Krishnan,Computer Science,2024-2028,3,71,1.9,Database Systems,60,100
+STU1077,Jasim Krishnan,Computer Science,2024-2028,3,71,1.9,Computer Networks,48,100
+STU1077,Jasim Krishnan,Computer Science,2024-2028,4,70,1.5,Programming,53,100
+STU1077,Jasim Krishnan,Computer Science,2024-2028,4,70,1.5,Data Structures,57,100
+STU1077,Jasim Krishnan,Computer Science,2024-2028,4,70,1.5,Mathematics,53,100
+STU1077,Jasim Krishnan,Computer Science,2024-2028,4,70,1.5,Database Systems,54,100
+STU1077,Jasim Krishnan,Computer Science,2024-2028,4,70,1.5,Computer Networks,56,100
+STU1078,Jishnu Ibrahim,Electronics,2024-2028,1,77,2.0,Circuit Theory,62,100
+STU1078,Jishnu Ibrahim,Electronics,2024-2028,1,77,2.0,Digital Electronics,56,100
+STU1078,Jishnu Ibrahim,Electronics,2024-2028,1,77,2.0,Mathematics,61,100
+STU1078,Jishnu Ibrahim,Electronics,2024-2028,1,77,2.0,Signals and Systems,70,100
+STU1078,Jishnu Ibrahim,Electronics,2024-2028,1,77,2.0,Microprocessors,62,100
+STU1078,Jishnu Ibrahim,Electronics,2024-2028,2,68,2.3,Circuit Theory,47,100
+STU1078,Jishnu Ibrahim,Electronics,2024-2028,2,68,2.3,Digital Electronics,57,100
+STU1078,Jishnu Ibrahim,Electronics,2024-2028,2,68,2.3,Mathematics,44,100
+STU1078,Jishnu Ibrahim,Electronics,2024-2028,2,68,2.3,Signals and Systems,37,100
+STU1078,Jishnu Ibrahim,Electronics,2024-2028,2,68,2.3,Microprocessors,50,100
+STU1078,Jishnu Ibrahim,Electronics,2024-2028,3,65,2.4,Circuit Theory,34,100
+STU1078,Jishnu Ibrahim,Electronics,2024-2028,3,65,2.4,Digital Electronics,39,100
+STU1078,Jishnu Ibrahim,Electronics,2024-2028,3,65,2.4,Mathematics,41,100
+STU1078,Jishnu Ibrahim,Electronics,2024-2028,3,65,2.4,Signals and Systems,48,100
+STU1078,Jishnu Ibrahim,Electronics,2024-2028,3,65,2.4,Microprocessors,46,100
+STU1078,Jishnu Ibrahim,Electronics,2024-2028,4,77,2.6,Circuit Theory,62,100
+STU1078,Jishnu Ibrahim,Electronics,2024-2028,4,77,2.6,Digital Electronics,64,100
+STU1078,Jishnu Ibrahim,Electronics,2024-2028,4,77,2.6,Mathematics,54,100
+STU1078,Jishnu Ibrahim,Electronics,2024-2028,4,77,2.6,Signals and Systems,68,100
+STU1078,Jishnu Ibrahim,Electronics,2024-2028,4,77,2.6,Microprocessors,52,100
+STU1079,Gayathri Kurian,Mechanical,2024-2028,1,87,3.4,Thermodynamics,86,100
+STU1079,Gayathri Kurian,Mechanical,2024-2028,1,87,3.4,Fluid Mechanics,60,100
+STU1079,Gayathri Kurian,Mechanical,2024-2028,1,87,3.4,Mathematics,85,100
+STU1079,Gayathri Kurian,Mechanical,2024-2028,1,87,3.4,Machine Design,82,100
+STU1079,Gayathri Kurian,Mechanical,2024-2028,1,87,3.4,Manufacturing,82,100
+STU1079,Gayathri Kurian,Mechanical,2024-2028,2,85,2.8,Thermodynamics,79,100
+STU1079,Gayathri Kurian,Mechanical,2024-2028,2,85,2.8,Fluid Mechanics,80,100
+STU1079,Gayathri Kurian,Mechanical,2024-2028,2,85,2.8,Mathematics,81,100
+STU1079,Gayathri Kurian,Mechanical,2024-2028,2,85,2.8,Machine Design,81,100
+STU1079,Gayathri Kurian,Mechanical,2024-2028,2,85,2.8,Manufacturing,88,100
+STU1079,Gayathri Kurian,Mechanical,2024-2028,3,82,3.7,Thermodynamics,61,100
+STU1079,Gayathri Kurian,Mechanical,2024-2028,3,82,3.7,Fluid Mechanics,76,100
+STU1079,Gayathri Kurian,Mechanical,2024-2028,3,82,3.7,Mathematics,70,100
+STU1079,Gayathri Kurian,Mechanical,2024-2028,3,82,3.7,Machine Design,72,100
+STU1079,Gayathri Kurian,Mechanical,2024-2028,3,82,3.7,Manufacturing,68,100
+STU1079,Gayathri Kurian,Mechanical,2024-2028,4,91,2.6,Thermodynamics,68,100
+STU1079,Gayathri Kurian,Mechanical,2024-2028,4,91,2.6,Fluid Mechanics,67,100
+STU1079,Gayathri Kurian,Mechanical,2024-2028,4,91,2.6,Mathematics,91,100
+STU1079,Gayathri Kurian,Mechanical,2024-2028,4,91,2.6,Machine Design,74,100
+STU1079,Gayathri Kurian,Mechanical,2024-2028,4,91,2.6,Manufacturing,77,100
+STU1080,Hari Nair,Civil,2024-2028,1,69,3.3,Surveying,68,100
+STU1080,Hari Nair,Civil,2024-2028,1,69,3.3,Structural Analysis,50,100
+STU1080,Hari Nair,Civil,2024-2028,1,69,3.3,Mathematics,62,100
+STU1080,Hari Nair,Civil,2024-2028,1,69,3.3,Concrete Technology,50,100
+STU1080,Hari Nair,Civil,2024-2028,1,69,3.3,Geotechnics,42,100
+STU1080,Hari Nair,Civil,2024-2028,2,79,3.0,Surveying,60,100
+STU1080,Hari Nair,Civil,2024-2028,2,79,3.0,Structural Analysis,63,100
+STU1080,Hari Nair,Civil,2024-2028,2,79,3.0,Mathematics,70,100
+STU1080,Hari Nair,Civil,2024-2028,2,79,3.0,Concrete Technology,67,100
+STU1080,Hari Nair,Civil,2024-2028,2,79,3.0,Geotechnics,61,100
+STU1080,Hari Nair,Civil,2024-2028,3,69,2.5,Surveying,44,100
+STU1080,Hari Nair,Civil,2024-2028,3,69,2.5,Structural Analysis,58,100
+STU1080,Hari Nair,Civil,2024-2028,3,69,2.5,Mathematics,56,100
+STU1080,Hari Nair,Civil,2024-2028,3,69,2.5,Concrete Technology,59,100
+STU1080,Hari Nair,Civil,2024-2028,3,69,2.5,Geotechnics,60,100
+STU1080,Hari Nair,Civil,2024-2028,4,64,1.9,Surveying,62,100
+STU1080,Hari Nair,Civil,2024-2028,4,64,1.9,Structural Analysis,50,100
+STU1080,Hari Nair,Civil,2024-2028,4,64,1.9,Mathematics,49,100
+STU1080,Hari Nair,Civil,2024-2028,4,64,1.9,Concrete Technology,40,100
+STU1080,Hari Nair,Civil,2024-2028,4,64,1.9,Geotechnics,69,100
+STU1081,Anjali Menon,Computer Science,2024-2028,1,89,3.7,Programming,80,100
+STU1081,Anjali Menon,Computer Science,2024-2028,1,89,3.7,Data Structures,81,100
+STU1081,Anjali Menon,Computer Science,2024-2028,1,89,3.7,Mathematics,78,100
+STU1081,Anjali Menon,Computer Science,2024-2028,1,89,3.7,Database Systems,100,100
+STU1081,Anjali Menon,Computer Science,2024-2028,1,89,3.7,Computer Networks,86,100
+STU1081,Anjali Menon,Computer Science,2024-2028,2,84,2.7,Programming,88,100
+STU1081,Anjali Menon,Computer Science,2024-2028,2,84,2.7,Data Structures,70,100
+STU1081,Anjali Menon,Computer Science,2024-2028,2,84,2.7,Mathematics,80,100
+STU1081,Anjali Menon,Computer Science,2024-2028,2,84,2.7,Database Systems,84,100
+STU1081,Anjali Menon,Computer Science,2024-2028,2,84,2.7,Computer Networks,79,100
+STU1081,Anjali Menon,Computer Science,2024-2028,3,84,3.3,Programming,74,100
+STU1081,Anjali Menon,Computer Science,2024-2028,3,84,3.3,Data Structures,75,100
+STU1081,Anjali Menon,Computer Science,2024-2028,3,84,3.3,Mathematics,90,100
+STU1081,Anjali Menon,Computer Science,2024-2028,3,84,3.3,Database Systems,77,100
+STU1081,Anjali Menon,Computer Science,2024-2028,3,84,3.3,Computer Networks,72,100
+STU1081,Anjali Menon,Computer Science,2024-2028,4,87,3.5,Programming,82,100
+STU1081,Anjali Menon,Computer Science,2024-2028,4,87,3.5,Data Structures,75,100
+STU1081,Anjali Menon,Computer Science,2024-2028,4,87,3.5,Mathematics,82,100
+STU1081,Anjali Menon,Computer Science,2024-2028,4,87,3.5,Database Systems,72,100
+STU1081,Anjali Menon,Computer Science,2024-2028,4,87,3.5,Computer Networks,75,100
+STU1082,Thanseer Sharma,Electronics,2024-2028,1,83,3.1,Circuit Theory,83,100
+STU1082,Thanseer Sharma,Electronics,2024-2028,1,83,3.1,Digital Electronics,96,100
+STU1082,Thanseer Sharma,Electronics,2024-2028,1,83,3.1,Mathematics,67,100
+STU1082,Thanseer Sharma,Electronics,2024-2028,1,83,3.1,Signals and Systems,84,100
+STU1082,Thanseer Sharma,Electronics,2024-2028,1,83,3.1,Microprocessors,71,100
+STU1082,Thanseer Sharma,Electronics,2024-2028,2,82,3.0,Circuit Theory,73,100
+STU1082,Thanseer Sharma,Electronics,2024-2028,2,82,3.0,Digital Electronics,77,100
+STU1082,Thanseer Sharma,Electronics,2024-2028,2,82,3.0,Mathematics,73,100
+STU1082,Thanseer Sharma,Electronics,2024-2028,2,82,3.0,Signals and Systems,65,100
+STU1082,Thanseer Sharma,Electronics,2024-2028,2,82,3.0,Microprocessors,83,100
+STU1082,Thanseer Sharma,Electronics,2024-2028,3,90,2.8,Circuit Theory,85,100
+STU1082,Thanseer Sharma,Electronics,2024-2028,3,90,2.8,Digital Electronics,88,100
+STU1082,Thanseer Sharma,Electronics,2024-2028,3,90,2.8,Mathematics,74,100
+STU1082,Thanseer Sharma,Electronics,2024-2028,3,90,2.8,Signals and Systems,83,100
+STU1082,Thanseer Sharma,Electronics,2024-2028,3,90,2.8,Microprocessors,82,100
+STU1082,Thanseer Sharma,Electronics,2024-2028,4,97,2.9,Circuit Theory,100,100
+STU1082,Thanseer Sharma,Electronics,2024-2028,4,97,2.9,Digital Electronics,80,100
+STU1082,Thanseer Sharma,Electronics,2024-2028,4,97,2.9,Mathematics,95,100
+STU1082,Thanseer Sharma,Electronics,2024-2028,4,97,2.9,Signals and Systems,95,100
+STU1082,Thanseer Sharma,Electronics,2024-2028,4,97,2.9,Microprocessors,79,100
+STU1083,Sreenath Kurian,Mechanical,2024-2028,1,82,3.1,Thermodynamics,82,100
+STU1083,Sreenath Kurian,Mechanical,2024-2028,1,82,3.1,Fluid Mechanics,73,100
+STU1083,Sreenath Kurian,Mechanical,2024-2028,1,82,3.1,Mathematics,71,100
+STU1083,Sreenath Kurian,Mechanical,2024-2028,1,82,3.1,Machine Design,81,100
+STU1083,Sreenath Kurian,Mechanical,2024-2028,1,82,3.1,Manufacturing,77,100
+STU1083,Sreenath Kurian,Mechanical,2024-2028,2,79,2.6,Thermodynamics,70,100
+STU1083,Sreenath Kurian,Mechanical,2024-2028,2,79,2.6,Fluid Mechanics,69,100
+STU1083,Sreenath Kurian,Mechanical,2024-2028,2,79,2.6,Mathematics,81,100
+STU1083,Sreenath Kurian,Mechanical,2024-2028,2,79,2.6,Machine Design,82,100
+STU1083,Sreenath Kurian,Mechanical,2024-2028,2,79,2.6,Manufacturing,73,100
+STU1083,Sreenath Kurian,Mechanical,2024-2028,3,89,3.4,Thermodynamics,73,100
+STU1083,Sreenath Kurian,Mechanical,2024-2028,3,89,3.4,Fluid Mechanics,92,100
+STU1083,Sreenath Kurian,Mechanical,2024-2028,3,89,3.4,Mathematics,79,100
+STU1083,Sreenath Kurian,Mechanical,2024-2028,3,89,3.4,Machine Design,80,100
+STU1083,Sreenath Kurian,Mechanical,2024-2028,3,89,3.4,Manufacturing,76,100
+STU1083,Sreenath Kurian,Mechanical,2024-2028,4,73,3.1,Thermodynamics,63,100
+STU1083,Sreenath Kurian,Mechanical,2024-2028,4,73,3.1,Fluid Mechanics,93,100
+STU1083,Sreenath Kurian,Mechanical,2024-2028,4,73,3.1,Mathematics,60,100
+STU1083,Sreenath Kurian,Mechanical,2024-2028,4,73,3.1,Machine Design,59,100
+STU1083,Sreenath Kurian,Mechanical,2024-2028,4,73,3.1,Manufacturing,73,100
+STU1084,Abhirami Haris,Civil,2024-2028,1,92,2.9,Surveying,83,100
+STU1084,Abhirami Haris,Civil,2024-2028,1,92,2.9,Structural Analysis,79,100
+STU1084,Abhirami Haris,Civil,2024-2028,1,92,2.9,Mathematics,73,100
+STU1084,Abhirami Haris,Civil,2024-2028,1,92,2.9,Concrete Technology,89,100
+STU1084,Abhirami Haris,Civil,2024-2028,1,92,2.9,Geotechnics,70,100
+STU1084,Abhirami Haris,Civil,2024-2028,2,85,3.1,Surveying,86,100
+STU1084,Abhirami Haris,Civil,2024-2028,2,85,3.1,Structural Analysis,85,100
+STU1084,Abhirami Haris,Civil,2024-2028,2,85,3.1,Mathematics,90,100
+STU1084,Abhirami Haris,Civil,2024-2028,2,85,3.1,Concrete Technology,89,100
+STU1084,Abhirami Haris,Civil,2024-2028,2,85,3.1,Geotechnics,92,100
+STU1084,Abhirami Haris,Civil,2024-2028,3,91,4.1,Surveying,91,100
+STU1084,Abhirami Haris,Civil,2024-2028,3,91,4.1,Structural Analysis,86,100
+STU1084,Abhirami Haris,Civil,2024-2028,3,91,4.1,Mathematics,87,100
+STU1084,Abhirami Haris,Civil,2024-2028,3,91,4.1,Concrete Technology,83,100
+STU1084,Abhirami Haris,Civil,2024-2028,3,91,4.1,Geotechnics,93,100
+STU1084,Abhirami Haris,Civil,2024-2028,4,87,3.5,Surveying,78,100
+STU1084,Abhirami Haris,Civil,2024-2028,4,87,3.5,Structural Analysis,95,100
+STU1084,Abhirami Haris,Civil,2024-2028,4,87,3.5,Mathematics,88,100
+STU1084,Abhirami Haris,Civil,2024-2028,4,87,3.5,Concrete Technology,81,100
+STU1084,Abhirami Haris,Civil,2024-2028,4,87,3.5,Geotechnics,94,100
+STU1085,Fidha Kurian,Computer Science,2024-2028,1,72,1.6,Programming,48,100
+STU1085,Fidha Kurian,Computer Science,2024-2028,1,72,1.6,Data Structures,51,100
+STU1085,Fidha Kurian,Computer Science,2024-2028,1,72,1.6,Mathematics,60,100
+STU1085,Fidha Kurian,Computer Science,2024-2028,1,72,1.6,Database Systems,51,100
+STU1085,Fidha Kurian,Computer Science,2024-2028,1,72,1.6,Computer Networks,41,100
+STU1085,Fidha Kurian,Computer Science,2024-2028,2,70,3.2,Programming,59,100
+STU1085,Fidha Kurian,Computer Science,2024-2028,2,70,3.2,Data Structures,42,100
+STU1085,Fidha Kurian,Computer Science,2024-2028,2,70,3.2,Mathematics,62,100
+STU1085,Fidha Kurian,Computer Science,2024-2028,2,70,3.2,Database Systems,75,100
+STU1085,Fidha Kurian,Computer Science,2024-2028,2,70,3.2,Computer Networks,72,100
+STU1085,Fidha Kurian,Computer Science,2024-2028,3,71,3.0,Programming,58,100
+STU1085,Fidha Kurian,Computer Science,2024-2028,3,71,3.0,Data Structures,65,100
+STU1085,Fidha Kurian,Computer Science,2024-2028,3,71,3.0,Mathematics,53,100
+STU1085,Fidha Kurian,Computer Science,2024-2028,3,71,3.0,Database Systems,58,100
+STU1085,Fidha Kurian,Computer Science,2024-2028,3,71,3.0,Computer Networks,58,100
+STU1085,Fidha Kurian,Computer Science,2024-2028,4,76,2.5,Programming,50,100
+STU1085,Fidha Kurian,Computer Science,2024-2028,4,76,2.5,Data Structures,58,100
+STU1085,Fidha Kurian,Computer Science,2024-2028,4,76,2.5,Mathematics,55,100
+STU1085,Fidha Kurian,Computer Science,2024-2028,4,76,2.5,Database Systems,67,100
+STU1085,Fidha Kurian,Computer Science,2024-2028,4,76,2.5,Computer Networks,70,100
+STU1086,Lakshmi Krishnan,Electronics,2024-2028,1,73,2.4,Circuit Theory,87,100
+STU1086,Lakshmi Krishnan,Electronics,2024-2028,1,73,2.4,Digital Electronics,72,100
+STU1086,Lakshmi Krishnan,Electronics,2024-2028,1,73,2.4,Mathematics,70,100
+STU1086,Lakshmi Krishnan,Electronics,2024-2028,1,73,2.4,Signals and Systems,89,100
+STU1086,Lakshmi Krishnan,Electronics,2024-2028,1,73,2.4,Microprocessors,86,100
+STU1086,Lakshmi Krishnan,Electronics,2024-2028,2,84,3.4,Circuit Theory,83,100
+STU1086,Lakshmi Krishnan,Electronics,2024-2028,2,84,3.4,Digital Electronics,94,100
+STU1086,Lakshmi Krishnan,Electronics,2024-2028,2,84,3.4,Mathematics,85,100
+STU1086,Lakshmi Krishnan,Electronics,2024-2028,2,84,3.4,Signals and Systems,87,100
+STU1086,Lakshmi Krishnan,Electronics,2024-2028,2,84,3.4,Microprocessors,91,100
+STU1086,Lakshmi Krishnan,Electronics,2024-2028,3,86,3.1,Circuit Theory,57,100
+STU1086,Lakshmi Krishnan,Electronics,2024-2028,3,86,3.1,Digital Electronics,60,100
+STU1086,Lakshmi Krishnan,Electronics,2024-2028,3,86,3.1,Mathematics,69,100
+STU1086,Lakshmi Krishnan,Electronics,2024-2028,3,86,3.1,Signals and Systems,81,100
+STU1086,Lakshmi Krishnan,Electronics,2024-2028,3,86,3.1,Microprocessors,78,100
+STU1086,Lakshmi Krishnan,Electronics,2024-2028,4,94,2.8,Circuit Theory,82,100
+STU1086,Lakshmi Krishnan,Electronics,2024-2028,4,94,2.8,Digital Electronics,85,100
+STU1086,Lakshmi Krishnan,Electronics,2024-2028,4,94,2.8,Mathematics,76,100
+STU1086,Lakshmi Krishnan,Electronics,2024-2028,4,94,2.8,Signals and Systems,83,100
+STU1086,Lakshmi Krishnan,Electronics,2024-2028,4,94,2.8,Microprocessors,70,100
+STU1087,Lakshmi Ibrahim,Mechanical,2024-2028,1,95,3.6,Thermodynamics,94,100
+STU1087,Lakshmi Ibrahim,Mechanical,2024-2028,1,95,3.6,Fluid Mechanics,85,100
+STU1087,Lakshmi Ibrahim,Mechanical,2024-2028,1,95,3.6,Mathematics,85,100
+STU1087,Lakshmi Ibrahim,Mechanical,2024-2028,1,95,3.6,Machine Design,81,100
+STU1087,Lakshmi Ibrahim,Mechanical,2024-2028,1,95,3.6,Manufacturing,86,100
+STU1087,Lakshmi Ibrahim,Mechanical,2024-2028,2,86,3.7,Thermodynamics,83,100
+STU1087,Lakshmi Ibrahim,Mechanical,2024-2028,2,86,3.7,Fluid Mechanics,100,100
+STU1087,Lakshmi Ibrahim,Mechanical,2024-2028,2,86,3.7,Mathematics,87,100
+STU1087,Lakshmi Ibrahim,Mechanical,2024-2028,2,86,3.7,Machine Design,100,100
+STU1087,Lakshmi Ibrahim,Mechanical,2024-2028,2,86,3.7,Manufacturing,86,100
+STU1087,Lakshmi Ibrahim,Mechanical,2024-2028,3,84,3.6,Thermodynamics,89,100
+STU1087,Lakshmi Ibrahim,Mechanical,2024-2028,3,84,3.6,Fluid Mechanics,100,100
+STU1087,Lakshmi Ibrahim,Mechanical,2024-2028,3,84,3.6,Mathematics,89,100
+STU1087,Lakshmi Ibrahim,Mechanical,2024-2028,3,84,3.6,Machine Design,98,100
+STU1087,Lakshmi Ibrahim,Mechanical,2024-2028,3,84,3.6,Manufacturing,92,100
+STU1087,Lakshmi Ibrahim,Mechanical,2024-2028,4,92,5.2,Thermodynamics,91,100
+STU1087,Lakshmi Ibrahim,Mechanical,2024-2028,4,92,5.2,Fluid Mechanics,89,100
+STU1087,Lakshmi Ibrahim,Mechanical,2024-2028,4,92,5.2,Mathematics,85,100
+STU1087,Lakshmi Ibrahim,Mechanical,2024-2028,4,92,5.2,Machine Design,100,100
+STU1087,Lakshmi Ibrahim,Mechanical,2024-2028,4,92,5.2,Manufacturing,100,100
+STU1088,Anand Varghese,Civil,2024-2028,1,79,3.6,Surveying,54,100
+STU1088,Anand Varghese,Civil,2024-2028,1,79,3.6,Structural Analysis,65,100
+STU1088,Anand Varghese,Civil,2024-2028,1,79,3.6,Mathematics,63,100
+STU1088,Anand Varghese,Civil,2024-2028,1,79,3.6,Concrete Technology,51,100
+STU1088,Anand Varghese,Civil,2024-2028,1,79,3.6,Geotechnics,75,100
+STU1088,Anand Varghese,Civil,2024-2028,2,75,3.5,Surveying,58,100
+STU1088,Anand Varghese,Civil,2024-2028,2,75,3.5,Structural Analysis,58,100
+STU1088,Anand Varghese,Civil,2024-2028,2,75,3.5,Mathematics,62,100
+STU1088,Anand Varghese,Civil,2024-2028,2,75,3.5,Concrete Technology,69,100
+STU1088,Anand Varghese,Civil,2024-2028,2,75,3.5,Geotechnics,56,100
+STU1088,Anand Varghese,Civil,2024-2028,3,76,2.4,Surveying,42,100
+STU1088,Anand Varghese,Civil,2024-2028,3,76,2.4,Structural Analysis,49,100
+STU1088,Anand Varghese,Civil,2024-2028,3,76,2.4,Mathematics,70,100
+STU1088,Anand Varghese,Civil,2024-2028,3,76,2.4,Concrete Technology,62,100
+STU1088,Anand Varghese,Civil,2024-2028,3,76,2.4,Geotechnics,52,100
+STU1088,Anand Varghese,Civil,2024-2028,4,73,2.7,Surveying,49,100
+STU1088,Anand Varghese,Civil,2024-2028,4,73,2.7,Structural Analysis,53,100
+STU1088,Anand Varghese,Civil,2024-2028,4,73,2.7,Mathematics,62,100
+STU1088,Anand Varghese,Civil,2024-2028,4,73,2.7,Concrete Technology,59,100
+STU1088,Anand Varghese,Civil,2024-2028,4,73,2.7,Geotechnics,64,100
+STU1089,Devika Mathew,Computer Science,2024-2028,1,70,1.9,Programming,49,100
+STU1089,Devika Mathew,Computer Science,2024-2028,1,70,1.9,Data Structures,47,100
+STU1089,Devika Mathew,Computer Science,2024-2028,1,70,1.9,Mathematics,42,100
+STU1089,Devika Mathew,Computer Science,2024-2028,1,70,1.9,Database Systems,48,100
+STU1089,Devika Mathew,Computer Science,2024-2028,1,70,1.9,Computer Networks,58,100
+STU1089,Devika Mathew,Computer Science,2024-2028,2,61,1.3,Programming,46,100
+STU1089,Devika Mathew,Computer Science,2024-2028,2,61,1.3,Data Structures,41,100
+STU1089,Devika Mathew,Computer Science,2024-2028,2,61,1.3,Mathematics,48,100
+STU1089,Devika Mathew,Computer Science,2024-2028,2,61,1.3,Database Systems,49,100
+STU1089,Devika Mathew,Computer Science,2024-2028,2,61,1.3,Computer Networks,52,100
+STU1089,Devika Mathew,Computer Science,2024-2028,3,72,1.4,Programming,44,100
+STU1089,Devika Mathew,Computer Science,2024-2028,3,72,1.4,Data Structures,51,100
+STU1089,Devika Mathew,Computer Science,2024-2028,3,72,1.4,Mathematics,48,100
+STU1089,Devika Mathew,Computer Science,2024-2028,3,72,1.4,Database Systems,42,100
+STU1089,Devika Mathew,Computer Science,2024-2028,3,72,1.4,Computer Networks,48,100
+STU1089,Devika Mathew,Computer Science,2024-2028,4,61,1.4,Programming,53,100
+STU1089,Devika Mathew,Computer Science,2024-2028,4,61,1.4,Data Structures,45,100
+STU1089,Devika Mathew,Computer Science,2024-2028,4,61,1.4,Mathematics,63,100
+STU1089,Devika Mathew,Computer Science,2024-2028,4,61,1.4,Database Systems,45,100
+STU1089,Devika Mathew,Computer Science,2024-2028,4,61,1.4,Computer Networks,41,100
+STU1090,Sana Das,Electronics,2024-2028,1,78,3.7,Circuit Theory,61,100
+STU1090,Sana Das,Electronics,2024-2028,1,78,3.7,Digital Electronics,75,100
+STU1090,Sana Das,Electronics,2024-2028,1,78,3.7,Mathematics,69,100
+STU1090,Sana Das,Electronics,2024-2028,1,78,3.7,Signals and Systems,55,100
+STU1090,Sana Das,Electronics,2024-2028,1,78,3.7,Microprocessors,74,100
+STU1090,Sana Das,Electronics,2024-2028,2,75,2.9,Circuit Theory,56,100
+STU1090,Sana Das,Electronics,2024-2028,2,75,2.9,Digital Electronics,59,100
+STU1090,Sana Das,Electronics,2024-2028,2,75,2.9,Mathematics,78,100
+STU1090,Sana Das,Electronics,2024-2028,2,75,2.9,Signals and Systems,66,100
+STU1090,Sana Das,Electronics,2024-2028,2,75,2.9,Microprocessors,61,100
+STU1090,Sana Das,Electronics,2024-2028,3,74,2.4,Circuit Theory,71,100
+STU1090,Sana Das,Electronics,2024-2028,3,74,2.4,Digital Electronics,56,100
+STU1090,Sana Das,Electronics,2024-2028,3,74,2.4,Mathematics,58,100
+STU1090,Sana Das,Electronics,2024-2028,3,74,2.4,Signals and Systems,66,100
+STU1090,Sana Das,Electronics,2024-2028,3,74,2.4,Microprocessors,73,100
+STU1090,Sana Das,Electronics,2024-2028,4,76,3.3,Circuit Theory,64,100
+STU1090,Sana Das,Electronics,2024-2028,4,76,3.3,Digital Electronics,85,100
+STU1090,Sana Das,Electronics,2024-2028,4,76,3.3,Mathematics,61,100
+STU1090,Sana Das,Electronics,2024-2028,4,76,3.3,Signals and Systems,81,100
+STU1090,Sana Das,Electronics,2024-2028,4,76,3.3,Microprocessors,65,100
+STU1091,Neha Varghese,Mechanical,2024-2028,1,91,4.1,Thermodynamics,100,100
+STU1091,Neha Varghese,Mechanical,2024-2028,1,91,4.1,Fluid Mechanics,100,100
+STU1091,Neha Varghese,Mechanical,2024-2028,1,91,4.1,Mathematics,97,100
+STU1091,Neha Varghese,Mechanical,2024-2028,1,91,4.1,Machine Design,98,100
+STU1091,Neha Varghese,Mechanical,2024-2028,1,91,4.1,Manufacturing,100,100
+STU1091,Neha Varghese,Mechanical,2024-2028,2,89,3.8,Thermodynamics,97,100
+STU1091,Neha Varghese,Mechanical,2024-2028,2,89,3.8,Fluid Mechanics,100,100
+STU1091,Neha Varghese,Mechanical,2024-2028,2,89,3.8,Mathematics,100,100
+STU1091,Neha Varghese,Mechanical,2024-2028,2,89,3.8,Machine Design,100,100
+STU1091,Neha Varghese,Mechanical,2024-2028,2,89,3.8,Manufacturing,98,100
+STU1091,Neha Varghese,Mechanical,2024-2028,3,93,4.3,Thermodynamics,92,100
+STU1091,Neha Varghese,Mechanical,2024-2028,3,93,4.3,Fluid Mechanics,89,100
+STU1091,Neha Varghese,Mechanical,2024-2028,3,93,4.3,Mathematics,100,100
+STU1091,Neha Varghese,Mechanical,2024-2028,3,93,4.3,Machine Design,100,100
+STU1091,Neha Varghese,Mechanical,2024-2028,3,93,4.3,Manufacturing,100,100
+STU1091,Neha Varghese,Mechanical,2024-2028,4,96,4.6,Thermodynamics,99,100
+STU1091,Neha Varghese,Mechanical,2024-2028,4,96,4.6,Fluid Mechanics,100,100
+STU1091,Neha Varghese,Mechanical,2024-2028,4,96,4.6,Mathematics,93,100
+STU1091,Neha Varghese,Mechanical,2024-2028,4,96,4.6,Machine Design,100,100
+STU1091,Neha Varghese,Mechanical,2024-2028,4,96,4.6,Manufacturing,100,100
+STU1092,Gopika Menon,Civil,2024-2028,1,68,1.8,Surveying,45,100
+STU1092,Gopika Menon,Civil,2024-2028,1,68,1.8,Structural Analysis,64,100
+STU1092,Gopika Menon,Civil,2024-2028,1,68,1.8,Mathematics,63,100
+STU1092,Gopika Menon,Civil,2024-2028,1,68,1.8,Concrete Technology,58,100
+STU1092,Gopika Menon,Civil,2024-2028,1,68,1.8,Geotechnics,70,100
+STU1092,Gopika Menon,Civil,2024-2028,2,82,1.9,Surveying,58,100
+STU1092,Gopika Menon,Civil,2024-2028,2,82,1.9,Structural Analysis,52,100
+STU1092,Gopika Menon,Civil,2024-2028,2,82,1.9,Mathematics,59,100
+STU1092,Gopika Menon,Civil,2024-2028,2,82,1.9,Concrete Technology,62,100
+STU1092,Gopika Menon,Civil,2024-2028,2,82,1.9,Geotechnics,55,100
+STU1092,Gopika Menon,Civil,2024-2028,3,75,2.6,Surveying,55,100
+STU1092,Gopika Menon,Civil,2024-2028,3,75,2.6,Structural Analysis,65,100
+STU1092,Gopika Menon,Civil,2024-2028,3,75,2.6,Mathematics,61,100
+STU1092,Gopika Menon,Civil,2024-2028,3,75,2.6,Concrete Technology,57,100
+STU1092,Gopika Menon,Civil,2024-2028,3,75,2.6,Geotechnics,56,100
+STU1092,Gopika Menon,Civil,2024-2028,4,75,1.9,Surveying,58,100
+STU1092,Gopika Menon,Civil,2024-2028,4,75,1.9,Structural Analysis,63,100
+STU1092,Gopika Menon,Civil,2024-2028,4,75,1.9,Mathematics,68,100
+STU1092,Gopika Menon,Civil,2024-2028,4,75,1.9,Concrete Technology,68,100
+STU1092,Gopika Menon,Civil,2024-2028,4,75,1.9,Geotechnics,69,100
+STU1093,Hari Pillai,Computer Science,2024-2028,1,67,1.8,Programming,48,100
+STU1093,Hari Pillai,Computer Science,2024-2028,1,67,1.8,Data Structures,46,100
+STU1093,Hari Pillai,Computer Science,2024-2028,1,67,1.8,Mathematics,64,100
+STU1093,Hari Pillai,Computer Science,2024-2028,1,67,1.8,Database Systems,61,100
+STU1093,Hari Pillai,Computer Science,2024-2028,1,67,1.8,Computer Networks,63,100
+STU1093,Hari Pillai,Computer Science,2024-2028,2,73,1.2,Programming,61,100
+STU1093,Hari Pillai,Computer Science,2024-2028,2,73,1.2,Data Structures,56,100
+STU1093,Hari Pillai,Computer Science,2024-2028,2,73,1.2,Mathematics,59,100
+STU1093,Hari Pillai,Computer Science,2024-2028,2,73,1.2,Database Systems,57,100
+STU1093,Hari Pillai,Computer Science,2024-2028,2,73,1.2,Computer Networks,46,100
+STU1093,Hari Pillai,Computer Science,2024-2028,3,64,2.1,Programming,55,100
+STU1093,Hari Pillai,Computer Science,2024-2028,3,64,2.1,Data Structures,38,100
+STU1093,Hari Pillai,Computer Science,2024-2028,3,64,2.1,Mathematics,41,100
+STU1093,Hari Pillai,Computer Science,2024-2028,3,64,2.1,Database Systems,43,100
+STU1093,Hari Pillai,Computer Science,2024-2028,3,64,2.1,Computer Networks,46,100
+STU1093,Hari Pillai,Computer Science,2024-2028,4,61,1.4,Programming,49,100
+STU1093,Hari Pillai,Computer Science,2024-2028,4,61,1.4,Data Structures,39,100
+STU1093,Hari Pillai,Computer Science,2024-2028,4,61,1.4,Mathematics,47,100
+STU1093,Hari Pillai,Computer Science,2024-2028,4,61,1.4,Database Systems,57,100
+STU1093,Hari Pillai,Computer Science,2024-2028,4,61,1.4,Computer Networks,38,100
+STU1094,Hari Babu,Electronics,2024-2028,1,75,2.4,Circuit Theory,75,100
+STU1094,Hari Babu,Electronics,2024-2028,1,75,2.4,Digital Electronics,63,100
+STU1094,Hari Babu,Electronics,2024-2028,1,75,2.4,Mathematics,74,100
+STU1094,Hari Babu,Electronics,2024-2028,1,75,2.4,Signals and Systems,69,100
+STU1094,Hari Babu,Electronics,2024-2028,1,75,2.4,Microprocessors,62,100
+STU1094,Hari Babu,Electronics,2024-2028,2,77,3.0,Circuit Theory,60,100
+STU1094,Hari Babu,Electronics,2024-2028,2,77,3.0,Digital Electronics,65,100
+STU1094,Hari Babu,Electronics,2024-2028,2,77,3.0,Mathematics,64,100
+STU1094,Hari Babu,Electronics,2024-2028,2,77,3.0,Signals and Systems,70,100
+STU1094,Hari Babu,Electronics,2024-2028,2,77,3.0,Microprocessors,56,100
+STU1094,Hari Babu,Electronics,2024-2028,3,78,2.0,Circuit Theory,75,100
+STU1094,Hari Babu,Electronics,2024-2028,3,78,2.0,Digital Electronics,83,100
+STU1094,Hari Babu,Electronics,2024-2028,3,78,2.0,Mathematics,73,100
+STU1094,Hari Babu,Electronics,2024-2028,3,78,2.0,Signals and Systems,76,100
+STU1094,Hari Babu,Electronics,2024-2028,3,78,2.0,Microprocessors,66,100
+STU1094,Hari Babu,Electronics,2024-2028,4,63,2.2,Circuit Theory,50,100
+STU1094,Hari Babu,Electronics,2024-2028,4,63,2.2,Digital Electronics,47,100
+STU1094,Hari Babu,Electronics,2024-2028,4,63,2.2,Mathematics,54,100
+STU1094,Hari Babu,Electronics,2024-2028,4,63,2.2,Signals and Systems,59,100
+STU1094,Hari Babu,Electronics,2024-2028,4,63,2.2,Microprocessors,43,100
+STU1095,Hiba George,Mechanical,2024-2028,1,71,3.0,Thermodynamics,60,100
+STU1095,Hiba George,Mechanical,2024-2028,1,71,3.0,Fluid Mechanics,68,100
+STU1095,Hiba George,Mechanical,2024-2028,1,71,3.0,Mathematics,73,100
+STU1095,Hiba George,Mechanical,2024-2028,1,71,3.0,Machine Design,70,100
+STU1095,Hiba George,Mechanical,2024-2028,1,71,3.0,Manufacturing,71,100
+STU1095,Hiba George,Mechanical,2024-2028,2,74,1.6,Thermodynamics,56,100
+STU1095,Hiba George,Mechanical,2024-2028,2,74,1.6,Fluid Mechanics,56,100
+STU1095,Hiba George,Mechanical,2024-2028,2,74,1.6,Mathematics,58,100
+STU1095,Hiba George,Mechanical,2024-2028,2,74,1.6,Machine Design,56,100
+STU1095,Hiba George,Mechanical,2024-2028,2,74,1.6,Manufacturing,47,100
+STU1095,Hiba George,Mechanical,2024-2028,3,72,2.1,Thermodynamics,63,100
+STU1095,Hiba George,Mechanical,2024-2028,3,72,2.1,Fluid Mechanics,53,100
+STU1095,Hiba George,Mechanical,2024-2028,3,72,2.1,Mathematics,42,100
+STU1095,Hiba George,Mechanical,2024-2028,3,72,2.1,Machine Design,61,100
+STU1095,Hiba George,Mechanical,2024-2028,3,72,2.1,Manufacturing,50,100
+STU1095,Hiba George,Mechanical,2024-2028,4,70,3.1,Thermodynamics,53,100
+STU1095,Hiba George,Mechanical,2024-2028,4,70,3.1,Fluid Mechanics,57,100
+STU1095,Hiba George,Mechanical,2024-2028,4,70,3.1,Mathematics,61,100
+STU1095,Hiba George,Mechanical,2024-2028,4,70,3.1,Machine Design,51,100
+STU1095,Hiba George,Mechanical,2024-2028,4,70,3.1,Manufacturing,63,100
+STU1096,Hiba Rahman,Civil,2024-2028,1,91,2.4,Surveying,86,100
+STU1096,Hiba Rahman,Civil,2024-2028,1,91,2.4,Structural Analysis,84,100
+STU1096,Hiba Rahman,Civil,2024-2028,1,91,2.4,Mathematics,80,100
+STU1096,Hiba Rahman,Civil,2024-2028,1,91,2.4,Concrete Technology,95,100
+STU1096,Hiba Rahman,Civil,2024-2028,1,91,2.4,Geotechnics,84,100
+STU1096,Hiba Rahman,Civil,2024-2028,2,89,2.9,Surveying,79,100
+STU1096,Hiba Rahman,Civil,2024-2028,2,89,2.9,Structural Analysis,95,100
+STU1096,Hiba Rahman,Civil,2024-2028,2,89,2.9,Mathematics,71,100
+STU1096,Hiba Rahman,Civil,2024-2028,2,89,2.9,Concrete Technology,82,100
+STU1096,Hiba Rahman,Civil,2024-2028,2,89,2.9,Geotechnics,85,100
+STU1096,Hiba Rahman,Civil,2024-2028,3,98,4.0,Surveying,100,100
+STU1096,Hiba Rahman,Civil,2024-2028,3,98,4.0,Structural Analysis,91,100
+STU1096,Hiba Rahman,Civil,2024-2028,3,98,4.0,Mathematics,100,100
+STU1096,Hiba Rahman,Civil,2024-2028,3,98,4.0,Concrete Technology,86,100
+STU1096,Hiba Rahman,Civil,2024-2028,3,98,4.0,Geotechnics,100,100
+STU1096,Hiba Rahman,Civil,2024-2028,4,85,3.7,Surveying,90,100
+STU1096,Hiba Rahman,Civil,2024-2028,4,85,3.7,Structural Analysis,84,100
+STU1096,Hiba Rahman,Civil,2024-2028,4,85,3.7,Mathematics,92,100
+STU1096,Hiba Rahman,Civil,2024-2028,4,85,3.7,Concrete Technology,83,100
+STU1096,Hiba Rahman,Civil,2024-2028,4,85,3.7,Geotechnics,93,100
+STU1097,Thanseer Babu,Computer Science,2024-2028,1,78,3.0,Programming,76,100
+STU1097,Thanseer Babu,Computer Science,2024-2028,1,78,3.0,Data Structures,88,100
+STU1097,Thanseer Babu,Computer Science,2024-2028,1,78,3.0,Mathematics,79,100
+STU1097,Thanseer Babu,Computer Science,2024-2028,1,78,3.0,Database Systems,79,100
+STU1097,Thanseer Babu,Computer Science,2024-2028,1,78,3.0,Computer Networks,96,100
+STU1097,Thanseer Babu,Computer Science,2024-2028,2,83,3.4,Programming,67,100
+STU1097,Thanseer Babu,Computer Science,2024-2028,2,83,3.4,Data Structures,71,100
+STU1097,Thanseer Babu,Computer Science,2024-2028,2,83,3.4,Mathematics,71,100
+STU1097,Thanseer Babu,Computer Science,2024-2028,2,83,3.4,Database Systems,80,100
+STU1097,Thanseer Babu,Computer Science,2024-2028,2,83,3.4,Computer Networks,73,100
+STU1097,Thanseer Babu,Computer Science,2024-2028,3,85,3.4,Programming,72,100
+STU1097,Thanseer Babu,Computer Science,2024-2028,3,85,3.4,Data Structures,68,100
+STU1097,Thanseer Babu,Computer Science,2024-2028,3,85,3.4,Mathematics,83,100
+STU1097,Thanseer Babu,Computer Science,2024-2028,3,85,3.4,Database Systems,80,100
+STU1097,Thanseer Babu,Computer Science,2024-2028,3,85,3.4,Computer Networks,61,100
+STU1097,Thanseer Babu,Computer Science,2024-2028,4,80,3.3,Programming,79,100
+STU1097,Thanseer Babu,Computer Science,2024-2028,4,80,3.3,Data Structures,74,100
+STU1097,Thanseer Babu,Computer Science,2024-2028,4,80,3.3,Mathematics,76,100
+STU1097,Thanseer Babu,Computer Science,2024-2028,4,80,3.3,Database Systems,72,100
+STU1097,Thanseer Babu,Computer Science,2024-2028,4,80,3.3,Computer Networks,66,100
+STU1098,Fathima Ali,Electronics,2024-2028,1,74,1.5,Circuit Theory,57,100
+STU1098,Fathima Ali,Electronics,2024-2028,1,74,1.5,Digital Electronics,60,100
+STU1098,Fathima Ali,Electronics,2024-2028,1,74,1.5,Mathematics,57,100
+STU1098,Fathima Ali,Electronics,2024-2028,1,74,1.5,Signals and Systems,58,100
+STU1098,Fathima Ali,Electronics,2024-2028,1,74,1.5,Microprocessors,64,100
+STU1098,Fathima Ali,Electronics,2024-2028,2,65,2.0,Circuit Theory,62,100
+STU1098,Fathima Ali,Electronics,2024-2028,2,65,2.0,Digital Electronics,69,100
+STU1098,Fathima Ali,Electronics,2024-2028,2,65,2.0,Mathematics,62,100
+STU1098,Fathima Ali,Electronics,2024-2028,2,65,2.0,Signals and Systems,44,100
+STU1098,Fathima Ali,Electronics,2024-2028,2,65,2.0,Microprocessors,54,100
+STU1098,Fathima Ali,Electronics,2024-2028,3,75,2.7,Circuit Theory,55,100
+STU1098,Fathima Ali,Electronics,2024-2028,3,75,2.7,Digital Electronics,63,100
+STU1098,Fathima Ali,Electronics,2024-2028,3,75,2.7,Mathematics,66,100
+STU1098,Fathima Ali,Electronics,2024-2028,3,75,2.7,Signals and Systems,69,100
+STU1098,Fathima Ali,Electronics,2024-2028,3,75,2.7,Microprocessors,56,100
+STU1098,Fathima Ali,Electronics,2024-2028,4,62,2.0,Circuit Theory,53,100
+STU1098,Fathima Ali,Electronics,2024-2028,4,62,2.0,Digital Electronics,49,100
+STU1098,Fathima Ali,Electronics,2024-2028,4,62,2.0,Mathematics,59,100
+STU1098,Fathima Ali,Electronics,2024-2028,4,62,2.0,Signals and Systems,57,100
+STU1098,Fathima Ali,Electronics,2024-2028,4,62,2.0,Microprocessors,39,100
+STU1099,Fathima Sharma,Mechanical,2024-2028,1,78,1.9,Thermodynamics,64,100
+STU1099,Fathima Sharma,Mechanical,2024-2028,1,78,1.9,Fluid Mechanics,62,100
+STU1099,Fathima Sharma,Mechanical,2024-2028,1,78,1.9,Mathematics,66,100
+STU1099,Fathima Sharma,Mechanical,2024-2028,1,78,1.9,Machine Design,65,100
+STU1099,Fathima Sharma,Mechanical,2024-2028,1,78,1.9,Manufacturing,62,100
+STU1099,Fathima Sharma,Mechanical,2024-2028,2,69,2.2,Thermodynamics,61,100
+STU1099,Fathima Sharma,Mechanical,2024-2028,2,69,2.2,Fluid Mechanics,56,100
+STU1099,Fathima Sharma,Mechanical,2024-2028,2,69,2.2,Mathematics,66,100
+STU1099,Fathima Sharma,Mechanical,2024-2028,2,69,2.2,Machine Design,59,100
+STU1099,Fathima Sharma,Mechanical,2024-2028,2,69,2.2,Manufacturing,53,100
+STU1099,Fathima Sharma,Mechanical,2024-2028,3,78,2.9,Thermodynamics,83,100
+STU1099,Fathima Sharma,Mechanical,2024-2028,3,78,2.9,Fluid Mechanics,62,100
+STU1099,Fathima Sharma,Mechanical,2024-2028,3,78,2.9,Mathematics,67,100
+STU1099,Fathima Sharma,Mechanical,2024-2028,3,78,2.9,Machine Design,71,100
+STU1099,Fathima Sharma,Mechanical,2024-2028,3,78,2.9,Manufacturing,67,100
+STU1099,Fathima Sharma,Mechanical,2024-2028,4,71,2.4,Thermodynamics,57,100
+STU1099,Fathima Sharma,Mechanical,2024-2028,4,71,2.4,Fluid Mechanics,51,100
+STU1099,Fathima Sharma,Mechanical,2024-2028,4,71,2.4,Mathematics,59,100
+STU1099,Fathima Sharma,Mechanical,2024-2028,4,71,2.4,Machine Design,57,100
+STU1099,Fathima Sharma,Mechanical,2024-2028,4,71,2.4,Manufacturing,70,100
+STU1100,Varun Ibrahim,Civil,2024-2028,1,78,2.0,Surveying,65,100
+STU1100,Varun Ibrahim,Civil,2024-2028,1,78,2.0,Structural Analysis,72,100
+STU1100,Varun Ibrahim,Civil,2024-2028,1,78,2.0,Mathematics,76,100
+STU1100,Varun Ibrahim,Civil,2024-2028,1,78,2.0,Concrete Technology,64,100
+STU1100,Varun Ibrahim,Civil,2024-2028,1,78,2.0,Geotechnics,78,100
+STU1100,Varun Ibrahim,Civil,2024-2028,2,73,3.1,Surveying,82,100
+STU1100,Varun Ibrahim,Civil,2024-2028,2,73,3.1,Structural Analysis,72,100
+STU1100,Varun Ibrahim,Civil,2024-2028,2,73,3.1,Mathematics,68,100
+STU1100,Varun Ibrahim,Civil,2024-2028,2,73,3.1,Concrete Technology,51,100
+STU1100,Varun Ibrahim,Civil,2024-2028,2,73,3.1,Geotechnics,52,100
+STU1100,Varun Ibrahim,Civil,2024-2028,3,80,2.6,Surveying,74,100
+STU1100,Varun Ibrahim,Civil,2024-2028,3,80,2.6,Structural Analysis,75,100
+STU1100,Varun Ibrahim,Civil,2024-2028,3,80,2.6,Mathematics,81,100
+STU1100,Varun Ibrahim,Civil,2024-2028,3,80,2.6,Concrete Technology,75,100
+STU1100,Varun Ibrahim,Civil,2024-2028,3,80,2.6,Geotechnics,84,100
+STU1100,Varun Ibrahim,Civil,2024-2028,4,81,3.6,Surveying,67,100
+STU1100,Varun Ibrahim,Civil,2024-2028,4,81,3.6,Structural Analysis,98,100
+STU1100,Varun Ibrahim,Civil,2024-2028,4,81,3.6,Mathematics,78,100
+STU1100,Varun Ibrahim,Civil,2024-2028,4,81,3.6,Concrete Technology,78,100
+STU1100,Varun Ibrahim,Civil,2024-2028,4,81,3.6,Geotechnics,79,100
+STU1101,Shifana Joseph,Computer Science,2024-2028,1,88,5.0,Programming,95,100
+STU1101,Shifana Joseph,Computer Science,2024-2028,1,88,5.0,Data Structures,98,100
+STU1101,Shifana Joseph,Computer Science,2024-2028,1,88,5.0,Mathematics,87,100
+STU1101,Shifana Joseph,Computer Science,2024-2028,1,88,5.0,Database Systems,100,100
+STU1101,Shifana Joseph,Computer Science,2024-2028,1,88,5.0,Computer Networks,92,100
+STU1101,Shifana Joseph,Computer Science,2024-2028,2,92,5.1,Programming,100,100
+STU1101,Shifana Joseph,Computer Science,2024-2028,2,92,5.1,Data Structures,96,100
+STU1101,Shifana Joseph,Computer Science,2024-2028,2,92,5.1,Mathematics,96,100
+STU1101,Shifana Joseph,Computer Science,2024-2028,2,92,5.1,Database Systems,93,100
+STU1101,Shifana Joseph,Computer Science,2024-2028,2,92,5.1,Computer Networks,100,100
+STU1101,Shifana Joseph,Computer Science,2024-2028,3,90,4.5,Programming,89,100
+STU1101,Shifana Joseph,Computer Science,2024-2028,3,90,4.5,Data Structures,93,100
+STU1101,Shifana Joseph,Computer Science,2024-2028,3,90,4.5,Mathematics,81,100
+STU1101,Shifana Joseph,Computer Science,2024-2028,3,90,4.5,Database Systems,99,100
+STU1101,Shifana Joseph,Computer Science,2024-2028,3,90,4.5,Computer Networks,100,100
+STU1101,Shifana Joseph,Computer Science,2024-2028,4,100,3.8,Programming,99,100
+STU1101,Shifana Joseph,Computer Science,2024-2028,4,100,3.8,Data Structures,90,100
+STU1101,Shifana Joseph,Computer Science,2024-2028,4,100,3.8,Mathematics,95,100
+STU1101,Shifana Joseph,Computer Science,2024-2028,4,100,3.8,Database Systems,100,100
+STU1101,Shifana Joseph,Computer Science,2024-2028,4,100,3.8,Computer Networks,98,100
+STU1102,Amina Menon,Electronics,2024-2028,1,55,1.5,Circuit Theory,54,100
+STU1102,Amina Menon,Electronics,2024-2028,1,55,1.5,Digital Electronics,48,100
+STU1102,Amina Menon,Electronics,2024-2028,1,55,1.5,Mathematics,22,100
+STU1102,Amina Menon,Electronics,2024-2028,1,55,1.5,Signals and Systems,49,100
+STU1102,Amina Menon,Electronics,2024-2028,1,55,1.5,Microprocessors,45,100
+STU1102,Amina Menon,Electronics,2024-2028,2,59,1.7,Circuit Theory,42,100
+STU1102,Amina Menon,Electronics,2024-2028,2,59,1.7,Digital Electronics,27,100
+STU1102,Amina Menon,Electronics,2024-2028,2,59,1.7,Mathematics,43,100
+STU1102,Amina Menon,Electronics,2024-2028,2,59,1.7,Signals and Systems,21,100
+STU1102,Amina Menon,Electronics,2024-2028,2,59,1.7,Microprocessors,36,100
+STU1102,Amina Menon,Electronics,2024-2028,3,66,1.4,Circuit Theory,54,100
+STU1102,Amina Menon,Electronics,2024-2028,3,66,1.4,Digital Electronics,55,100
+STU1102,Amina Menon,Electronics,2024-2028,3,66,1.4,Mathematics,58,100
+STU1102,Amina Menon,Electronics,2024-2028,3,66,1.4,Signals and Systems,54,100
+STU1102,Amina Menon,Electronics,2024-2028,3,66,1.4,Microprocessors,56,100
+STU1102,Amina Menon,Electronics,2024-2028,4,66,1.7,Circuit Theory,44,100
+STU1102,Amina Menon,Electronics,2024-2028,4,66,1.7,Digital Electronics,36,100
+STU1102,Amina Menon,Electronics,2024-2028,4,66,1.7,Mathematics,39,100
+STU1102,Amina Menon,Electronics,2024-2028,4,66,1.7,Signals and Systems,44,100
+STU1102,Amina Menon,Electronics,2024-2028,4,66,1.7,Microprocessors,48,100
+STU1103,Kavya George,Mechanical,2024-2028,1,93,4.3,Thermodynamics,87,100
+STU1103,Kavya George,Mechanical,2024-2028,1,93,4.3,Fluid Mechanics,93,100
+STU1103,Kavya George,Mechanical,2024-2028,1,93,4.3,Mathematics,87,100
+STU1103,Kavya George,Mechanical,2024-2028,1,93,4.3,Machine Design,99,100
+STU1103,Kavya George,Mechanical,2024-2028,1,93,4.3,Manufacturing,94,100
+STU1103,Kavya George,Mechanical,2024-2028,2,87,4.3,Thermodynamics,83,100
+STU1103,Kavya George,Mechanical,2024-2028,2,87,4.3,Fluid Mechanics,88,100
+STU1103,Kavya George,Mechanical,2024-2028,2,87,4.3,Mathematics,88,100
+STU1103,Kavya George,Mechanical,2024-2028,2,87,4.3,Machine Design,76,100
+STU1103,Kavya George,Mechanical,2024-2028,2,87,4.3,Manufacturing,88,100
+STU1103,Kavya George,Mechanical,2024-2028,3,83,4.0,Thermodynamics,85,100
+STU1103,Kavya George,Mechanical,2024-2028,3,83,4.0,Fluid Mechanics,80,100
+STU1103,Kavya George,Mechanical,2024-2028,3,83,4.0,Mathematics,86,100
+STU1103,Kavya George,Mechanical,2024-2028,3,83,4.0,Machine Design,82,100
+STU1103,Kavya George,Mechanical,2024-2028,3,83,4.0,Manufacturing,82,100
+STU1103,Kavya George,Mechanical,2024-2028,4,88,3.9,Thermodynamics,87,100
+STU1103,Kavya George,Mechanical,2024-2028,4,88,3.9,Fluid Mechanics,77,100
+STU1103,Kavya George,Mechanical,2024-2028,4,88,3.9,Mathematics,82,100
+STU1103,Kavya George,Mechanical,2024-2028,4,88,3.9,Machine Design,100,100
+STU1103,Kavya George,Mechanical,2024-2028,4,88,3.9,Manufacturing,93,100
+STU1104,Arjun Rahman,Civil,2024-2028,1,60,2.0,Surveying,38,100
+STU1104,Arjun Rahman,Civil,2024-2028,1,60,2.0,Structural Analysis,50,100
+STU1104,Arjun Rahman,Civil,2024-2028,1,60,2.0,Mathematics,42,100
+STU1104,Arjun Rahman,Civil,2024-2028,1,60,2.0,Concrete Technology,43,100
+STU1104,Arjun Rahman,Civil,2024-2028,1,60,2.0,Geotechnics,29,100
+STU1104,Arjun Rahman,Civil,2024-2028,2,65,2.2,Surveying,42,100
+STU1104,Arjun Rahman,Civil,2024-2028,2,65,2.2,Structural Analysis,50,100
+STU1104,Arjun Rahman,Civil,2024-2028,2,65,2.2,Mathematics,51,100
+STU1104,Arjun Rahman,Civil,2024-2028,2,65,2.2,Concrete Technology,47,100
+STU1104,Arjun Rahman,Civil,2024-2028,2,65,2.2,Geotechnics,52,100
+STU1104,Arjun Rahman,Civil,2024-2028,3,61,2.3,Surveying,53,100
+STU1104,Arjun Rahman,Civil,2024-2028,3,61,2.3,Structural Analysis,38,100
+STU1104,Arjun Rahman,Civil,2024-2028,3,61,2.3,Mathematics,49,100
+STU1104,Arjun Rahman,Civil,2024-2028,3,61,2.3,Concrete Technology,38,100
+STU1104,Arjun Rahman,Civil,2024-2028,3,61,2.3,Geotechnics,35,100
+STU1104,Arjun Rahman,Civil,2024-2028,4,60,2.2,Surveying,46,100
+STU1104,Arjun Rahman,Civil,2024-2028,4,60,2.2,Structural Analysis,46,100
+STU1104,Arjun Rahman,Civil,2024-2028,4,60,2.2,Mathematics,51,100
+STU1104,Arjun Rahman,Civil,2024-2028,4,60,2.2,Concrete Technology,53,100
+STU1104,Arjun Rahman,Civil,2024-2028,4,60,2.2,Geotechnics,42,100
+STU1105,Sreenath Thomas,Computer Science,2024-2028,1,78,3.1,Programming,87,100
+STU1105,Sreenath Thomas,Computer Science,2024-2028,1,78,3.1,Data Structures,89,100
+STU1105,Sreenath Thomas,Computer Science,2024-2028,1,78,3.1,Mathematics,81,100
+STU1105,Sreenath Thomas,Computer Science,2024-2028,1,78,3.1,Database Systems,66,100
+STU1105,Sreenath Thomas,Computer Science,2024-2028,1,78,3.1,Computer Networks,80,100
+STU1105,Sreenath Thomas,Computer Science,2024-2028,2,87,3.7,Programming,83,100
+STU1105,Sreenath Thomas,Computer Science,2024-2028,2,87,3.7,Data Structures,80,100
+STU1105,Sreenath Thomas,Computer Science,2024-2028,2,87,3.7,Mathematics,76,100
+STU1105,Sreenath Thomas,Computer Science,2024-2028,2,87,3.7,Database Systems,65,100
+STU1105,Sreenath Thomas,Computer Science,2024-2028,2,87,3.7,Computer Networks,83,100
+STU1105,Sreenath Thomas,Computer Science,2024-2028,3,85,2.5,Programming,81,100
+STU1105,Sreenath Thomas,Computer Science,2024-2028,3,85,2.5,Data Structures,93,100
+STU1105,Sreenath Thomas,Computer Science,2024-2028,3,85,2.5,Mathematics,77,100
+STU1105,Sreenath Thomas,Computer Science,2024-2028,3,85,2.5,Database Systems,76,100
+STU1105,Sreenath Thomas,Computer Science,2024-2028,3,85,2.5,Computer Networks,79,100
+STU1105,Sreenath Thomas,Computer Science,2024-2028,4,83,3.7,Programming,77,100
+STU1105,Sreenath Thomas,Computer Science,2024-2028,4,83,3.7,Data Structures,79,100
+STU1105,Sreenath Thomas,Computer Science,2024-2028,4,83,3.7,Mathematics,83,100
+STU1105,Sreenath Thomas,Computer Science,2024-2028,4,83,3.7,Database Systems,94,100
+STU1105,Sreenath Thomas,Computer Science,2024-2028,4,83,3.7,Computer Networks,98,100
+STU1106,Sreenath Mathew,Electronics,2024-2028,1,89,2.7,Circuit Theory,67,100
+STU1106,Sreenath Mathew,Electronics,2024-2028,1,89,2.7,Digital Electronics,58,100
+STU1106,Sreenath Mathew,Electronics,2024-2028,1,89,2.7,Mathematics,83,100
+STU1106,Sreenath Mathew,Electronics,2024-2028,1,89,2.7,Signals and Systems,79,100
+STU1106,Sreenath Mathew,Electronics,2024-2028,1,89,2.7,Microprocessors,91,100
+STU1106,Sreenath Mathew,Electronics,2024-2028,2,83,2.7,Circuit Theory,74,100
+STU1106,Sreenath Mathew,Electronics,2024-2028,2,83,2.7,Digital Electronics,54,100
+STU1106,Sreenath Mathew,Electronics,2024-2028,2,83,2.7,Mathematics,79,100
+STU1106,Sreenath Mathew,Electronics,2024-2028,2,83,2.7,Signals and Systems,74,100
+STU1106,Sreenath Mathew,Electronics,2024-2028,2,83,2.7,Microprocessors,67,100
+STU1106,Sreenath Mathew,Electronics,2024-2028,3,78,2.8,Circuit Theory,70,100
+STU1106,Sreenath Mathew,Electronics,2024-2028,3,78,2.8,Digital Electronics,59,100
+STU1106,Sreenath Mathew,Electronics,2024-2028,3,78,2.8,Mathematics,80,100
+STU1106,Sreenath Mathew,Electronics,2024-2028,3,78,2.8,Signals and Systems,83,100
+STU1106,Sreenath Mathew,Electronics,2024-2028,3,78,2.8,Microprocessors,68,100
+STU1106,Sreenath Mathew,Electronics,2024-2028,4,80,3.2,Circuit Theory,68,100
+STU1106,Sreenath Mathew,Electronics,2024-2028,4,80,3.2,Digital Electronics,66,100
+STU1106,Sreenath Mathew,Electronics,2024-2028,4,80,3.2,Mathematics,82,100
+STU1106,Sreenath Mathew,Electronics,2024-2028,4,80,3.2,Signals and Systems,73,100
+STU1106,Sreenath Mathew,Electronics,2024-2028,4,80,3.2,Microprocessors,90,100
+STU1107,Vismaya Kumar,Mechanical,2024-2028,1,79,2.8,Thermodynamics,69,100
+STU1107,Vismaya Kumar,Mechanical,2024-2028,1,79,2.8,Fluid Mechanics,73,100
+STU1107,Vismaya Kumar,Mechanical,2024-2028,1,79,2.8,Mathematics,58,100
+STU1107,Vismaya Kumar,Mechanical,2024-2028,1,79,2.8,Machine Design,62,100
+STU1107,Vismaya Kumar,Mechanical,2024-2028,1,79,2.8,Manufacturing,62,100
+STU1107,Vismaya Kumar,Mechanical,2024-2028,2,72,3.0,Thermodynamics,63,100
+STU1107,Vismaya Kumar,Mechanical,2024-2028,2,72,3.0,Fluid Mechanics,51,100
+STU1107,Vismaya Kumar,Mechanical,2024-2028,2,72,3.0,Mathematics,49,100
+STU1107,Vismaya Kumar,Mechanical,2024-2028,2,72,3.0,Machine Design,75,100
+STU1107,Vismaya Kumar,Mechanical,2024-2028,2,72,3.0,Manufacturing,61,100
+STU1107,Vismaya Kumar,Mechanical,2024-2028,3,74,1.8,Thermodynamics,73,100
+STU1107,Vismaya Kumar,Mechanical,2024-2028,3,74,1.8,Fluid Mechanics,59,100
+STU1107,Vismaya Kumar,Mechanical,2024-2028,3,74,1.8,Mathematics,73,100
+STU1107,Vismaya Kumar,Mechanical,2024-2028,3,74,1.8,Machine Design,62,100
+STU1107,Vismaya Kumar,Mechanical,2024-2028,3,74,1.8,Manufacturing,73,100
+STU1107,Vismaya Kumar,Mechanical,2024-2028,4,80,3.0,Thermodynamics,73,100
+STU1107,Vismaya Kumar,Mechanical,2024-2028,4,80,3.0,Fluid Mechanics,70,100
+STU1107,Vismaya Kumar,Mechanical,2024-2028,4,80,3.0,Mathematics,66,100
+STU1107,Vismaya Kumar,Mechanical,2024-2028,4,80,3.0,Machine Design,83,100
+STU1107,Vismaya Kumar,Mechanical,2024-2028,4,80,3.0,Manufacturing,60,100
+STU1108,Krishna Mohan,Civil,2024-2028,1,78,2.4,Surveying,68,100
+STU1108,Krishna Mohan,Civil,2024-2028,1,78,2.4,Structural Analysis,64,100
+STU1108,Krishna Mohan,Civil,2024-2028,1,78,2.4,Mathematics,52,100
+STU1108,Krishna Mohan,Civil,2024-2028,1,78,2.4,Concrete Technology,65,100
+STU1108,Krishna Mohan,Civil,2024-2028,1,78,2.4,Geotechnics,56,100
+STU1108,Krishna Mohan,Civil,2024-2028,2,73,2.5,Surveying,63,100
+STU1108,Krishna Mohan,Civil,2024-2028,2,73,2.5,Structural Analysis,63,100
+STU1108,Krishna Mohan,Civil,2024-2028,2,73,2.5,Mathematics,43,100
+STU1108,Krishna Mohan,Civil,2024-2028,2,73,2.5,Concrete Technology,48,100
+STU1108,Krishna Mohan,Civil,2024-2028,2,73,2.5,Geotechnics,75,100
+STU1108,Krishna Mohan,Civil,2024-2028,3,76,2.1,Surveying,62,100
+STU1108,Krishna Mohan,Civil,2024-2028,3,76,2.1,Structural Analysis,56,100
+STU1108,Krishna Mohan,Civil,2024-2028,3,76,2.1,Mathematics,65,100
+STU1108,Krishna Mohan,Civil,2024-2028,3,76,2.1,Concrete Technology,62,100
+STU1108,Krishna Mohan,Civil,2024-2028,3,76,2.1,Geotechnics,57,100
+STU1108,Krishna Mohan,Civil,2024-2028,4,75,1.8,Surveying,64,100
+STU1108,Krishna Mohan,Civil,2024-2028,4,75,1.8,Structural Analysis,81,100
+STU1108,Krishna Mohan,Civil,2024-2028,4,75,1.8,Mathematics,71,100
+STU1108,Krishna Mohan,Civil,2024-2028,4,75,1.8,Concrete Technology,66,100
+STU1108,Krishna Mohan,Civil,2024-2028,4,75,1.8,Geotechnics,60,100
+STU1109,Aadil Ali,Computer Science,2024-2028,1,61,0.5,Programming,25,100
+STU1109,Aadil Ali,Computer Science,2024-2028,1,61,0.5,Data Structures,29,100
+STU1109,Aadil Ali,Computer Science,2024-2028,1,61,0.5,Mathematics,22,100
+STU1109,Aadil Ali,Computer Science,2024-2028,1,61,0.5,Database Systems,20,100
+STU1109,Aadil Ali,Computer Science,2024-2028,1,61,0.5,Computer Networks,30,100
+STU1109,Aadil Ali,Computer Science,2024-2028,2,54,0.5,Programming,35,100
+STU1109,Aadil Ali,Computer Science,2024-2028,2,54,0.5,Data Structures,29,100
+STU1109,Aadil Ali,Computer Science,2024-2028,2,54,0.5,Mathematics,29,100
+STU1109,Aadil Ali,Computer Science,2024-2028,2,54,0.5,Database Systems,35,100
+STU1109,Aadil Ali,Computer Science,2024-2028,2,54,0.5,Computer Networks,29,100
+STU1109,Aadil Ali,Computer Science,2024-2028,3,60,1.3,Programming,33,100
+STU1109,Aadil Ali,Computer Science,2024-2028,3,60,1.3,Data Structures,35,100
+STU1109,Aadil Ali,Computer Science,2024-2028,3,60,1.3,Mathematics,28,100
+STU1109,Aadil Ali,Computer Science,2024-2028,3,60,1.3,Database Systems,28,100
+STU1109,Aadil Ali,Computer Science,2024-2028,3,60,1.3,Computer Networks,41,100
+STU1109,Aadil Ali,Computer Science,2024-2028,4,61,1.3,Programming,37,100
+STU1109,Aadil Ali,Computer Science,2024-2028,4,61,1.3,Data Structures,43,100
+STU1109,Aadil Ali,Computer Science,2024-2028,4,61,1.3,Mathematics,45,100
+STU1109,Aadil Ali,Computer Science,2024-2028,4,61,1.3,Database Systems,44,100
+STU1109,Aadil Ali,Computer Science,2024-2028,4,61,1.3,Computer Networks,36,100
+STU1110,Lakshmi Sharma,Electronics,2024-2028,1,92,3.9,Circuit Theory,90,100
+STU1110,Lakshmi Sharma,Electronics,2024-2028,1,92,3.9,Digital Electronics,82,100
+STU1110,Lakshmi Sharma,Electronics,2024-2028,1,92,3.9,Mathematics,94,100
+STU1110,Lakshmi Sharma,Electronics,2024-2028,1,92,3.9,Signals and Systems,100,100
+STU1110,Lakshmi Sharma,Electronics,2024-2028,1,92,3.9,Microprocessors,85,100
+STU1110,Lakshmi Sharma,Electronics,2024-2028,2,87,3.5,Circuit Theory,99,100
+STU1110,Lakshmi Sharma,Electronics,2024-2028,2,87,3.5,Digital Electronics,81,100
+STU1110,Lakshmi Sharma,Electronics,2024-2028,2,87,3.5,Mathematics,82,100
+STU1110,Lakshmi Sharma,Electronics,2024-2028,2,87,3.5,Signals and Systems,74,100
+STU1110,Lakshmi Sharma,Electronics,2024-2028,2,87,3.5,Microprocessors,80,100
+STU1110,Lakshmi Sharma,Electronics,2024-2028,3,87,4.8,Circuit Theory,79,100
+STU1110,Lakshmi Sharma,Electronics,2024-2028,3,87,4.8,Digital Electronics,69,100
+STU1110,Lakshmi Sharma,Electronics,2024-2028,3,87,4.8,Mathematics,90,100
+STU1110,Lakshmi Sharma,Electronics,2024-2028,3,87,4.8,Signals and Systems,77,100
+STU1110,Lakshmi Sharma,Electronics,2024-2028,3,87,4.8,Microprocessors,93,100
+STU1110,Lakshmi Sharma,Electronics,2024-2028,4,85,3.6,Circuit Theory,91,100
+STU1110,Lakshmi Sharma,Electronics,2024-2028,4,85,3.6,Digital Electronics,83,100
+STU1110,Lakshmi Sharma,Electronics,2024-2028,4,85,3.6,Mathematics,81,100
+STU1110,Lakshmi Sharma,Electronics,2024-2028,4,85,3.6,Signals and Systems,83,100
+STU1110,Lakshmi Sharma,Electronics,2024-2028,4,85,3.6,Microprocessors,75,100
+STU1111,Anand Salim,Mechanical,2024-2028,1,74,2.9,Thermodynamics,67,100
+STU1111,Anand Salim,Mechanical,2024-2028,1,74,2.9,Fluid Mechanics,69,100
+STU1111,Anand Salim,Mechanical,2024-2028,1,74,2.9,Mathematics,64,100
+STU1111,Anand Salim,Mechanical,2024-2028,1,74,2.9,Machine Design,74,100
+STU1111,Anand Salim,Mechanical,2024-2028,1,74,2.9,Manufacturing,72,100
+STU1111,Anand Salim,Mechanical,2024-2028,2,84,3.4,Thermodynamics,70,100
+STU1111,Anand Salim,Mechanical,2024-2028,2,84,3.4,Fluid Mechanics,63,100
+STU1111,Anand Salim,Mechanical,2024-2028,2,84,3.4,Mathematics,77,100
+STU1111,Anand Salim,Mechanical,2024-2028,2,84,3.4,Machine Design,78,100
+STU1111,Anand Salim,Mechanical,2024-2028,2,84,3.4,Manufacturing,83,100
+STU1111,Anand Salim,Mechanical,2024-2028,3,74,3.0,Thermodynamics,67,100
+STU1111,Anand Salim,Mechanical,2024-2028,3,74,3.0,Fluid Mechanics,52,100
+STU1111,Anand Salim,Mechanical,2024-2028,3,74,3.0,Mathematics,70,100
+STU1111,Anand Salim,Mechanical,2024-2028,3,74,3.0,Machine Design,53,100
+STU1111,Anand Salim,Mechanical,2024-2028,3,74,3.0,Manufacturing,60,100
+STU1111,Anand Salim,Mechanical,2024-2028,4,90,2.6,Thermodynamics,74,100
+STU1111,Anand Salim,Mechanical,2024-2028,4,90,2.6,Fluid Mechanics,77,100
+STU1111,Anand Salim,Mechanical,2024-2028,4,90,2.6,Mathematics,91,100
+STU1111,Anand Salim,Mechanical,2024-2028,4,90,2.6,Machine Design,73,100
+STU1111,Anand Salim,Mechanical,2024-2028,4,90,2.6,Manufacturing,73,100
+STU1112,Amina Das,Civil,2024-2028,1,92,3.0,Surveying,86,100
+STU1112,Amina Das,Civil,2024-2028,1,92,3.0,Structural Analysis,74,100
+STU1112,Amina Das,Civil,2024-2028,1,92,3.0,Mathematics,78,100
+STU1112,Amina Das,Civil,2024-2028,1,92,3.0,Concrete Technology,94,100
+STU1112,Amina Das,Civil,2024-2028,1,92,3.0,Geotechnics,87,100
+STU1112,Amina Das,Civil,2024-2028,2,86,3.7,Surveying,90,100
+STU1112,Amina Das,Civil,2024-2028,2,86,3.7,Structural Analysis,95,100
+STU1112,Amina Das,Civil,2024-2028,2,86,3.7,Mathematics,66,100
+STU1112,Amina Das,Civil,2024-2028,2,86,3.7,Concrete Technology,81,100
+STU1112,Amina Das,Civil,2024-2028,2,86,3.7,Geotechnics,89,100
+STU1112,Amina Das,Civil,2024-2028,3,91,4.0,Surveying,87,100
+STU1112,Amina Das,Civil,2024-2028,3,91,4.0,Structural Analysis,85,100
+STU1112,Amina Das,Civil,2024-2028,3,91,4.0,Mathematics,87,100
+STU1112,Amina Das,Civil,2024-2028,3,91,4.0,Concrete Technology,98,100
+STU1112,Amina Das,Civil,2024-2028,3,91,4.0,Geotechnics,83,100
+STU1112,Amina Das,Civil,2024-2028,4,91,4.6,Surveying,88,100
+STU1112,Amina Das,Civil,2024-2028,4,91,4.6,Structural Analysis,98,100
+STU1112,Amina Das,Civil,2024-2028,4,91,4.6,Mathematics,100,100
+STU1112,Amina Das,Civil,2024-2028,4,91,4.6,Concrete Technology,90,100
+STU1112,Amina Das,Civil,2024-2028,4,91,4.6,Geotechnics,88,100
+STU1113,Rahul Menon,Computer Science,2024-2028,1,76,2.4,Programming,61,100
+STU1113,Rahul Menon,Computer Science,2024-2028,1,76,2.4,Data Structures,51,100
+STU1113,Rahul Menon,Computer Science,2024-2028,1,76,2.4,Mathematics,52,100
+STU1113,Rahul Menon,Computer Science,2024-2028,1,76,2.4,Database Systems,77,100
+STU1113,Rahul Menon,Computer Science,2024-2028,1,76,2.4,Computer Networks,58,100
+STU1113,Rahul Menon,Computer Science,2024-2028,2,77,2.3,Programming,63,100
+STU1113,Rahul Menon,Computer Science,2024-2028,2,77,2.3,Data Structures,57,100
+STU1113,Rahul Menon,Computer Science,2024-2028,2,77,2.3,Mathematics,55,100
+STU1113,Rahul Menon,Computer Science,2024-2028,2,77,2.3,Database Systems,57,100
+STU1113,Rahul Menon,Computer Science,2024-2028,2,77,2.3,Computer Networks,47,100
+STU1113,Rahul Menon,Computer Science,2024-2028,3,74,3.2,Programming,62,100
+STU1113,Rahul Menon,Computer Science,2024-2028,3,74,3.2,Data Structures,42,100
+STU1113,Rahul Menon,Computer Science,2024-2028,3,74,3.2,Mathematics,60,100
+STU1113,Rahul Menon,Computer Science,2024-2028,3,74,3.2,Database Systems,83,100
+STU1113,Rahul Menon,Computer Science,2024-2028,3,74,3.2,Computer Networks,68,100
+STU1113,Rahul Menon,Computer Science,2024-2028,4,74,1.8,Programming,46,100
+STU1113,Rahul Menon,Computer Science,2024-2028,4,74,1.8,Data Structures,54,100
+STU1113,Rahul Menon,Computer Science,2024-2028,4,74,1.8,Mathematics,57,100
+STU1113,Rahul Menon,Computer Science,2024-2028,4,74,1.8,Database Systems,42,100
+STU1113,Rahul Menon,Computer Science,2024-2028,4,74,1.8,Computer Networks,47,100
+STU1114,Thanseer Ibrahim,Electronics,2024-2028,1,77,1.9,Circuit Theory,69,100
+STU1114,Thanseer Ibrahim,Electronics,2024-2028,1,77,1.9,Digital Electronics,53,100
+STU1114,Thanseer Ibrahim,Electronics,2024-2028,1,77,1.9,Mathematics,76,100
+STU1114,Thanseer Ibrahim,Electronics,2024-2028,1,77,1.9,Signals and Systems,49,100
+STU1114,Thanseer Ibrahim,Electronics,2024-2028,1,77,1.9,Microprocessors,54,100
+STU1114,Thanseer Ibrahim,Electronics,2024-2028,2,84,2.8,Circuit Theory,72,100
+STU1114,Thanseer Ibrahim,Electronics,2024-2028,2,84,2.8,Digital Electronics,68,100
+STU1114,Thanseer Ibrahim,Electronics,2024-2028,2,84,2.8,Mathematics,60,100
+STU1114,Thanseer Ibrahim,Electronics,2024-2028,2,84,2.8,Signals and Systems,64,100
+STU1114,Thanseer Ibrahim,Electronics,2024-2028,2,84,2.8,Microprocessors,58,100
+STU1114,Thanseer Ibrahim,Electronics,2024-2028,3,75,1.8,Circuit Theory,62,100
+STU1114,Thanseer Ibrahim,Electronics,2024-2028,3,75,1.8,Digital Electronics,49,100
+STU1114,Thanseer Ibrahim,Electronics,2024-2028,3,75,1.8,Mathematics,62,100
+STU1114,Thanseer Ibrahim,Electronics,2024-2028,3,75,1.8,Signals and Systems,56,100
+STU1114,Thanseer Ibrahim,Electronics,2024-2028,3,75,1.8,Microprocessors,71,100
+STU1114,Thanseer Ibrahim,Electronics,2024-2028,4,82,2.3,Circuit Theory,67,100
+STU1114,Thanseer Ibrahim,Electronics,2024-2028,4,82,2.3,Digital Electronics,59,100
+STU1114,Thanseer Ibrahim,Electronics,2024-2028,4,82,2.3,Mathematics,63,100
+STU1114,Thanseer Ibrahim,Electronics,2024-2028,4,82,2.3,Signals and Systems,65,100
+STU1114,Thanseer Ibrahim,Electronics,2024-2028,4,82,2.3,Microprocessors,61,100
+STU1115,Varun Nair,Mechanical,2024-2028,1,53,0.8,Thermodynamics,43,100
+STU1115,Varun Nair,Mechanical,2024-2028,1,53,0.8,Fluid Mechanics,26,100
+STU1115,Varun Nair,Mechanical,2024-2028,1,53,0.8,Mathematics,28,100
+STU1115,Varun Nair,Mechanical,2024-2028,1,53,0.8,Machine Design,53,100
+STU1115,Varun Nair,Mechanical,2024-2028,1,53,0.8,Manufacturing,33,100
+STU1115,Varun Nair,Mechanical,2024-2028,2,68,2.0,Thermodynamics,36,100
+STU1115,Varun Nair,Mechanical,2024-2028,2,68,2.0,Fluid Mechanics,46,100
+STU1115,Varun Nair,Mechanical,2024-2028,2,68,2.0,Mathematics,35,100
+STU1115,Varun Nair,Mechanical,2024-2028,2,68,2.0,Machine Design,68,100
+STU1115,Varun Nair,Mechanical,2024-2028,2,68,2.0,Manufacturing,35,100
+STU1115,Varun Nair,Mechanical,2024-2028,3,59,0.7,Thermodynamics,51,100
+STU1115,Varun Nair,Mechanical,2024-2028,3,59,0.7,Fluid Mechanics,60,100
+STU1115,Varun Nair,Mechanical,2024-2028,3,59,0.7,Mathematics,37,100
+STU1115,Varun Nair,Mechanical,2024-2028,3,59,0.7,Machine Design,30,100
+STU1115,Varun Nair,Mechanical,2024-2028,3,59,0.7,Manufacturing,22,100
+STU1115,Varun Nair,Mechanical,2024-2028,4,63,1.3,Thermodynamics,46,100
+STU1115,Varun Nair,Mechanical,2024-2028,4,63,1.3,Fluid Mechanics,48,100
+STU1115,Varun Nair,Mechanical,2024-2028,4,63,1.3,Mathematics,47,100
+STU1115,Varun Nair,Mechanical,2024-2028,4,63,1.3,Machine Design,42,100
+STU1115,Varun Nair,Mechanical,2024-2028,4,63,1.3,Manufacturing,36,100
+STU1116,Athira Rahman,Civil,2024-2028,1,86,3.5,Surveying,65,100
+STU1116,Athira Rahman,Civil,2024-2028,1,86,3.5,Structural Analysis,65,100
+STU1116,Athira Rahman,Civil,2024-2028,1,86,3.5,Mathematics,71,100
+STU1116,Athira Rahman,Civil,2024-2028,1,86,3.5,Concrete Technology,68,100
+STU1116,Athira Rahman,Civil,2024-2028,1,86,3.5,Geotechnics,83,100
+STU1116,Athira Rahman,Civil,2024-2028,2,87,3.4,Surveying,79,100
+STU1116,Athira Rahman,Civil,2024-2028,2,87,3.4,Structural Analysis,87,100
+STU1116,Athira Rahman,Civil,2024-2028,2,87,3.4,Mathematics,81,100
+STU1116,Athira Rahman,Civil,2024-2028,2,87,3.4,Concrete Technology,78,100
+STU1116,Athira Rahman,Civil,2024-2028,2,87,3.4,Geotechnics,89,100
+STU1116,Athira Rahman,Civil,2024-2028,3,81,2.7,Surveying,81,100
+STU1116,Athira Rahman,Civil,2024-2028,3,81,2.7,Structural Analysis,85,100
+STU1116,Athira Rahman,Civil,2024-2028,3,81,2.7,Mathematics,75,100
+STU1116,Athira Rahman,Civil,2024-2028,3,81,2.7,Concrete Technology,85,100
+STU1116,Athira Rahman,Civil,2024-2028,3,81,2.7,Geotechnics,59,100
+STU1116,Athira Rahman,Civil,2024-2028,4,82,2.8,Surveying,94,100
+STU1116,Athira Rahman,Civil,2024-2028,4,82,2.8,Structural Analysis,74,100
+STU1116,Athira Rahman,Civil,2024-2028,4,82,2.8,Mathematics,71,100
+STU1116,Athira Rahman,Civil,2024-2028,4,82,2.8,Concrete Technology,75,100
+STU1116,Athira Rahman,Civil,2024-2028,4,82,2.8,Geotechnics,59,100
+STU1117,Athira Mathew,Computer Science,2024-2028,1,69,1.8,Programming,67,100
+STU1117,Athira Mathew,Computer Science,2024-2028,1,69,1.8,Data Structures,67,100
+STU1117,Athira Mathew,Computer Science,2024-2028,1,69,1.8,Mathematics,60,100
+STU1117,Athira Mathew,Computer Science,2024-2028,1,69,1.8,Database Systems,52,100
+STU1117,Athira Mathew,Computer Science,2024-2028,1,69,1.8,Computer Networks,54,100
+STU1117,Athira Mathew,Computer Science,2024-2028,2,63,1.3,Programming,44,100
+STU1117,Athira Mathew,Computer Science,2024-2028,2,63,1.3,Data Structures,40,100
+STU1117,Athira Mathew,Computer Science,2024-2028,2,63,1.3,Mathematics,36,100
+STU1117,Athira Mathew,Computer Science,2024-2028,2,63,1.3,Database Systems,50,100
+STU1117,Athira Mathew,Computer Science,2024-2028,2,63,1.3,Computer Networks,50,100
+STU1117,Athira Mathew,Computer Science,2024-2028,3,70,2.5,Programming,62,100
+STU1117,Athira Mathew,Computer Science,2024-2028,3,70,2.5,Data Structures,58,100
+STU1117,Athira Mathew,Computer Science,2024-2028,3,70,2.5,Mathematics,66,100
+STU1117,Athira Mathew,Computer Science,2024-2028,3,70,2.5,Database Systems,66,100
+STU1117,Athira Mathew,Computer Science,2024-2028,3,70,2.5,Computer Networks,62,100
+STU1117,Athira Mathew,Computer Science,2024-2028,4,67,1.3,Programming,45,100
+STU1117,Athira Mathew,Computer Science,2024-2028,4,67,1.3,Data Structures,46,100
+STU1117,Athira Mathew,Computer Science,2024-2028,4,67,1.3,Mathematics,42,100
+STU1117,Athira Mathew,Computer Science,2024-2028,4,67,1.3,Database Systems,55,100
+STU1117,Athira Mathew,Computer Science,2024-2028,4,67,1.3,Computer Networks,61,100
+STU1118,Rinsha Pillai,Electronics,2024-2028,1,64,1.8,Circuit Theory,46,100
+STU1118,Rinsha Pillai,Electronics,2024-2028,1,64,1.8,Digital Electronics,56,100
+STU1118,Rinsha Pillai,Electronics,2024-2028,1,64,1.8,Mathematics,46,100
+STU1118,Rinsha Pillai,Electronics,2024-2028,1,64,1.8,Signals and Systems,59,100
+STU1118,Rinsha Pillai,Electronics,2024-2028,1,64,1.8,Microprocessors,49,100
+STU1118,Rinsha Pillai,Electronics,2024-2028,2,61,1.9,Circuit Theory,55,100
+STU1118,Rinsha Pillai,Electronics,2024-2028,2,61,1.9,Digital Electronics,50,100
+STU1118,Rinsha Pillai,Electronics,2024-2028,2,61,1.9,Mathematics,66,100
+STU1118,Rinsha Pillai,Electronics,2024-2028,2,61,1.9,Signals and Systems,59,100
+STU1118,Rinsha Pillai,Electronics,2024-2028,2,61,1.9,Microprocessors,45,100
+STU1118,Rinsha Pillai,Electronics,2024-2028,3,69,1.4,Circuit Theory,59,100
+STU1118,Rinsha Pillai,Electronics,2024-2028,3,69,1.4,Digital Electronics,52,100
+STU1118,Rinsha Pillai,Electronics,2024-2028,3,69,1.4,Mathematics,51,100
+STU1118,Rinsha Pillai,Electronics,2024-2028,3,69,1.4,Signals and Systems,55,100
+STU1118,Rinsha Pillai,Electronics,2024-2028,3,69,1.4,Microprocessors,63,100
+STU1118,Rinsha Pillai,Electronics,2024-2028,4,68,2.7,Circuit Theory,60,100
+STU1118,Rinsha Pillai,Electronics,2024-2028,4,68,2.7,Digital Electronics,50,100
+STU1118,Rinsha Pillai,Electronics,2024-2028,4,68,2.7,Mathematics,53,100
+STU1118,Rinsha Pillai,Electronics,2024-2028,4,68,2.7,Signals and Systems,54,100
+STU1118,Rinsha Pillai,Electronics,2024-2028,4,68,2.7,Microprocessors,56,100
+STU1119,Sana Pillai,Mechanical,2024-2028,1,57,0.7,Thermodynamics,32,100
+STU1119,Sana Pillai,Mechanical,2024-2028,1,57,0.7,Fluid Mechanics,42,100
+STU1119,Sana Pillai,Mechanical,2024-2028,1,57,0.7,Mathematics,35,100
+STU1119,Sana Pillai,Mechanical,2024-2028,1,57,0.7,Machine Design,38,100
+STU1119,Sana Pillai,Mechanical,2024-2028,1,57,0.7,Manufacturing,27,100
+STU1119,Sana Pillai,Mechanical,2024-2028,2,65,1.7,Thermodynamics,37,100
+STU1119,Sana Pillai,Mechanical,2024-2028,2,65,1.7,Fluid Mechanics,44,100
+STU1119,Sana Pillai,Mechanical,2024-2028,2,65,1.7,Mathematics,60,100
+STU1119,Sana Pillai,Mechanical,2024-2028,2,65,1.7,Machine Design,43,100
+STU1119,Sana Pillai,Mechanical,2024-2028,2,65,1.7,Manufacturing,37,100
+STU1119,Sana Pillai,Mechanical,2024-2028,3,64,1.4,Thermodynamics,43,100
+STU1119,Sana Pillai,Mechanical,2024-2028,3,64,1.4,Fluid Mechanics,32,100
+STU1119,Sana Pillai,Mechanical,2024-2028,3,64,1.4,Mathematics,35,100
+STU1119,Sana Pillai,Mechanical,2024-2028,3,64,1.4,Machine Design,42,100
+STU1119,Sana Pillai,Mechanical,2024-2028,3,64,1.4,Manufacturing,42,100
+STU1119,Sana Pillai,Mechanical,2024-2028,4,62,1.4,Thermodynamics,49,100
+STU1119,Sana Pillai,Mechanical,2024-2028,4,62,1.4,Fluid Mechanics,41,100
+STU1119,Sana Pillai,Mechanical,2024-2028,4,62,1.4,Mathematics,45,100
+STU1119,Sana Pillai,Mechanical,2024-2028,4,62,1.4,Machine Design,37,100
+STU1119,Sana Pillai,Mechanical,2024-2028,4,62,1.4,Manufacturing,46,100
+STU1120,Athira Kumar,Civil,2024-2028,1,84,3.4,Surveying,74,100
+STU1120,Athira Kumar,Civil,2024-2028,1,84,3.4,Structural Analysis,77,100
+STU1120,Athira Kumar,Civil,2024-2028,1,84,3.4,Mathematics,84,100
+STU1120,Athira Kumar,Civil,2024-2028,1,84,3.4,Concrete Technology,70,100
+STU1120,Athira Kumar,Civil,2024-2028,1,84,3.4,Geotechnics,70,100
+STU1120,Athira Kumar,Civil,2024-2028,2,81,2.5,Surveying,70,100
+STU1120,Athira Kumar,Civil,2024-2028,2,81,2.5,Structural Analysis,70,100
+STU1120,Athira Kumar,Civil,2024-2028,2,81,2.5,Mathematics,53,100
+STU1120,Athira Kumar,Civil,2024-2028,2,81,2.5,Concrete Technology,69,100
+STU1120,Athira Kumar,Civil,2024-2028,2,81,2.5,Geotechnics,70,100
+STU1120,Athira Kumar,Civil,2024-2028,3,85,2.3,Surveying,64,100
+STU1120,Athira Kumar,Civil,2024-2028,3,85,2.3,Structural Analysis,49,100
+STU1120,Athira Kumar,Civil,2024-2028,3,85,2.3,Mathematics,66,100
+STU1120,Athira Kumar,Civil,2024-2028,3,85,2.3,Concrete Technology,67,100
+STU1120,Athira Kumar,Civil,2024-2028,3,85,2.3,Geotechnics,66,100
+STU1120,Athira Kumar,Civil,2024-2028,4,85,3.2,Surveying,73,100
+STU1120,Athira Kumar,Civil,2024-2028,4,85,3.2,Structural Analysis,84,100
+STU1120,Athira Kumar,Civil,2024-2028,4,85,3.2,Mathematics,76,100
+STU1120,Athira Kumar,Civil,2024-2028,4,85,3.2,Concrete Technology,69,100
+STU1120,Athira Kumar,Civil,2024-2028,4,85,3.2,Geotechnics,62,100

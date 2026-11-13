@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.log
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Secrets and local environment
+.env
+.streamlit/secrets.toml
+
+# Local database (can contain private student records)
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+
+# Trained model artifacts
+models/*.joblib
+models/*.pkl
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
