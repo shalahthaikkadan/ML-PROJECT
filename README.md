@@ -1,6 +1,6 @@
 # Student Academic Performance Analysis System
 
-A beginner-friendly Streamlit + SQLite + Scikit-learn project for exploring student academic records.
+A beginner-friendly Streamlit + SQLite + Scikit-learn project for exploring student academic records..
 
 ## Features
 
