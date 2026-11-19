@@ -416,7 +416,7 @@ elif page == "ML Analysis":
             probability = predict_pass_probability(
                 logistic_artifact, attendance, study_hours,
                 previous_value, semester
-            )
+            )                                
             st.metric("Estimated pass probability", f"{probability:.1%}")
             st.caption(
                 "Model estimate only. It is not a guarantee or an official result. "
